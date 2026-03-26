@@ -4,7 +4,7 @@ from datetime import datetime
 import hashlib
 
 def generate_ics():
-    # On teste l'URL globale des réunions (plus de chances d'avoir du contenu)
+    #teste l'URL 
     url = "https://www2.assemblee-nationale.fr/agendas/les-agendas"
     
     try:
@@ -18,7 +18,7 @@ def generate_ics():
     calendar = Calendar()
     calendar.creator = "Mon Agenda Assemblée"
 
-    # On essaie de trouver les événements dans différentes clés possibles du JSON
+    # JSON
     reunions = data.get('reunions', [])
     if not reunions:
         # Si 'reunions' est vide, on cherche dans le format 'getSeancesPubliquesResponse'
@@ -26,7 +26,7 @@ def generate_ics():
 
     if not reunions:
         print("Aucun événement trouvé dans l'API actuellement.")
-        # On ajoute un événement informatif pour prouver que le script marche
+        # événement informatif pour prouver que le script marche
         e = Event()
         e.name = "⚠️ Aucune séance publiée (MAJ: " + datetime.now().strftime("%H:%M") + ")"
         e.begin = datetime.now()
