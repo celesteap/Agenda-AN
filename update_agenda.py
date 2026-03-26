@@ -18,8 +18,6 @@ def generate_ics():
     parsable = response.text.replace("\r", "") # retours chariots supprimés
     parsable = parsable.replace("\\n", "") # retours de ligne supprimés
     parsable = parsable.replace("&#039;", "'") # restauration des apostrophes
-    parsable = parsable.replace("\\,", ",") # nettoyage des backslash
-    print(parsable)
 
     # Création du calendrier depuis le fichier ICS
     calendar = Calendar(parsable)
