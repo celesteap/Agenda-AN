@@ -5,7 +5,7 @@ import hashlib
 
 def generate_ics():
     # Source officielle Open Data de l'Assemblée Nationale
-    url = "https://data.assemblee-nationale.fr/backend/api/v1/agenda/seances-publiques"
+    url = "https://www2.assemblee-nationale.fr/agendas/les-agendas"
     
     try:
         response = requests.get(url, timeout=20)
