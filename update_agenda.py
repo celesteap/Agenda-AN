@@ -5,7 +5,7 @@ import hashlib
 
 def generate_ics():
     # On teste l'URL globale des réunions (plus de chances d'avoir du contenu)
-    url = "https://data.assemblee-nationale.fr/backend/api/v1/agenda/reunions"
+    url = "https://www2.assemblee-nationale.fr/agendas/les-agendas"
     
     try:
         response = requests.get(url, timeout=30)
