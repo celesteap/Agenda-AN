@@ -29,11 +29,11 @@ def generate_ics():
             if item.get('dateFin'):
                 e.end = item.get('dateFin')
             
-            # On ajoute des détails dans la description
+            # détails dans la description
             e.description = f"Type : {item.get('type')}\nLieu : {item.get('lieu')}"
             e.location = item.get('lieu', 'Palais Bourbon')
             
-            # UID unique pour éviter les doublons dans Google Calendar
+            # UID unique pour éviter les doublons dans le Calendar
             uid_seed = f"an-{item.get('id')}"
             e.uid = hashlib.md5(uid_seed.encode()).hexdigest() + "@assemblee-nationale.fr"
 
