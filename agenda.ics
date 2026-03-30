@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:- Équilibre des énergies (EDEN) :M. Gilles Rogers-Boutbien\, secrétaire généralM. Jean-Pierre Hauet\, président du Comité scientifiqueM. Olivier Lagrange\, responsable des affaires législatives et réglementaires
 DTEND:20260330T090000Z
 LOCATION:Visioconférence sans salle
@@ -14,17 +14,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459594
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:Discussion de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, visant à permettre le remboursement des frais d’expertise comptable aux candidatsDiscussion de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté
-DTEND:20260330T090000Z
+DTEND:20260330T110000Z
 LOCATION:Assemblée nationale
 DTSTART:20260330T080000Z
-SUMMARY:Première séance publique (e)
+SUMMARY:Première séance publique (184e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30482
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:- table ronde de la création cinématographique réunissant : Mme Eva Husson\, cinéaste et membre du bureau\, M. Jérôme Diamant-Berger\, cinéaste et membre du bureau de la Société civile des auteurs\, réalisateurs et producteurs (ARP) \; Mme Marine Franssen et M. David Oelhoffen\, cinéastes et membres du conseil d’administration de la Société des réalisatrices et réalisateurs de films (SRF) \; Mmes Ghislaine Pujol\, présidente et Camille Bouvelot\, déléguée générale de la Guilde française des scénaristes \; Mme Marie Eynard et M. Alain Moreau\, scénaristes et membres du pôle IA du Syndicat des scénaristes \; Mme Sabine Le Stum\, déléguée générale et M. Laurent Claude Hébert\, scénariste\, élu au conseil d’administration et référent du groupe IA des Scénaristes de cinéma associés (SCA).
 DTEND:20260330T130000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459558
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:Examen de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques (n° 2491) (M. Thomas Lam\, rapporteur) \;Examen de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (n° 1800) (M. Jean-René Cazeneuve\, rapporteur).
 DTEND:20260330T140000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459464
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:éventuellement\, suite de l'ordre du jour de l'après-midi.
 DTEND:20260330T200000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -54,9 +54,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459526
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements :à la proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté (n° 2577) (MM. Pouria Amirshahi et Vincent Caure\, rapporteurs) \;à la proposition de loi visant à permettre le remboursement des honoraires d'expert-comptable aux candidats (n° 2576) (M. Sébastien Huyghe\, rapporteur).
-DTEND:20260330T084500Z
+DTEND:20260330T075500Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
 DTSTART:20260330T074500Z
 SUMMARY:Réunion de la commission des lois
@@ -64,18 +64,18 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459270
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
 DESCRIPTION:Suite de la discussion de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de libertéSuite de la discussion du projet de loi\, adopté par le Sénat\, relatif à la lutte contre les fraudes sociales et fiscales
 DTEND:20260330T140000Z
 LOCATION:Assemblée nationale
 DTSTART:20260330T130000Z
-SUMMARY:Deuxième séance publique (e)
+SUMMARY:Deuxième séance publique (185e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30418
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté Suite de la discussion du projet de loi\, adopté par le Sénat\, relatif à la lutte contre les fraudes sociales et fiscales
+DTSTAMP:20260330T135719Z
+DESCRIPTION:Suite de la discussion du projet de loi\, adopté par le Sénat\, relatif à la lutte contre les fraudes sociales et fiscales
 DTEND:20260330T203000Z
 LOCATION:Assemblée nationale
 DTSTART:20260330T193000Z
@@ -84,7 +84,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30419
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T042540Z
+DTSTAMP:20260330T135719Z
+DESCRIPTION:Discussion
+DTEND:20260330T080000Z
+LOCATION:Sénat
+DTSTART:20260330T070000Z
+SUMMARY:Séance publique (1e)
+TRANSP:TRANSPARENT
+UID:OMC_RUSNR5L17S2026IDS30529
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T135719Z
 DESCRIPTION:Table ronde en présence de - Mme Agnès Bourgeais\, maire de Rezé (44) \;- M. Jacques Moignard\, maire de Montech (82) \; - M. Joël Marion\, maire de Compans (77).
 DTEND:20260330T143000Z
 LOCATION:salle 4060
