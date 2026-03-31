@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Table ronde :- familles rurales :-- mme Guylaine Brohan\, présidente.- unaf :-- mme Guillemette Leneveu\, directrice générale.-- mme Marilia Mendes\, coordonnatrice au pôle habitat et cadre de vie\, environnement\, développement durable.-- m. Yvon Serieyx\, chargé de mission au pôle économie\, consommation et emploi.
 DTEND:20260331T130000Z
 LOCATION:Salle 1 – 95\, rue de l’Université
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459563
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Insee :- m. Pierre Biscourp\, chef du département des synthèses sectorielles.- m. Martin Chevalier\, chef de la division des statistiques et analyses urbaines.
 DTEND:20260331T143000Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459565
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Déjeuner avec SE Mme Leena Al-Hadid\, ambassadrice de Jordanie en France
 DTEND:20260331T120000Z
 LOCATION:Petit Hôtel
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459506
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Édouard Durand\, premier vice-président chargé des fonctions de juge des enfants au Tribunal judiciaire de Pontoise\, président du tribunal des enfants.
 DTEND:20260331T153000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459507
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:- table ronde consacrée au secteur du jeu vidéo réunissant : M. Lévan Sardjevéladzé\, président et Mme Vanessa Kaplan\, déléguée générale du Syndicat national du jeu vidéo (SNJV) \; M. James Rebours\, président et M. Benjamin Niang\, responsable affaires publiques du Syndicat des éditeurs de logiciels de loisirs (SELL).
 DTEND:20260331T080000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459559
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Questions au GouvernementDiscussion du projet de loi\, adopté par le Sénat\, autorisant l’approbation de la Convention entre le Gouvernement de la République française et le Gouvernement de la République italienne relative à l’entretien courant et à l’exploitation de la section située en territoire français de la ligne ferroviaire Coni-Breil-VintimilleSuite de la discussion du projet de loi\, adopté par le Sénat\, relatif à la lutte contre les fraudes sociales et fiscales
 DTEND:20260331T140000Z
 LOCATION:Assemblée nationale
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30420
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Suite de la discussion du projet de loi\, adopté par le Sénat\, relatif à la lutte contre les fraudes sociales et fiscales
 DTEND:20260331T203000Z
 LOCATION:Assemblée nationale
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30421
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Ministère de l’Europe et des affaires étrangères – M. Martin Briens\, secrétaire général\, Mme Emmanuelle Lachaussee\, directrice générale adjointe des affaires politiques et de sécurité\, M. Alexandre Morois\, directeur des affaires financières\, Mme Laurence Bernardi\, sous-directrice de la stratégie et de la synthèse budgétaires\, et Mme Hélène Chatel\, chargée de mission.
 DTEND:20260331T080000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Ministère de l’Europe et des affaires étrangères – Direction des nations unies\, des organisations internationales\, des droits de l’homme et de la francophonie – Mme Nathalie Broadhurst\, directrice\, et M. Alexis Moreno\, chargé de mission.
 DTEND:20260331T093000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:M. Manuel Lafont Rapnouil\, ancien directeur du Centre d’analyse de prévision et de stratégie (CAPS) actuellement ambassadeur en Lettonie.
 DTEND:20260331T123000Z
 LOCATION:salle 4085
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459544
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Cour des comptes – MM. Dominique Antoine\, conseiller maître à la 4e chambre\, rapporteur\, Jacques Ténier\, conseiller maître à la 4e chambre\, contre-rapporteur\, et Florian Paret\, conseiller référendaire en service extraordinaire à la 4e chambre.
 DTEND:20260331T151500Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459545
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Petit-déjeuner en l'honneur de Mme Martine Biron\, ministre de l'Enseignement supérieur du Québec
 DTEND:20260331T070000Z
 LOCATION:Petit-Hôtel
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459613
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:- table ronde des représentants d’établissements d’enseignement supérieur agricole- M. Philippe Choquet\, vice-président de la Fédération des établissements d’enseignement supérieur d’intérêt collectif (Fesic) et Mme Delphine Blanc-Le-Quilliec\, déléguée générale \;- M. Laurent Buisson\, directeur général d’AgroParisTech \;- Mme Hélène Poirier\, directrice de l'Institut Agro Dijon et Mme Carole Sinfort\, directrice de l'Institut Agro Montpellier \;- Mme Sabine Brun-Rageul\, directrice de Bordeaux Sciences Agro \;- M. François Purseigle\, directeur de l’INP – Ecole Nationale Supérieure Agronomique de Toulouse (ENSAT) \;- M. Guido Rychen\, directeur de l’École Nationale Supérieure en Agronomie et Industries Alimentaires (ENSAIA) et M Frantz Fournier\, directeur des études \;- Mme Mireille Bossy\, directrice générale de VetAgro Sup.
 DTEND:20260331T153000Z
 LOCATION:Visioconférence sans salle
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459614
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:- Régions de France (sous réserve de participation).
 DTEND:20260331T173000Z
 LOCATION:Visioconférence sans salle
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459615
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Examen pour avis\, ouvert à la presse\, et vote sur le projet de loi relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés (n° 2408) (Mme Sabrina Sebaihi\, rapporteure).
 DTEND:20260331T160000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459416
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, d’anciens directeurs de l’information de France Télévisions\, de Radio France\, et d’un ancien présentateur sur France Télévisions : Mme Arlette Chabot\, M. Thierry Thuillier\, M. Laurent Guimier\, M. Jean-Philippe Baille\, et M. David Pujadas.
 DTEND:20260331T130000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459601
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de présentateurs et d’anciens présentateurs sur France Télévisions : M. Michel Drucker\, M. Patrick Sébastien et M. Jacques Cardoze.
 DTEND:20260331T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459602
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Déjeuner en l’honneur de  S.E. M. Eduardo José de Vega\, ambassadeur des Philippines en France
 DTEND:20260331T120000Z
 LOCATION:Petit Hôtel
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459004
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:European food safety agency – Agence européenne de sécurité des aliments (Efsa) – M. Guilhem de Seze\, directeur du service d'évaluation scientifique\, Mme Clementine Lallier\, chargée des relations extérieures\, M. Flavio Fergnani\, chargé des relations extérieures \, M. Ton Jonquel – apprenti.
 DTEND:20260331T170000Z
 LOCATION:Visioconférence sans salle
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459452
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition de M. Stéphane Sorbe\, chef du service des finances publiques et des politiques sociales (SSOFIA).
 DTEND:20260331T153000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459455
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition de MM. Laurent Bach\, Antoine Bozio\, Arthur Guillouzouic et Clément Malgouyres\, auteurs de la note de l’IPP « Quels impôts les milliardaires paient-ils ? ».
 DTEND:20260331T170000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459456
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition de M. Rodolphe Gintz\, directeur général des infrastructures\, des transports et des mobilités (DGITM)\, accompagné de Mme Floriane Torchin\, directrice des transports ferroviaires\, fluviaux et des ports\, Mme Stéphanie Cubier\, sous-directrice des ports\, M. Arthur de Cambiaire\, chef du bureau de la stratégie portuaire\, et M. Nicolas Bina\, conseiller élus et communication.
 DTEND:20260331T130000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459520
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Table ronde « Représentants de la filière déchets »- Fédération des entreprises du recyclage\, du réemploi et de l’économie circulaire (Federrec)M. Manuel Burnand\, directeur généralMme Sophie Sicard\, administratriceMme Adèle Motte\, responsable des affaires publiques- Fédération nationale des activités de la dépollution et de l’environnement (Fnade)Mme Muriel Olivier\, déléguée généraleMme Françoise Weber\, présidente de la commission REP Mme Sabrina Benmouhoub\, responsable des relations institutionnelles- Syndicat professionnel pour le recyclage et l’élimination des déchets dangereux (Sypred)M. Nicolas Humez\, expertM. Benjamin Denis\, expertM. Michaël Mansuy\, expert\, directeur « Affaires publiques et déploiement réglementaire » de Veolia- Syndicat national des entrepreneurs de la filière déchet (Snefid) Mme Guénola Gascoin\, secrétaire généraleM. Charles-Antoine Depardon\, chargé des affaires publiquesMme Marie-Eve Fermet\, administratrice 
 DTEND:20260331T160000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459573
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition de Mme Marta de Cidrac et de M. Jacques Fernique\, sénateurs\, co-rapporteurs de l’évaluation de la loi Agec.
 DTEND:20260331T170000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459574
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:- EC2027M. Alexandre Tanay\, vice-président\,M. Alexis Eisenberg\, administrateur.
 DTEND:20260331T180000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459575
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Mélanie Dulong de Rosnay\, directrice de recherche au Centre national de la recherche scientifique (CNRS)\, co-fondatrice du Centre internet et société (CIS) du CNRS\, et de Mme Ramya Chandrasekhar\, chercheuse au CIS.
 DTEND:20260331T153000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459579
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T132252Z
+DTSTAMP:20260331T180409Z
 DESCRIPTION:Nestlé – M. Pascal Volery\, directeur qualité et membre du comité de direction de la division Technique et Production et Mme Clotilde Larrose\, directrice Générale affaires publiques\, communication et RSEDanone – M. Nassim Brahamia\, directeur qualité\, Mme Sonia Hour-Pires\, directrice affaires corporate\, Mme Amandine Bouvier\, responsable affaires publiquesLactalis – Mme Agnès Baudet-Barbezant\, directrice générale RSE &amp\; qualité du groupe Lactalis et membre du comité de direction \; M. Fabrice Collier\, directeur juridique et Mme Alexandra Laferrière\, directrice générale en charge de la communication et des affaires publiquesVitagermine – M. Ludovic Begue\, directeur général et M. Cédric Lisoie\, directeur qualitéPopote – Mme Tiphaine Beguinot\, directrice générale
 DTEND:20260331T143000Z
 LOCATION:8ème Bureau – Palais Bourbon\, 1er étage
