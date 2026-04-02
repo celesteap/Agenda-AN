@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant :M. Pierre-Guillaume Prigent\, docteur en sociologie et enseignant à l'université de Bretagne occidentale\, et Mme Gwénola Sueur\, doctorante en sociologie \;Mme Dorothée Dussy\, anthropologue\, directrice du centre Norbert Elias \;Mme Julie Doyon\, maîtresse de conférences en histoire moderne à l’université Lumière Lyon 2.
 DTEND:20260402T090000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459510
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant :Dr Françoise Fericelli\, pédopsychiatre\, ancienne experte auprès des tribunaux judiciaires \;Dr Myriam Pierson\, psychiatre spécialisée en psychiatrie de l’enfant et de l’adolescent\, ancienne experte auprès des tribunaux judiciaires \;Dr Maurice Berger\, pédopsychiatre.
 DTEND:20260402T133000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459511
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant :Dr Gilles Lazimi\, médecin\, président de l’association Stop VEO \;Dr Edwige Antier\, pédiatre.
 DTEND:20260402T160000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459512
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition ouverte à la presse\, de Mme Gwenola Joly-Coz\, première présidente de la Cour d’appel de Papeete (en visioconférence).
 DTEND:20260402T173000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459513
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Julien Gentile\, directeur national adjoint de la police aux frontières.
 DTEND:20260402T083000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459449
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:-- Table\, non ouverte à la presse\, sur la prise en compte des VSS dans le monde professionnel réunissant :- Mme Hélène Ibanez\, secrétaire générale de la confédération française démocratique du travail en charge de la protection sociale travail emploi et membre du comité femmes de la confédération européenne des syndicats \; - Mme Delphine Pouponneau\, cheffe de file de la délégation du Mouvement des entreprises de France au Haut conseil à l’égalité entre les hommes et les femmes et directrice diversité\, équité\, inclusion et QVCT du groupe Orange \; Mme France Henry-Labordère\, responsable du pôle Social du MEDEF \; Mme Inès Fontelas\, chargée de mission senior au pôle social du MEDEF \; Mme Marie David\, chargée de mission Affaires publiques du MEDEF \;- Mme Fariha Shah\, vice-présidente de la confédération des petites et moyennes entreprises\, en charge de l’Entrepreneuriat au féminin\, M. Pierre Thillaud\, chef de file de la CPME au CNPST\, M. Philippe Chognard\, responsable du pôle conditions de travail de la CPME et M. Adrien Dufour\, responsable Affaires publiques de la CPME \;- Mme Véronique David\, présidente du groupe de travail sur la parité de l’Union des entreprises de proximité (U2P).
 DTEND:20260402T093000Z
 LOCATION:Visioconférence sans salle
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459495
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, non ouverte à la presse\, sur la prise en charge médicale des victimes de VSS en présence du Dr Alexia Delbreil\, psychiatre\, médecin légiste et cheffe de service de l’Institut médico-légal de Poitiers\, du Dr Muriel Salmona\, psychiatre\, présidente de l’association mémoire traumatique et victimologie et du Dr Mélanie Voyer\, psychiatre\, législateur responsable du Centre régional de psychotraumatologie nord Nouvelle-Aquitaine.
 DTEND:20260402T113000Z
 LOCATION:Visioconférence sans salle
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459496
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant :M. Bertrand Gaume\, préfet de la région Hauts-de-France\, préfet du Nord \;M. François-Xavier Lauch\, préfet du Pas-de-Calais \;M. Benoit de Guibert\, préfet maritime de la Manche et de la mer du Nord \;M. Olivier Drevon\, directeur du CROSS Gris-NezM. Vincent Lagoguey\, préfet délégué pour la défense et la sécurité auprès du préfet de la région Hauts-de-France.
 DTEND:20260402T113500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459360
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:- table ronde des syndicats de journalistes réunissant : M Yann Plougastel et Mme Marie-Madeleine Sève\, membres de la CFDT- Journalistes \; Mmes Hélène Richard et Céline Autin\, M. Clément Pouré\, membres du bureau national du Syndicat national des journalistes-CGT (SNJ-CGT).
 DTEND:20260402T090000Z
 LOCATION:Salle 4088 - 9 rue de Bourgogne
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459560
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:- audition de M. Mathieu Szeradzki\, directeur de projet IA au ministère de la Culture.
 DTEND:20260402T103000Z
 LOCATION:Salle 4088 - 9 rue de Bourgogne
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459562
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Nomination d’un rapporteur sur le projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage \;Examen de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie (n° 2494) (M. François Gernigon\, rapporteur) \;Examen de la proposition de loi visant à garantir le bénéfice des prestations familiales aux enfants placés (n° 2493) (Mme Nathalie Colin-Oesterlé\, rapporteure).
 DTEND:20260402T090000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459283
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de représentants de la Direction générale de l’enseignement supérieur et de l’insertion professionnelle (DGESIP) : MM. Patrick Courilleau\, adjoint à la cheffe de service de la stratégie des formations et de la vie étudiantes\, Laurent Régnier\, sous directeur de la stratégie et de la qualité des formations\, Mmes Anne Grangé\, adjointe au sous-directeur de la réussite et de la vie étudiante\, Katia Siri\, cheffe du département des formations de santé\, Olga Criez\, adjointe à la cheffe du département des formations de santé\, et Carole Modigliani-Chouraqui\, cheffe du département défis sociétaux et environnementaux.
 DTEND:20260402T080000Z
 LOCATION:2ème Bureau – Palais Bourbon\, 1er étage
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459627
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Discussion du projet de loi constitutionnelle\, adopté par le Sénat\, relatif à la Nouvelle-Calédonie
 DTEND:20260402T102500Z
 LOCATION:Assemblée nationale
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30424
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de Mme Roselyne Conan\, directrice générale de l’Agence nationale pour l’information sur le logement (ANIL)\, accompagnée de M. Louis du Merle\, directeur juridique.
 DTEND:20260402T080000Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459610
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de MM. Patrick Hernandez\, directeur interrégional Antilles Guyane de l’Institut national de la statistique et des études économiques (INSEE)\, et Pierre Greffet\, directeur interrégional de La Réunion-Mayotte.
 DTEND:20260402T091500Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459611
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de Madame Anne Savinel-Barras\, présidente d'Amnesty International France
 DTEND:20260402T130000Z
 LOCATION:2ème bureau (Palais Bourbon\, 1er étage)
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459592
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de M. Thierry Debrand\, président de la Fédération des associations et des acteurs pour la promotion et l’insertion par le logement (FAPIL)\, accompagné de Mme Camille Régis\, déléguée générale.
 DTEND:20260402T103000Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459612
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde « transporteurs » :- Fédération nationale des transports routiers (FNTR)M. Erwan Celerier\, délégué aux affaires techniques\, à l’environnement et à l’innovation - France logistiqueM. Maxime Forest\, directeur général- Union des entreprises de transport et de logistique de France (Union TLF)M. Jean-Thomas Schmitt\, président de l’Union TLF et PDG du Groupe HeppnerMme Elisabeth Moretti\, directrice déléguée au Pôle Développement Durable de l’Union TLF- Organisation des transporteurs routiers européens (OTRE)Mme Hélène Quevremont\, directrice aux Affaires EnvironnementalesM. Noël Thiefine\, secrétaire général en Charge du Transport Routier de Marchandises
 DTEND:20260402T133000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459597
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:- plateforme automobile (PFA)M. Nicolas Le Bigot\, directeur des Affaires Environnementales\, Techniques et Réglementaires de la PFAMme Louise d’Harcourt\, responsable des affaires publiques et parlementaires
 DTEND:20260402T141500Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:– chambre Syndicale Internationale de l’Automobile et du Motocycle (CSIAM) :M. Quentin Chataigner\, responsable électromobilité chez Man Truck &amp\; Bus FranceM. Ulrich Loebich\, CEO de Daimler Truc FranceM. Gilles Baustert\, directeur Marketing\, Communication &amp\; Affaires Publiques\, Scania FranceMme Athina Argyriou\, présidente déléguée de la CSIAMMme Emma Cartier\, responsable de la Branche VI de la CSIAMMme Félix Perez\, Blue Star StrategiesM. Étienne Bodard\, Blue Star Strategies
 DTEND:20260402T150000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459599
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:- conseil général de l’alimentation\, de l’agriculture et des espaces ruraux (CGAAER) – Mme Janique Bastok\, inspectrice générale\, M. Olivier Denais\, inspecteur général et Mme Juliette Auricoste\, inspectrice.
 DTEND:20260402T103000Z
 LOCATION:Visioconférence sans salle
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459619
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:- table ronde- M. Jordan Le Bars\, chef de projet Dephy Ecophyto et M. Matthieu Hirschy (Acta) co coordinateur du dispositif Dephy Expe\, Mme Frédérique Canno (Chambre d'agriculture de Bretagne)\, ingénieure Réseau Dephy Ferme et Mme Stéphanie Drusch (Inrae)\, responsable du projet Avhenir (Dephy Expe3).
 DTEND:20260402T090000Z
 LOCATION:Visioconférence sans salle
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459618
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de Mme Philippine Bentégeat\, cheffe du service « Europe\, Amérique du Nord et action multilatérale » à la direction générale des relations internationales et de la stratégie (DGRIS)\, ministère des Armées et des Anciens combattants.
 DTEND:20260402T100000Z
 LOCATION:Salle 4067 - 9 rue de Bourgogne\, rez-de-chaussée
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459532
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition publique sur « Où va l’IA : quels développements pour quels usages ? » \;Désignation de membres du conseil d’administration de l’Agence nationale pour la gestion des déchets radioactifs (Andra) et de membres de la Commission nationale d’évaluation des recherches et études relatives à la gestion des matières et des déchets radioactifs (CNE2) \;Questions diverses.
 DTEND:20260402T102500Z
 LOCATION:Assemblée nationale (Salle 7040 – 103 rue de l'Université\, 2ème sous-sol)
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459533
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Hugo Huet\, président du Conseil d’orientation des politiques de jeunesse\, pour la présentation du rapport « Jeunes d’outre-mer : garantir l’égalité des chances pour tous » \;Nomination de membres de la Délégation aux groupes de travail contre la vie chère proposés par madame la ministre des outre-mer \;Nomination de rapporteurs \;Questions diverses.
 DTEND:20260402T150000Z
 LOCATION:salle 4088 – rdc – immeuble Olympe de Gouges - 9 rue de Bourgogne
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459534
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Rencontre avec la Première ministre du Nouveau-Brunswick\, Madame Susan Holt
 DTEND:20260402T081500Z
 LOCATION:Petit Hôtel
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459334
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde « retrofit » :- RetrofleetM. Vincent Couvreur\, Head of Division Railway\, Head of Division Services Bus &amp\; Coach\, Groupe CBMM. Emmanuel Flahaut\, directeur général de RetrofleetM. Thibaut Moura\, directeur des Affaires publiques Retrofleet- GCK MobilityM. Thierry Lagarde\, présidentM. Jean-Luc Papon\, business developper M. Aymeric Dupuy\, directeur commercial - HylikoM. Ovarith Troeung\, directeur généralM. Christophe Lora\, directeur de la Business Unit VéhiculesM. Alexandre Fornes\, directeur de la Business Unit Mobilité - Rev MobilitésM. Arnaud Pigounides\, présidentM. Maximilien Pimont\, directeur général adjoint
 DTEND:20260402T163000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459600
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, sur les infrastructures numériques\, réunissant : Mme Ophélie Coelho\, chercheuse associée à l’Institut des relations internationales et stratégiques (Iris)\, doctorante au CIS et au centre d’analyse et de recherche interdisciplinaires sur les médias (Carism-Paris-Assas)\, Data for Good : Mme Lou Welgryn\, secrétaire générale\, et Mme Alexandra Lutz\, chargée de plaidoyer\, Mme Francesca Musiani\, directrice de recherche au CNRS\, co-fondatrice et directrice du CIS.
 DTEND:20260402T090000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Bernard Benhamou\, secrétaire général de l’Institut de la souveraineté numérique.
 DTEND:20260402T110000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -294,7 +294,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459584
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition\, ouverte à la presse\, d’anciens dirigeants de France Télévisions : Mme Michèle Cotta\, ancienne directrice générale de France 2\, M. Patrice Duhamel\, ancien directeur général de France Télévisions chargé des antennes et de la diversification des programmes\, MM. Marc Tessier et Patrick de Carolis\, anciens présidents de France Télévisions.
 DTEND:20260402T101000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -304,17 +304,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459605
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de trois actionnaires de la société de production Mediawan : M. Xavier Niel (Iliad – Free)\, M. Jérôme Nommé\, président de KKR France\, et M. Matthieu Pigasse (Combat Média).
-DTEND:20260402T130000Z
+DTEND:20260402T153000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
-DTSTART:20260402T120000Z
+DTSTART:20260402T120500Z
 SUMMARY:Réunion de la commission d’enquête sur la neutralité\, le fonctionnement et le financement de l’audiovisuel public
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459606
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de représentants de salariés (à huis clos).
 DTEND:20260402T083500Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
@@ -324,7 +324,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459183
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table-ronde avec les directions départementales de la protection des populations - ddpp de Gironde – M. Philippe Salvagnac\, chef du service sécurité sanitaire des aliments et Mme Frédérique Henrion\, directrice départementale- ddpp de l’Hérault – Mme Anne Buisine\, directrice départementale adjointe (en position de directrice par intérim à compter du 1er avril prochain) et Mme Ludivine Girardot-Chaffard\, inspectrice de santé publique vétérinaire (ISPV) cheffe du service sécurité sanitaire des aliments- ddpp du Maine-et-Loire – M. Eric David\, directeur départemental interministériel- ddpp d’Ille-et-Vilaine – Mmes Cathy Ferlaux\, cheffe du service Sécurité et qualité sanitaires de l'alimentation et Valérie Morin\, adjointe- ddetspp du Lot-et-Garonne – Mme Viviane Dupuy-Christophe\, directrice.
 DTEND:20260402T091000Z
 LOCATION:Visioconférence sans salle
@@ -334,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459450
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Audition de MM. Jérôme Garnache-Creuillot\, président-directeur général\, Julien Morelle\, secrétaire général d’Europlasma\, et Laurent Collet-Billon\, administrateur d’Europlasma.
 DTEND:20260402T094500Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
@@ -344,7 +344,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459321
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Dans le cadre de l’enquête sur la protection du patrimoine national et la sécurisation des musées (article 5 ter de l’ordonnance n° 58-1100 du 17 novembre 1958)\, audition de M. Philippe Bélaval\, ancien directeur général des patrimoines\, ancien président du Centre des monuments nationaux.
 DTEND:20260402T073500Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -354,7 +354,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459376
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Dans le cadre de l’enquête sur la protection du patrimoine national et la sécurisation des musées (article 5 ter de l’ordonnance n° 58-1100 du 17 novembre 1958)\, audition de Mme Émilie Girard\, présidente de la section française du Conseil international des musées (Icom).
 DTEND:20260402T085000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -364,7 +364,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459377
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260402T133830Z
+DTSTAMP:20260402T180150Z
 DESCRIPTION:Table-ronde avec les agences régionales de santé : - ars Nouvelle-Aquitaine – Mme Karine TROUVAIN\, directrice adjointe de cabinet – Direction générale\, M. Vincent CAILLET\, directeur délégué à la veille et à la sécurité sanitaire - Direction de la protection de la santé et de l’autonomie\, Mme Emilie HOPE-RAPP\, médecin auprès de la Direction déléguée à la veille et sécurité sanitaire et M. Robin LE BARREAU\, docteur en pharmacie\, responsable du pôle veille\, alerte et gestion Sanitaire- ars Pays de la Loire – M. Jérôme Jumel\, directeur général\, Mme Karen Burban-Evain\, directrice de la santé publique et de l’environnement- ars Occitanie – M. Joffrey Henric\, directeur général par intérim\, M. Nicolas Sauthier\, directeur adjoint de la gestion sanitaire et de la gestion des crises\, Mme Caroline Suberbielle\, conseillère médicale du directeur général et M. Julien Kramarz\, directeur de cabinet- ars Auvergne-Rhône-Alpes – M. Aymeric Bogey\, directeur de la santé publique\, Mme Nathalie Grangeret\, directrice déléguée veille et alertes Sanitaires\, Mme Anne-Sophie Ronnaux-Baron\, responsable du pôle régional de veille sanitaire- ars Île-de-France – Mme. Cécile Somarriba\, directrice de la veille et de la sécurité sanitaire\, Mme Anne Garrec\, directrice adjointe de la veille et de la sécurité\, Dr Estelle Yamani\, responsable adjointe du département « veille\, alerte et gestion des signaux ».
 DTEND:20260402T074500Z
 LOCATION:Visioconférence sans salle
