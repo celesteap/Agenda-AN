@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Sihem Ghars\, fondatrice du collectif Incesticide France.
 DTEND:20260407T153000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459514
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:- table ronde réunissant : M. Luc Ferry\, ancien ministre de l’éducation nationale\, philosophe et auteur d’ouvrages dont IA : grand remplacement ou complémentarité ? \; MM. Olivier Babeau et Laurent Alexandre\, co auteurs de l’ouvrage Ne faites plus d’études ! Apprendre autrement à l’ère de l’intelligence artificielle.
 DTEND:20260407T080000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -24,9 +24,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459695
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Questions au GouvernementVote solennel sur le projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la lutte contre les fraudes sociales et fiscalesDiscussion de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité uniqueDiscussion de la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaireDiscussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assuranceDiscussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique
-DTEND:20260407T140000Z
+DTEND:20260407T180500Z
 LOCATION:Assemblée nationale
 DTSTART:20260407T130000Z
 SUMMARY:Deuxième séance publique (193e)
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30445
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Questions orales sans débat (salle Lamartine)
 DTEND:20260407T101500Z
 LOCATION:Assemblée nationale
@@ -44,17 +44,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30446
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Suite de la discussion de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité uniqueSuite de la discussion de la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaireSuite de la discussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assuranceSuite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique
 DTEND:20260407T203000Z
 LOCATION:Assemblée nationale
 DTSTART:20260407T193000Z
-SUMMARY:Troisième séance publique (e)
+SUMMARY:Troisième séance publique (194e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30447
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:- audition- Conseil national professionnel des infirmier.e.s en pratique avancée (CNP IPA) – Mme Julie Devictor\, présidente\, Mme Nathalie Blanc\, vice-présidente\, Mme Tatiana Henriot\, trésorière\, Mme Méline Pagnier\, trésorière adjointe et Mme Aude Sibert\, secrétaire.
 DTEND:20260407T140000Z
 LOCATION:Visioconférence sans salle
@@ -64,27 +64,27 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459719
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de M. Jean-François Guihard\, président de l’interprofession du bétail et de la viande (Interbev)\, M. Emmanuel Bernard\, président de la section bovine\, et M. Patrick Soury\, président de la section ovine.
-DTEND:20260407T153000Z
+DTEND:20260407T161500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260407T143000Z
+DTSTART:20260407T143500Z
 SUMMARY:Réunion de la commission des affaires économiques
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459367
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de M. Gilles Huttepain\, vice président de l’Association nationale interprofessionnelle de la volaille de chair (Anvol)\, et M. Yann Nédélec\, directeur.
-DTEND:20260407T170000Z
+DTEND:20260407T180000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260407T160000Z
+DTSTART:20260407T163500Z
 SUMMARY:Réunion de la commission des affaires économiques
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459368
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements :à la proposition de loi visant à simplifier le millefeuille territorial par la collectivité unique (n° 2606) (M. Jean-René Cazeneuve\, rapporteur) \;à la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques (n° 2605) (M. Thomas Lam\, rapporteur) \;à la proposition de loi\, modifiée par le Sénat\, visant à faire exécuter les peines d’emprisonnement ferme (n° 1655) (M. Loïc Kervran\, rapporteur) \;à la proposition de loi\, visant à renforcer la pénalisation de l’organisation de rave-parties (n° 2618) (Mme Laetitia Saint-Paul\, rapporteure) \;Création d’une mission d’information flash\, commune avec la commission des affaires sociales\, sur les suites à donner à l’affaire Le Scouarnec \;Sous réserve de son dépôt\, nomination d’un rapporteur pour avis sur les articles délégués au fond par la commission de la défense nationale et des forces armées du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
 DTEND:20260407T125000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459636
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de Mme Clémence Olsina\, directrice de la Direction des affaires juridiques du Ministère des armées.
 DTEND:20260407T120000Z
 LOCATION:Salle 4016 –  9 rue de Bourgogne\, Rez-de-chaussée
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459703
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de M. Jacques MARGERY\, directeur central du Service de santé des armées.
 DTEND:20260407T130000Z
 LOCATION:Salle 4085
@@ -114,9 +114,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459704
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Nomination d’un rapporteur sur le projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage (n° 2619) \;- examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaire et à anticiper un risque sanitaire et social majeur (n° 2616) (M. Yannick Neuder\, rapporteur) \;Audition de M. Thibaut Guilluy\, directeur général de France Travail.
-DTEND:20260407T163000Z
+DTEND:20260407T170500Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
 DTSTART:20260407T153000Z
 SUMMARY:Réunion de la commission des affaires sociales
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459284
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Michel Paulin\, président du comité stratégique de filière « solutions numériques de confiance » du Conseil national de l’industrie\, ancien directeur général d’OVH\, et Mme Julia Mouzon\, déléguée permanente du comité stratégique de la filière logiciels et solutions numériques de confiance du Conseil national de l’industrie.
 DTEND:20260407T153000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459706
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Confédération des buralistes :- m. Pierre Romero\, secrétaire général de la confédération des buralistes et président des buralistes de PACA.- mme Stéphanie Cazaban-Marque\, directrice du pôle opérationnel.
 DTEND:20260407T121500Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459685
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:- présentation\, ouverte à la presse\, du rapport d’information sur la planification écologique dans les territoires\, à la suite des Rencontres organisées le 27 novembre 2025 par la délégation(M. Stéphane Delautrette\, rapporteur).
 DTEND:20260407T150000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459623
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:- audition de la Direction générale des finances publiques :- Mme Amélie Verdier\, directrice générale \;- Mme Sophie MAILLARD\, cheffe du département des études et statistiquesfiscales.
 DTEND:20260407T153000Z
 LOCATION:Salle 6350 – 1er étage du Palais Bourbon
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459476
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de l’INSEE :M. Fabrice Lenglart\, directeur général \;M. Michel Duée\, chef du département des ressources et des conditions de vie des ménages.
 DTEND:20260407T170000Z
 LOCATION:Salle 6350 – 1er étage du Palais Bourbon
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459477
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de rédacteurs du ministère de l'Europe et des affaires étrangères en vue de préparer la mission du groupe d'amitié autorisée pour 2026
 DTEND:20260407T133000Z
 LOCATION:Salle 4075
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459593
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:éventuellement\, examen\, en application de l’article 88 du règlement\, des amendements restant en discussion sur la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique (n° 2615) (amendements\, art. 88).
 DTEND:20260407T125000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459398
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition\, ouverte à la presse\, de sauveteurs en mer bénévoles de la station de sauvetage en mer SNSM de Dunkerque : Mme Céline Delannoy\, M. Philippe Gichtenaere\, M. David Godin\, M. Jean-Marc Gosset\, M. Frédéric Janssen\, M. Alain Ledaguenel et M. Emmanuel Pelletier.
 DTEND:20260407T130000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459585
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, des représentants d’Arte France et de TV5 Monde : M. Bruno Patino\, président d’Arte France\, Mme Mme Sylvie Stephan\, directrice des programmes d’Arte France\, Mme Marysabelle Cote\, directrice de la gestion d’Arte France et membre du Comité de gérance d'ARTE G.E.I.E\, Madame Kim Younes\, directrice générale de TV5 Monde\, Monsieur Thomas Derobe\, secrétaire général de TV5 Monde\, Monsieur Philippe Antoine\, directeur de l’information de TV5 Monde.
 DTEND:20260407T130000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459607
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Bruno Lasserre\, vice-président honoraire du Conseil d’État\, auteur d’une étude (en cours) sur l’impartialité du service public de l’audiovisuel\, de M. Thomas Odinot\, maître des requêtes au Conseil d’État\, de M. Martin Ajdari\, président de l’Arcom (Autorité de régulation de la communication audiovisuelle et numérique)\, M. Alban de Nervaux\, directeur général\, et Mme Pauline Combredet-Blassel\, directrice générale adjointe
 DTEND:20260407T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459608
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition du Syndicat des groupes d’exercice vétérinaire (SYNGEV) sur le thème de l’inflation des prix des vétérinaires.
 DTEND:20260407T130000Z
 LOCATION:9e Bureau
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDFL458831
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:- table ronde- Université de Rennes – Professeur Aline Corvol\, chef de santé de gériatrie\, CHU de Rennes et Mme Nsuni Met\, maîtresse de conférence en science infirmière \;- Faculté de santé Université d’Angers – Mme Céline Guillaud\, Directrice du Département de Sciences Infirmières\, M. Christian Lavigne professeur des universités-praticien hospitalier\, Mme Stéphanie Lemasson et Mme Lisa Jubeau\, infirmières en pratique avancée\, M. Giovanni Petit\, responsable de la formation continue\, M. Laurent Poiroux\, maître de conférence section 92 \;- Université Bourgogne Europe – Pr. Benjamin Bouillet\, professeur des universités-praticien hospitalier du CHU Dijon Bourgogne et Mme Christelle Penneçot\, responsable du Master IPA \;- Faculté de Médecine Montpellier – Nîmes – Pr. Céline Bourgier\, coordonnateur Diplôme d’Etat Infirmier(e)s en Pratique Avancée et Dr. Alexandre Maria\, médecin spécialisé en médecine interne\, CHU de Montpellier \;- Faculté de Médecine\, Maïeutique et métiers de la Santé de l'Université Lorraine – Pr. Jean Paysant\, MPR et responsable de la formation IPA\, Mme Katie Galois\, référent pédagogique IPA\, M. le Doyen Stéphane Zuily\, Mme Emmanuelle Moussier\, responsable administrative de la faculté \;- Faculté de Santé de l'Université Paris-Est Créteil (UPEC) – GHU AP-HP. Hôpitaux Universitaires Henri-Mondor – Pr. Florence Canouï-Poitrine\, docteur en médecine\, professeur de santé publique\, Equipe CEpiA (Clinical Epidemiology and Ageing).
 DTEND:20260407T150000Z
 LOCATION:Visioconférence sans salle
@@ -244,9 +244,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459720
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T141602Z
+DTSTAMP:20260407T180600Z
 DESCRIPTION:Audition de Mme Catherine Pégard\, ministre de la culture\, sur le projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés (n° 2408) et discussion générale (M. Frantz Gumbs\, rapporteur).
-DTEND:20260407T160000Z
+DTEND:20260407T165000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260407T150000Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
