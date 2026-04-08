@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, sur les services de paiement :Mme Maya Atig\, directrice générale de la Fédération bancaire française (FBF)\, et M. Jérôme Raguénès\, directeur numérique et moyens de paiement\, M. Erick Lacourrège\, directeur général des moyens de paiements de la Banque de France\, et M. Olivier Fliche\, directeur du pôle Fintech-Innovation de l’Autorité de contrôle prudentiel et de résolution (ACPR)\, Mme Martina Weimert\, directrice générale de European Payments Initiative/Wero\, M. Philippe Laulanie\, directeur général du Groupement des cartes bancaires (GIE CB).
 DTEND:20260408T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -14,17 +14,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459710
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- examen\, en application de l’article 88 du Règlement\, des amendements aux propositions de loi :Visant à garantir le bénéfice des prestations familiales aux enfants placés (n° 2621) (Mme Nathalie Colin-Oesterlé\, rapporteure) \;Pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie (n° 2620) (M. François Gernigon\, rapporteur) \;Portant création d’une carte famille ouverte dès le deuxième enfant (n° 2612) (M. Jérémie Patrier-Leitus\, rapporteur)\;- examen du projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage (n° 2619) (M. Thibault Bazin\, rapporteur).
-DTEND:20260408T160000Z
+DTEND:20260408T163000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260408T150000Z
+DTSTART:20260408T152500Z
 SUMMARY:Réunion de la commission des affaires sociales
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459491
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Collectif des éco-organismes :Mme Dominique Mignon\, présidente M. Arnaud Humbert-Droz\, secrétaire M. Nicolas Defrenne\, trésorier 
 DTEND:20260408T140000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459692
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Table ronde « Organisations patronales » :- Confédération des petites et moyennes entreprises (CPME) :Mme Catherine Guerniou\, vice-présidente déléguée Mme Anne Lechevrel-Chateau\, mandataire à la commission inter-filière REP (Cifrep)Mme Zoé Lagarde\, responsable « développement durable »Mme Sandrine Bourgogne\, directrice des affaires publiques et institutionnelles- Mouvement des entreprises de France (Medef) :M. Jean-Baptiste Léger\, directeur du pôle « transition écologique » M. Sébastien Sureau\, directeur de mission « environnement » à la direction du développement durable M. Ghali Tanji\, chargé de mission « affaires publiques » - Union des entreprises de proximité (U2P) :M. Dominique Anract\, vice-présidentM. Jean-Michel Martin\, président des métiers du bois 
 DTEND:20260408T150000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459693
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:AdemeM. Sylvain Waserman\, président-directeur général :M. Victor Worms\, conseiller du présidentM. Jean-Charles Caudron\, directeur de la supervision des filières REP
 DTEND:20260408T160000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459694
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- audition - France Agrimer – Mme Julie Brayer Mankor\, directrice générale adjointe et M. Yves Guy\, directeur marchés\, études et prospective \;- Office de développement de l’économie agricole des départements d’outre-mer (Odeadom) – M. Jacques Andrieu\, directeur et Pauline Cuenin\, responsable de l’observatoire de l’économie agricole des Outre-mer au sein de l’ODEADOM.
 DTEND:20260408T150000Z
 LOCATION:Visioconférence sans salle
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459715
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- audition - La Ferme Digitale – M. Hervé Pillaud\, président d’honneur et Mme Romane Richez\, responsable marketing et partenariats \;- Digifermes – M. Mehdi Siné\, directeur général et Mme Julie Menadi\, ingénieure responsable du réseau des Digifermes.
 DTEND:20260408T160000Z
 LOCATION:Visioconférence sans salle
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459716
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, réunissant : Me Carine Durrieu Diebolt\, avocate à la Cour\, ancienne membre de la Ciivise \;Me Myriam Blumberg\, avocate au barreau de Paris \;Me Djamel Bouguessa\, avocat au barreau de Toulouse \;Me Michel Amas\, avocat au barreau de Marseille.
 DTEND:20260408T153000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459516
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, réunissant :Me Arnaud de Saint-Remy\, président du groupe de travail « Droit de l’enfant » au sein du Conseil national des barreaux \;Mme Agnès Ravat-Sandre\, vice-présidente de la Conférence des bâtonniers et présidente de la commission accès aux droits \;Me Anne-Sophie Laguens\, membre du Conseil de l’Ordre du barreau de Paris.
 DTEND:20260408T140000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -94,9 +94,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459515
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
-DESCRIPTION:Questions au GouvernementSuite de la discussion de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité uniqueSuite de la discussion de la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaireSuite de la discussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assuranceSuite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique
-DTEND:20260408T130000Z
+DTSTAMP:20260408T180842Z
+DESCRIPTION:Questions au GouvernementSuite de la discussion de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité uniqueSuite de la discussion de la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaireSuite de la discussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assurance
+DTEND:20260408T180000Z
 LOCATION:Assemblée nationale
 DTSTART:20260408T120000Z
 SUMMARY:Première séance publique (195e)
@@ -104,19 +104,19 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30444
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à simplifier le millefeuille territorial par la collectivité uniqueSuite de la discussion de la proposition de loi visant à accélérer la prévention cardio-neuro-vasculaireSuite de la discussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assuranceSuite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique
+DTSTAMP:20260408T180842Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à reconnaître une politique nationale d’adaptation au changement climatique et à adapter les mécanismes d’assuranceSuite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion vélique
 DTEND:20260408T203000Z
 LOCATION:Assemblée nationale
 DTSTART:20260408T193000Z
-SUMMARY:Deuxième séance publique (e)
+SUMMARY:Deuxième séance publique (196e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30448
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, en application de l’article 13 de la Constitution\, de M. François Jacq\, dont le renouvellement aux fonctions de président du conseil d’administration du Centre national d’études spatiales (Cnes) est envisagée par le Président de la République\, et vote sur ce projet de nomination  (M. Arnaud Saint Martin\, rapporteur).
-DTEND:20260408T141500Z
+DTEND:20260408T144500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260408T131500Z
 SUMMARY:Réunion de la commission des affaires économiques
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459369
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de M. Chems Chkioua\, directeur général de l’Aviation civile.
 DTEND:20260408T150000Z
 LOCATION:Salle 4067\, 9 rue de Bourgogne\, Rez-de-chaussée
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459700
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de M. Camille Landais\, économiste.
 DTEND:20260408T173000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459480
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, conjointe avec la commission des affaires économiques\, de M. François Boussagol\, président-directeur général de la Société anonyme de gestion de stocks de sécurité (SAGESS)\, et M. Son Lengoc\, secrétaire général et directeur finances.
 DTEND:20260408T105000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459681
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. François Jacq\, président directeur général du Centre national d’études spatiales (CNES) et de l’IGA Eva Portier\, adjointe Espace du délégué général pour l’armement\, sur l’espace et les enjeux de défense \;Nomination de deux co-rapporteurs sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt) \;Nomination de rapporteurs de missions d’information. 
 DTEND:20260408T084500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459680
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de Mme Laurence Vanin\, cheffe du bureau des chaires et du mécénat\, du Centre de recherche de la gendarmerie nationale (CRGN) et de M. Gaël Musquet\, climatologue\, spécialiste de la prévention des catastrophes naturelles et de la gestion de crise.
 DTEND:20260408T130000Z
 LOCATION:Salle 4016 –  9 rue de Bourgogne\, Rez-de-chaussée
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459705
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition commune :- alliance du Commerce et Fédération des enseignes de l’habillement (FEH) :-- m. Yohann Petiot\, directeur général de l’Alliance du Commerce et délégué général de la Fédération des enseignes de l’habillement.- fédération nationale de l’habillement (FNH) :-- m. Pierre Talamon\, président.-- mme Florence Bonnet-Touré\, déléguée générale.
 DTEND:20260408T134500Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459686
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Création d’une mission d’information sur les freins au développement de l’économie du tourisme \;Audition\, conjointe avec la commission des finances\, de l’économie générale et du contrôle budgétaire\, de M. François Boussagol\, président-directeur général de la Société anonyme de gestion de stocks de sécurité (Sagess) et de M. Son Lengoc\, secrétaire général et directeur finances.
 DTEND:20260408T105000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459687
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Nicolas Guillou\, juge à la Cour pénale internationale.
 DTEND:20260408T140000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459708
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements restant en discussion sur la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicites (n° 2492) (M. Sylvain Berrios\, rapporteur).
 DTEND:20260408T130500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459688
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:à 9 heures : décision\, en application de l’article 148\, alinéa 3 du Règlement\, sur quatre pétitions (pétitions n° 2760 pour l’abrogation des ZFE\, n° 3021 pour une sortie des pesticides de synthèse\, n° 3070 pour l’abrogation du contrôle technique des motos et n° 4583 pour stopper le massacre injustifié des renards) (Mme Ersilia Soudais\, rapporteure) \;à 10 heures : audition de M. Sylvain Waserman\, président-directeur général de l’Agence de la transition écologique (ADEME).
 DTEND:20260408T101500Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459553
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Entretien avec le Dr Israa Saleh\, médecin palestinienne\, sur le thème de la santé des femmes en contexte de guerre\, à l’aune de la situation à Gaza.
 DTEND:20260408T160000Z
 LOCATION:5ème Bureau
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459620
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Petit-déjeuner en l'honneur de l'ambassadrice de France en Angola
 DTEND:20260408T080000Z
 LOCATION:Petit Hôtel
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459628
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Rencontre de Son Excellence Monsieur Ricardo Neiva Tavares\, ambassadeur de la République fédérative du Brésil en France
 DTEND:20260408T140000Z
 LOCATION:Hôtel de la Questure
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459629
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de la Direction de la législation fiscale :M. Laurent Martel\, directeur \;Mme Élise Valetoux\, sous-directrice de la fiscalité des personnes \;M. Sébastien Catz\, chef du bureau des chiffrages et études statistiques.
 DTEND:20260408T153000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459478
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Examen\, ouvert à la presse\, de l’avis sur le projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldova relatif à la coopération dans le domaine de la défense (n° 2050) (Mme Anna Pic\, rapporteure pour avis).
 DTEND:20260408T094500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459412
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Examen\, ouvert à la presse\, et vote sur le projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldavie dans le domaine de la sécurité sociale\, signé à Paris le 10 mars 2025 (n° 2471) (M. Pierre Pribetich\, rapporteur).
 DTEND:20260408T093000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459418
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Christophe Lecourtier\, dont la nomination à la fonction de directeur général de l’Agence française de développement (AFD) est proposée par le président de la République (Mme Dieynaba Diop\, rapporteure) \;Vote sur cette proposition de nomination dans les conditions prévues par l’article 29-1 du Règlement.
 DTEND:20260408T100000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -294,7 +294,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459419
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition conjointe du Pr Lionel Collet\, président de la Haute Autorité de santé (HAS)\, du Dr Cédric Carbonneil\, chef du service de l’évaluation des actes professionnels (SEAP) et adjoint à la directrice de l’évaluation et de l’accès à l’innovation (DEAI)\, du Pr François Richard et du Dr Christian Espagno\, co-présidents du Haut Conseil des nomenclatures (HCN)\, sur la procédure d’évaluation des actes et prestations préalablement à leur inscription au remboursement et les moyens d’accélérer cette inscription.
 DTEND:20260408T073000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -304,17 +304,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459399
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Catherine Vautrin\, ministre des armées et des anciens combattants et de Mme Alice Rufo\, ministre déléguée auprès de la ministre des armées et des anciens combattants sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
-DTEND:20260408T140000Z
+DTEND:20260408T151500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260408T130000Z
+DTSTART:20260408T130500Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459535
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Nicolas Roche\, Secrétaire général de la défense et de la sécurité nationale (SGDSN)\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
 DTEND:20260408T160000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -324,7 +324,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459536
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Table ronde sur le thème « Effets structurels prévisibles de l’intelligence artificielle sur le marché de l’emploi : qu’anticiper ? peut on anticiper ? » \;Mme Axelle Arquié\, économiste au Centre d’études prospectives et d’informations internationales (Cepii) et fondatrice de l’Observatoire des emplois menacés et émergents \;M. Simon Bunel\, administrateur de l’Institut national de la statistique et des études économiques\, économiste-chercheur à la Banque de France et chercheur associé au Farhi Innovation Lab du Collège de France.
 DTEND:20260408T092500Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -334,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459387
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Débat politique interne à la commission\, ouvert aux membres du groupe d’amitié France-Liban\, en présence de la presse\, sur les derniers développements de la situation au Liban.
 DTEND:20260408T083000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -344,7 +344,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459650
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Delphine Ernotte\, présidente-directrice générale de France Télévisions\, et M. Christophe Tardieu\, secrétaire général de France Télévisions.
 DTEND:20260408T150000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -354,7 +354,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459609
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- table ronde - Syndicat National des Infirmières et Infirmiers Libéraux (SNIIL) – M. John Pinte\, président \;- Convergence Infirmière – M. Sébastien Chapdaniel\, Infirmier en pratique avancée \;- Fédération nationale des infirmiers (FNI) – M. Daniel Guillerm\, président \;- Syndicat National des Professionnels Infirmiers (SNPI) (sous réserve de participation) \;- Organisation Nationale des Syndicats d'Infirmiers Libéraux (ONSIL) (sous réserve de participation).
 DTEND:20260408T120000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -364,7 +364,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459721
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- audition - Caisse Nationale d’Assurance Maladie (CNAM) – M. Guillaume Couillard\, directeur délégué à la Gestion et à l’Organisation des soins\, M. Emmanuel Frère-Lecoutre\, directeur de l’Offre de Soins et Mme Véronika Lévendof\, chargée des relations avec le Parlement.
 DTEND:20260408T133000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -374,7 +374,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459722
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- Audition - AVECsanté – Mme Emmanuelle Barlerin\, co-présidente\, Mme Emilie Henry\, directrice et Mme Lydia Ghozlane\, chargée de plaidoyer.
 DTEND:20260408T143000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -384,7 +384,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459723
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:- audition - Conseil national de l’Ordre des Médecins (CNOM) – Pr Stéphane Oustric\, président\, Dr Jean-Luc Fontenoy\, vice-Président de la section Exercice professionnel et Président de la commission de la permanence des soins et Mme Caroline Nicet-Blanc\, conseillère juridique de la section Exercice professionnel.
 DTEND:20260408T153000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -394,7 +394,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459724
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Examen des articles du projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés (n° 2408) (M. Frantz Gumbs\, rapporteur) \;Désignation des rapporteurs de la mission d’évaluation de la loi n°2021-1716 du 21 décembre 2021 créant la fonction de directrice ou de directeur d’école\, et de la mission d’information sur l’instruction en famille \;Examen\, au titre de l’article 88 du Règlement\, des amendements à la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural (n° 2611) (M. Pierre Henriet\, rapporteur).
 DTEND:20260408T084500Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -404,7 +404,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459524
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Nomination de rapporteurs et de rapporteurs d'information \; Communication et avis politique de Mme Danièle Obono sur le coût environnemental de l’intelligence artificielle \;Examen de la proposition de résolution européenne appelant en la reconnaissance et la commémoration du génocide des Roms\, Sintis\, Gitans\, Manouches\, Yéniches et Voyageurs (n°2583).
 DTEND:20260408T142000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
@@ -414,7 +414,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459527
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de M. Benoît Pietrement\, président de l’interprofession des céréales françaises (Intercéréales)\, M. Lionel Deloingce et M. Éric Thirouin\, vice-présidents.
 DTEND:20260408T163000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -424,7 +424,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459370
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de M. Jean-Philippe Quitot\, chef du service des flottes et des marins à la direction générale des affaires maritimes\, de la pêche et de l’aquaculture (DGAMPA)\, accompagné de M. Antoine Hannedouche\, chef de la mission de la flotte de commerce.
 DTEND:20260408T130000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
@@ -434,7 +434,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459642
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T134420Z
+DTSTAMP:20260408T180842Z
 DESCRIPTION:Audition de M. Gil Lorenzo\, directeur général adjoint à la direction générale des douanes et droits indirects (DGDDI)\, accompagné de M. Guillaume Vanderheyden\, sous-directeur du commerce international.
 DTEND:20260408T143000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
