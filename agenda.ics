@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. James Huet\, président du Comité des assureurs de La Réunion et Mayotte.
 DTEND:20260409T091500Z
 LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459711
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. Christophe Bellanger\, vice-président de la Confédération de l’artisanat et des petites entreprises du bâtiment (CAPEB)\, en charge des affaires économiques\, accompagné de M. Cyrille Rickmounie\, président de la CAPEB Réunion\, M. Raymond Vaintilingom\, secrétaire général de la CAPEB Réunion\, M. Thibaut Bousquet\, directeur des affaires publiques de la CAPEB nationale\, et Mme Sylvie Montout\, directrice des affaires économiques.
 DTEND:20260409T103000Z
 LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
@@ -24,18 +24,18 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459712
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural Suite de la discussion de la proposition de loi visant à garantir le bénéfice des prestations familiales aux enfants placés Suite de la discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties Suite de la discussion de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques Suite de la discussion de la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicitesSuite de la discussion de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie Suite de la discussion de la proposition de loi\, modifiée par le Sénat\, visant à faire exécuter les peines d’emprisonnement fermeSuite de la discussion de la proposition de loi portant création d’une carte famille ouverte dès le deuxième enfant 
+DTSTAMP:20260409T142152Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties Discussion de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques Discussion de la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicitesDiscussion de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie Discussion de la proposition de loi\, modifiée par le Sénat\, visant à faire exécuter les peines d’emprisonnement fermeDiscussion de la proposition de loi portant création d’une carte famille ouverte dès le deuxième enfant 
 DTEND:20260409T140000Z
 LOCATION:Assemblée nationale
 DTSTART:20260409T130000Z
-SUMMARY:Deuxième séance publique (e)
+SUMMARY:Deuxième séance publique (198e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30441
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural Suite de la discussion de la proposition de loi visant à garantir le bénéfice des prestations familiales aux enfants placés Suite de la discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties Suite de la discussion de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques Suite de la discussion de la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicitesSuite de la discussion de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie Suite de la discussion de la proposition de loi\, modifiée par le Sénat\, visant à faire exécuter les peines d’emprisonnement fermeSuite de la discussion de la proposition de loi portant création d’une carte famille ouverte dès le deuxième enfant 
+DTSTAMP:20260409T142152Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties Suite de la discussion de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques Suite de la discussion de la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicitesSuite de la discussion de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie Suite de la discussion de la proposition de loi\, modifiée par le Sénat\, visant à faire exécuter les peines d’emprisonnement fermeSuite de la discussion de la proposition de loi portant création d’une carte famille ouverte dès le deuxième enfant 
 DTEND:20260409T203000Z
 LOCATION:Assemblée nationale
 DTSTART:20260409T193000Z
@@ -44,9 +44,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30442
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant des directeurs de systèmes d’information de ministères : M. Audran Le Baron\, directeur du numérique pour l’éducation\, ministère de l’Éducation nationale\, M. Mathieu Weill\, directeur de la transformation numérique (DTNUM)\, ministère de l’Intérieur\, M. Yves Billon\, chef du service du numérique au secrétariat général des ministères économiques et financiers.
-DTEND:20260409T093000Z
+DTEND:20260409T110000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
 DTSTART:20260409T083000Z
 SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459714
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:- audition de M. Frédéric Pascal\, rapporteur d’une mission sur l’intelligence artificielle et la pédagogie dans l’enseignement supérieur (juin 2025).
 DTEND:20260409T083000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459696
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Sébastien Colombet et M. Jonas Nefzi\, vice-présidents de l’association française des magistrats instructeurs (AFMI)\, et M. Vincent Raffray\, membre du conseil d’administration de l’AFMI .
 DTEND:20260409T140000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459517
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant les associations suivantes : M. Laurent Boyet\, fondateur et président de l’association Les Papillons \;Mme Martine Brousse\, présidente de l’association La voix de l’enfant\, et Mme Alexia Tafanelli\, déléguée générale \;Mme Églantine Cami\, chargée de plaidoyer et de sensibilisation au sein de l’association Caméléon \;Mme Steffy Alexandrian\, fondatrice et présidente de l’association Carl.
 DTEND:20260409T153000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -84,18 +84,8 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459518
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:- table ronde réunissant des représentants de syndicats enseignants (sous réserve de confirmation).
-DTEND:20260409T143000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260409T133000Z
-SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459699
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:-table ronde réunissant : Mme Sarah Boiteux\, responsable des politiques publiques et des affaires gouvernementales et M. Benoît Tabaka\, secrétaire général de Google France \; Mme Béatrice Oeuvrard\, responsable des affaires publiques et M. Thomas Defaux\, directeur juridique adjoint de Meta.
+DTSTAMP:20260409T142152Z
+DESCRIPTION:-table ronde réunissant : Mme Sarah Boiteux\, responsable des politiques publiques et des affaires gouvernementales  \; Mme Béatrice Oeuvrard\, responsable des affaires publiques et M. Thomas Defaux\, directeur juridique adjoint de Meta.\; M. Eneric Lopez\, directeur IA et innovation et M. Benedict Brodrick\, chargé des affaires publiques de Microsoft France.
 DTEND:20260409T130000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260409T120000Z
@@ -104,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459698
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Table ronde\, non ouverte à la presse\, sur l’accès à la justice et le traitement judiciaire des VSS réunissant Mmes Joséphine Coz\, avocate au barreau de Paris\, Carine Durrieu-Diebolt\, avocate au barreau de Paris\, MM. Arnaud Godefroy\, avocat au barreau de Marseille et Sahand Saber\, avocat au barreau de Paris.
 DTEND:20260409T100000Z
 LOCATION:Visioconférence sans salle
@@ -114,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459499
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:- table ronde d’académiciens réunissant : M. Antoine Compagnon\, membre de l’Académie française\, M. Patrick Flandrin\, membre de l’Académie des sciences et M. Daniel Andler\, membre de l’Académie des sciences morales et politiques.
 DTEND:20260409T091500Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -124,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459697
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:- table ronde - Fédération de la formation et de l’enseignement privés-Confédération française démocratique du travail (FEP-CFDT) – M. Boris Genty\, secrétaire fédéral et M. Harold Dauphin\, expert \;- Syndicat national de l’enseignement chrétien-Confédération française des travailleurs chrétiens (Snec-CFTC) – M. Ludovic Valerino\, délégué national agricole \;- Fédération générale agroalimentaire-Confédération française démocratique du travail (FGA – CFDT) – M. Fabrice Chevaucherie\, secrétaire national CFDT AgriAgro \;- Syndicat national Force ouvrière des personnels des maisons familiales rurales (FO-MFR) – M. Philippe Bascoul\, secrétaire national et Mme Nathalie Bories\, secrétaire nationale adjointe.
 DTEND:20260409T090000Z
 LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
@@ -134,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459717
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, non ouverte à la presse\, de M. Clément Lanier\, doctorant en droit et auteur de « Les victimes de violences sexuelles face à l’épreuve de la justice »\, 2023.
 DTEND:20260409T081500Z
 LOCATION:Visioconférence sans salle
@@ -144,9 +134,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:Discussion de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural Discussion de la proposition de loi visant à garantir le bénéfice des prestations familiales aux enfants placés Discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties Discussion de la proposition de loi visant à simplifier la gestion de la commande publique par les acheteurs publics et les opérateurs économiques Discussion de la proposition de loi visant à prévenir l’utilisation de contrats d’énergie pour légitimer des occupations illicitesDiscussion de la proposition de loi pour la sécurisation des ressources des familles monoparentales par une pension alimentaire garantie Discussion\, en deuxième lecture\, de la proposition de loi visant à faire exécuter les peines d’emprisonnement fermeDiscussion de la proposition de loi portant création d’une carte famille ouverte dès le deuxième enfant 
-DTEND:20260409T080000Z
+DTSTAMP:20260409T142152Z
+DESCRIPTION:Discussion de la proposition de loi visant à encadrer les regroupements pédagogiques intercommunaux afin de garantir l’égalité d’accès à l’école en milieu rural Discussion de la proposition de loi visant à garantir le bénéfice des prestations familiales aux enfants placés Discussion de la proposition de loi visant à renforcer la pénalisation de l’organisation de rave-parties 
+DTEND:20260409T110000Z
 LOCATION:Assemblée nationale
 DTSTART:20260409T070000Z
 SUMMARY:Première séance publique (197e)
@@ -154,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30440
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, non ouverte à la presse\, de Mmes Anne-Sophie Lepinard\, présidente de la commission Accès aux droits du Conseil national des barreaux (CNB)\, Clotilde Lepetit\, membre de la commission Libertés et droits de l’Homme du CNB et Mona Laaroussi\, chargée de mission affaires publiques au CNB.
 DTEND:20260409T104500Z
 LOCATION:Visioconférence sans salle
@@ -164,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de Mme Florence Ghilbert\, directrice générale adjointe de la Direction générale des outre-mer.
 DTEND:20260409T130000Z
 LOCATION:Visioconférence sans salle
@@ -174,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459707
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Table ronde sur l’état du logement social à La Réunion et à Mayotte\, réunissant Mme Anne Séry\, directrice générale de la Société d'économie mixte d'aménagement\, de développement et d'équipement de La Réunion (SEMADER) et de la Société dionysienne d’aménagement et de construction (SODIAC)\, M. Laurent Pinsel\, directeur général de la Société Immobilière du Département de La Réunion (SIDR)\, M. Frédéric Pillore\, directeur général de la Société d'Économie Mixte d'Aménagement et de Construction (SEMAC) et M. Ahmed Ali Mondroha\, directeur général de la Société immobilière de Mayotte (SIM).
 DTEND:20260409T080000Z
 LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
@@ -184,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459709
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. Damien Charrier\, président du président du Conseil national de l’Ordre des experts-comptables.
 DTEND:20260409T160000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -194,9 +184,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459621
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:Table ronde\, ouverte à la presse\, « acheteurs publics »\, réunissant : M. Edward Jossa\, président de l’Union des groupements d’achats publics (Ugap)\, M. Thomas Jan\, directeur général adjoint en charge de l’innovation et de la stratégie numérique de l’Union des hôpitaux pour les achats (UniHa)\, et Centrale d’achat du numérique et des télécoms (CANUT) (à confirmer).
-DTEND:20260409T080000Z
+DTSTAMP:20260409T142152Z
+DESCRIPTION:Table ronde\, ouverte à la presse\, « acheteurs publics »\, réunissant : M. Edward Jossa\, président de l’Union des groupements d’achats publics (Ugap)\, M. Thomas Jan\, directeur général adjoint en charge de l’innovation et de la stratégie numérique de l’Union des hôpitaux pour les achats (UniHa)\, M. Lionel Schweitzer et M. Jean-Christophe Thorel\, administrateurs de la Centrale d’achat du numérique et des télécoms (Canut).
+DTEND:20260409T083000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
 DTSTART:20260409T070000Z
 SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
@@ -204,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459713
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, ouverte à la presse\, du général d’armée Pierre Schill\, chef d’état-major de l’armée de Terre\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
 DTEND:20260409T150000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -214,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Table-ronde avec des représentants de France Industrie\, du Mouvement des entreprises de taille intermédiaires (Meti) et de la Confédération des petites et moyennes entreprises (CPME).
 DTEND:20260409T100000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -224,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459547
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. Jérôme Cesbron\, président de Notaires conseils d’entreprise (NCE).
 DTEND:20260409T130000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -234,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459548
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, ouverte à la presse\, du Pre Coraline Hingray\, psychiatre\, fondatrice de la Maison de la Résilience.
 DTEND:20260409T093000Z
 LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
@@ -244,9 +234,19 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459660
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
-DESCRIPTION:Audition\, ouverte à la presse\, du général d’armée aérienne Fabien Mandon\, chef d’état-major des Armées\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
+DTSTAMP:20260409T142152Z
+DESCRIPTION:DiscussionDiscussion
 DTEND:20260409T080000Z
+LOCATION:Sénat
+DTSTART:20260409T070000Z
+SUMMARY:Séance publique (1e)
+TRANSP:TRANSPARENT
+UID:OMC_RUSNR5L17S2026IDS30560
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T142152Z
+DESCRIPTION:Audition\, ouverte à la presse\, du général d’armée aérienne Fabien Mandon\, chef d’état-major des Armées\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
+DTEND:20260409T090500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
 DTSTART:20260409T070000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
@@ -254,17 +254,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459537
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, ouverte à la presse\, conjointe avec la commission des finances\, de Mme Carine Camby\, présidente de la première chambre de la Cour des comptes\, sur l’avis du Haut Conseil des finances publiques relatif au projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
-DTEND:20260409T100000Z
+DTEND:20260409T103500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260409T090000Z
+DTSTART:20260409T092000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459538
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, ouverte à la presse\, de l’amiral Nicolas Vaujour\, chef d’état-major de la Marine\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (sous réserve de son dépôt).
 DTEND:20260409T130000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459539
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. Cédric Dubourdieu\, associé\, responsable pour la France de BC Partners.
 DTEND:20260409T141500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459184
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition de M. Nicolas Dufourcq\, directeur général de BPIFrance.
 DTEND:20260409T080000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -294,19 +294,19 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459185
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition\, conjointe avec la commission de la défense nationale et des forces armées\, de Mme Carine Camby\, présidente de la 1ère chambre de la Cour des comptes\, sur l’avis du Haut Conseil des finances publiques relatif au projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
-DTEND:20260409T100000Z
+DTEND:20260409T103500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260409T090000Z
+DTSTART:20260409T092000Z
 SUMMARY:Réunion de la commission des finances
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459586
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de Mme Nejma Brahim\, Mme Julia Pascual et M. Tomas Statius\, journalistes.
-DTEND:20260409T083000Z
+DTEND:20260409T091500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
 DTSTART:20260409T073000Z
 SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
@@ -314,19 +314,19 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459587
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de M. Jacky Hénin\, ancien maire de Calais\, et de M. Damien Carême\, ancien maire de Grande-Synthe.
-DTEND:20260409T100000Z
+DTEND:20260409T102500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
-DTSTART:20260409T090000Z
+DTSTART:20260409T092000Z
 SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459589
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:Printemps social de l'évaluationAuditions de M Michel Lauzzana\, rapporteur de la mission visant à évaluer la mise en œuvre des campagnes de vaccination contre le papillomavirus  dans les collèges (article 37 de la LFSS pour 2024)à 8 heures 45 :-- audition du Laboratoire MSD – Mme Clarisse Lhoste\, présidente de MSD France\, Mme Aurélie Andrieux-Bonneau\, directrice politiques de santé\, affaires publiques et communication\, Mme Mathilde Boizon\, responsable affaires parlementaires.à 9 heures 40 :-- audition de Santé publique france.à 10 heures 35 :-- audition de la Caisse nationale d’assurance maladie – Mme Stéphanie Deschaume\, directrice adjointe des Assurés au sein de la direction déléguée à la gestion et à l’organisation des soins\, Mme Valérie Ertel\, responsable adjointe au département prévention et promotion de la santé et Mme Véronika Levendof\, chargée des relations avec le Parlement.à 11 heures 30 :-- audition de l'Institut national du cancer (INCa) – M. Norbert Ifrah\, président\, et M. Nicolas Scotté\, directeur général.
-DTEND:20260409T074500Z
+DTEND:20260409T103000Z
 LOCATION:2ème Bureau – Palais Bourbon\, 1er étage
 DTSTART:20260409T064500Z
 SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
@@ -334,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459728
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T040205Z
+DTSTAMP:20260409T142152Z
 DESCRIPTION:A 14 heures :-- table-ronde  Agence régionale de santé (ARS) Nouvelle Aquitaine – M. Benoît Elleboode\, directeur général\, Dr Sylvie Quelet\, conseillère médicale\, directrice de projets\;Agence régionale de santé (ARS) Grand Est – Dr Christelle Ratignier-Carbonneil\, directrice générale\;Agence régionale de santé (ARS) de Bretagne – Mme Nathalie Le Formal\, directrice de la Santé publique\, et M. Anthony Le Bot\, directeur adjoint prévention et promotion en santé\;Agence régionale (ARS) d’Île-de-France – M. Denis Robin directeur général\;Agence régionale de santé (ARS) de Provence-Alpes-Côte d’Azur – M. Olivier Reilhes\, directeur de la santé publique et environnementale.A 15 heures 30 :-- table-ronde :Rectorat de l’académie de Bordeaux – M. Jean-Marc Huart\, recteur\;Rectorat de l’académie de Rennes – Mme Hélène Insel\, rectrice\;Rectorat de l’Académie de Nancy-Metz – M. Pierre-François Mourier\, recteur\;Rectorat de l’Académie de Créteil – M. Jean-François Chanet\, recteur\;Rectorat de l’académie d’Aix-Marseille – M. Benoit Delaunay\, recteur.
 DTEND:20260409T130000Z
 LOCATION:Visioconférence sans salle
