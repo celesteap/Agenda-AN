@@ -4,17 +4,17 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260410T042025Z
+DTSTAMP:20260410T124318Z
 DESCRIPTION:Discussion de la proposition de loi\, adoptée par le Sénat\, visant à permettre aux salariés de certains établissements et services de travailler le 1er maiDiscussion de la proposition de loi\, adoptée par le Sénat\, visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées 
-DTEND:20260410T080000Z
+DTEND:20260410T102000Z
 LOCATION:Assemblée nationale
 DTSTART:20260410T070000Z
-SUMMARY:Première séance publique (200e)
+SUMMARY:Séance publique (200e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30438
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260410T042025Z
+DTSTAMP:20260410T124318Z
 DESCRIPTION:Suite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à permettre aux salariés de certains établissements et services de travailler le 1er maiSuite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées 
 DTEND:20260410T140000Z
 LOCATION:Assemblée nationale
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30439
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260410T042025Z
+DTSTAMP:20260410T124318Z
 DESCRIPTION:Participation de Mme Natalia Pouzyreff\, présidente de la délégation française\, à la réunion de la Commission permanente de l’AP OTAN à Riga (Lettonie) du 10 au 12 avril 2026.
 DTEND:20260412T215959Z
 DTSTART:20260409T220000Z
@@ -33,9 +33,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459318
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260410T042025Z
+DTSTAMP:20260410T124318Z
 DESCRIPTION:Examen\, en application de l’article 91 du Règlement\, des amendements à la proposition de loi\, adoptée par le Sénat\, visant à permettre aux salariés de certains établissements et services de travailler le 1er mai (n° 2335) (M. Thibault Bazin\, rapporteur).
-DTEND:20260410T074500Z
+DTEND:20260410T065000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
 DTSTART:20260410T064500Z
 SUMMARY:Réunion de la commission des affaires sociales
@@ -43,9 +43,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459732
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260410T042025Z
+DTSTAMP:20260410T124318Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, visant à instaurer une procédure simplifiée de recouvrement des créances commerciales incontestées (n° 2578) (M. Charles Sitzenstuhl\, rapporteur) \;Nomination d’un rapporteur sur la décision de classement ou d’examen\, en application de l’article 148 alinéa 3 du Règlement\, de la pétition n°5158 « Non à la loi Yadan ».
-DTEND:20260410T100000Z
+DTEND:20260410T091000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
 DTSTART:20260410T090000Z
 SUMMARY:Réunion de la commission des lois
