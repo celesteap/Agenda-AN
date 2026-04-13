@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Table ronde réunissant des représentants de parents d’élèves : M. Grégoire Ensel\, vice-président de la Fédération des conseils de parents d’élèves des écoles publiques (FCPE)\, et M. Emmanuel Garot\, président de la Fédération des parents d'élèves de l’enseignement public (PEEP).
 DTEND:20260413T130000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459793
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Discussion du projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés
 DTEND:20260413T150000Z
 LOCATION:Assemblée nationale
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30483
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Suite de la discussion du projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privésDiscussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat
 DTEND:20260413T203000Z
 LOCATION:Assemblée nationale
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30484
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Audition\, ouverte à la presse\, des organisations syndicales des personnels civils du ministère des Armées et des Anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
 DTEND:20260413T143000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459663
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Audition\, ouverte à la presse\, des associations professionnelles nationales des militaires (APNM)\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
 DTEND:20260413T160000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -54,9 +54,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459664
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Examen\, au titre de l’article 88 du Règlement\, des amendements au projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés (n° 2628) (M. Frantz Gumbs\, rapporteur).
-DTEND:20260413T144500Z
+DTEND:20260413T135000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260413T134500Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459633
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Audition- M. Stéphane Le Foll\, ancien ministre de l’agriculture\, de l’agroalimentaire et de la forêt.
 DTEND:20260413T133000Z
 LOCATION:Visioconférence sans salle
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459833
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat (n° 2468) (M. Charles Rodwell\, rapporteur).
 DTEND:20260413T201500Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -84,24 +84,14 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459638
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
+DTSTAMP:20260413T144010Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Guillaume Ollagnier\, directeur général des relations internationales et de la stratégie au ministère des Armées et des Anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260413T130000Z
+DTEND:20260413T131500Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
 DTSTART:20260413T120000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459541
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T044726Z
-DESCRIPTION:Mission du groupe d'amitié en Tunisie
-DTEND:20260416T215959Z
-LOCATION:Tunisie
-DTSTART:20260412T220000Z
-SUMMARY:Réunion de France-Tunisie
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459701
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
