@@ -4,94 +4,224 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Table ronde réunissant des représentants de parents d’élèves : M. Grégoire Ensel\, vice-président de la Fédération des conseils de parents d’élèves des écoles publiques (FCPE)\, et M. Emmanuel Garot\, président de la Fédération des parents d'élèves de l’enseignement public (PEEP).
-DTEND:20260413T130000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260413T120000Z
-SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459793
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Discussion du projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés
-DTEND:20260413T150000Z
-LOCATION:Assemblée nationale
-DTSTART:20260413T140000Z
-SUMMARY:Première séance publique (201e)
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30483
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Suite de la discussion du projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privésDiscussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat
-DTEND:20260413T203000Z
-LOCATION:Assemblée nationale
-DTSTART:20260413T193000Z
-SUMMARY:Deuxième séance publique (e)
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30484
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Audition\, ouverte à la presse\, des organisations syndicales des personnels civils du ministère des Armées et des Anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260413T143000Z
-LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260413T133000Z
-SUMMARY:Réunion de la commission de la défense nationale et des forces armées
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459663
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Audition\, ouverte à la presse\, des associations professionnelles nationales des militaires (APNM)\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260413T160000Z
-LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260413T150000Z
-SUMMARY:Réunion de la commission de la défense nationale et des forces armées
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459664
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Examen\, au titre de l’article 88 du Règlement\, des amendements au projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés (n° 2628) (M. Frantz Gumbs\, rapporteur).
-DTEND:20260413T135000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260413T134500Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459633
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Audition- M. Stéphane Le Foll\, ancien ministre de l’agriculture\, de l’agroalimentaire et de la forêt.
-DTEND:20260413T133000Z
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Table ronde de jeunes agriculteurs :- M. Adrien Garnier (élevage laitier conventionnel) \;- Mme Maëlle Guillet (élevage laitier biologique) \;- M. Thomas Lion (grandes cultures biologiques) \;- M. Léo Colas (élevage laitier et production de yaourts biologiques) \;- M. Baptiste Moussay et/ou M. Adrien Moussay (élevage laitier\, cultures\, taurillons et méthanisation).
+DTEND:20260414T140000Z
 LOCATION:Visioconférence sans salle
-DTSTART:20260413T123000Z
+DTSTART:20260414T130000Z
 SUMMARY:Réunion de la mission flash sur les leviers de l’enseignement agricole pour enseigner à produire autrement
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459833
+UID:OMC_RUANR5L17S2026IDC459834
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat (n° 2468) (M. Charles Rodwell\, rapporteur).
-DTEND:20260413T201500Z
-LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260413T191500Z
-SUMMARY:Réunion de la commission des lois
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition\, ouverte à la presse\, de Mme Stéphanie Schaer\, directrice interministérielle du numérique\, et M. Jérémie Vallet\, son adjoint.
+DTEND:20260414T153000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260414T143000Z
+SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459638
+UID:OMC_RUANR5L17S2026IDC459750
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260413T144010Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Guillaume Ollagnier\, directeur général des relations internationales et de la stratégie au ministère des Armées et des Anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260413T131500Z
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Questions au GouvernementLecture des conclusions de la commission mixte paritaire sur le projet de loi de simplification de la vie économique Suite de la discussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat
+DTEND:20260414T140000Z
+LOCATION:Assemblée nationale
+DTSTART:20260414T130000Z
+SUMMARY:Première séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30485
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentat
+DTEND:20260414T203000Z
+LOCATION:Assemblée nationale
+DTSTART:20260414T193000Z
+SUMMARY:Deuxième séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30486
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition- Association nationale française des infirmier.e.s en pratique avancée (Anfipa) – Mme Stéphanie Malartre\, présidente et M. Allan Julliot-Delval\, vice-président.
+DTEND:20260414T123000Z
+LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
+DTSTART:20260414T113000Z
+SUMMARY:Réunion 
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459827
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audtion- Mme Delphine Micaëlli\, Infirmière en Pratique Avancée\, puéricultrice et doctorante en santé publique et Mme Zina Ghelab\, Infirmière en Pratique Avancée à l’Hôpital Robert Debré.
+DTEND:20260414T133000Z
+LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
+DTSTART:20260414T123000Z
+SUMMARY:Réunion 
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459828
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition- Mme Sophie Chrétien\, infirmière en pratique avancée à la Maison Médicale Jeanne Garnier\, chargée de recherche.
+DTEND:20260414T143000Z
+LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
+DTSTART:20260414T133000Z
+SUMMARY:Réunion 
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459829
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Nomination du bureau \;Nomination des rapporteurs \;Examen des dispositions restant en discussion de la proposition de loi.
+DTEND:20260414T080000Z
+LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
+DTSTART:20260414T070000Z
+SUMMARY:Réunion de la commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion de la proposition de loi visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de liberté
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459742
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Déjeuner organisé en l'honneur de Mme Dina Al Bashir\, députée à la Chambre des représentants de Jordanie
+DTEND:20260414T120000Z
+LOCATION:Petit Hôtel
+DTSTART:20260414T103000Z
+SUMMARY:Réunion de France-Jordanie
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459743
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition de M. Antoine Guery\, chargé des relations institutionnelles et parlementaires\, M. Pierre-Alain Muller\, référent numérique et président de l’université de Haute-Alsace\, et M. Adam Apazov\, conseiller numérique de France Universités.
+DTEND:20260414T080000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260414T070000Z
+SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459794
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:- audition de Mme Pascale Brandt-Pomares\, directrice de l’Institut national supérieur du professorat et de l’éducation (Inspé) d’Aix-Marseille\, et M. Naïl Ver-Ndoye\, délégué général du Réseau des Inspé.
+DTEND:20260414T084500Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260414T074500Z
+SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459795
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition de Son Exc. M. Nodir Ganiev\, Ambassadeur d'Ouzbékistan en France
+DTEND:20260414T130000Z
+LOCATION:salle 4085
+DTSTART:20260414T120000Z
+SUMMARY:Réunion 
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459596
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition du CV Briand\, sous-directeur des Affaires internationales et de M. Danin\, sous-directeur adjoint résilience et planification de sécurité nationale du Secrétariat général de la défense et de la sécurité nationale.
+DTEND:20260414T090000Z
+LOCATION:Salle 4016 –  9 rue de Bourgogne\, Rez-de-chaussée
+DTSTART:20260414T080000Z
+SUMMARY:Réunion de la mission d’information commune sur les changements environnementaux et les enjeux de défense
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459798
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition de M. le général de division aérienne Vincent Breton\, directeur de l’École de guerre et du CV Christophe Le Coz\, directeur adjoint du Centre des hautes études militaires.
+DTEND:20260414T120000Z
+LOCATION:Salle 4016 –  9 rue de Bourgogne\, Rez-de-chaussée
+DTSTART:20260414T110000Z
+SUMMARY:Réunion de la mission d’information commune sur les changements environnementaux et les enjeux de défense
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459799
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition\, ouverte à la presse\, du général d’armée aérienne Jérôme Bellanger\, chef d’état-major de l’armée de l’air et de l’espace\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
+DTEND:20260414T170000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260413T120000Z
+DTSTART:20260414T160000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459541
+UID:OMC_RUANR5L17S2026IDC459666
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Nomination d’un rapporteur sur le projet de loi d’urgence pour la protection et la souveraineté agricole (n° 2632) \;- audition de M. Dominique Schelcher\, président-directeur général du groupe Coopérative U.
+DTEND:20260414T153000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260414T143000Z
+SUMMARY:Réunion de la commission des affaires économiques
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459203
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition\, conjointe avec la commission des affaires étrangères\, de Mme Catherine Vautrin\, ministre des armées et des anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630).
+DTEND:20260414T153000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260414T143000Z
+SUMMARY:Réunion de la commission des finances
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459588
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition\, conjointe avec la commission des finances\, de l’économie générale et du contrôle budgétaire et ouverte à la presse\, de Mme Catherine Vautrin\, ministre des armées et des anciens combattants\, sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630).
+DTEND:20260414T153000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260414T143000Z
+SUMMARY:Réunion de la commission des affaires étrangères
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459651
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition de l'Union des aéroports français
+DTEND:20260414T150000Z
+LOCATION:salle 7070\, 103 rue de l'Université
+DTSTART:20260414T140000Z
+SUMMARY:Réunion - Aéronautique et espace
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL459839
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition du Conseil des prélèvements obligatoires et de la Cour des comptes :M. Patrick Lefas\, vice-président du Conseil des prélèvements obligatoires \;M. Guilhem Blondy\, secrétaire général du Conseil des prélèvements obligatoires \;M. Alexandre Jehan\, conseiller référendaire du Conseil des prélèvements obligatoires \;M. Emmanuel Giannesini\, président de section à la première chambre de la Cour des comptes.
+DTEND:20260414T170000Z
+LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
+DTSTART:20260414T160000Z
+SUMMARY:Réunion de la commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459771
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition de M. Pascal Le Brun\, président du Centre national interprofessionnel de l’économie laitière (Cniel) et M. Pierre Cormeir-Guais\, responsable des affaires publiques.
+DTEND:20260414T170000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260414T160000Z
+SUMMARY:Réunion de la commission des affaires économiques
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459371
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260414T042009Z
+DESCRIPTION:Audition commune :- chambres de commerce et d’industrie (CCI France) :-- m. Nicolas Bonnet\, directeur général.-- mme Jade Fautsch\, responsable des relations institutionnelles avec le Parlement et les CCI d’Outre-mer.- chambre des métiers et de l’artisanat (CMA France) :-- m. Julien Gondard\, directeur général.-- m. Samuel Deguara\, directeur des affaires publiques et des relations institutionnelles.
+DTEND:20260414T123000Z
+LOCATION:Salle 3 – 95\, rue de l’Université
+DTSTART:20260414T113000Z
+SUMMARY:Réunion Mission d’information sur l’avenir des commerces de proximité
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459773
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
