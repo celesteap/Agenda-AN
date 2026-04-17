@@ -4,284 +4,71 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, non ouverte à la presse\, du Dr Morgane Le Bail\, cheffe du service des bonnes pratiques de la Haute autorité de santé et Mme Christine Revel-Delhom\, adjointe à la cheffe de service. 
-DTEND:20260416T090000Z
-LOCATION:Visioconférence sans salle
-DTSTART:20260416T081500Z
-SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et accompagnement des victimes
+DTSTAMP:20260417T040221Z
+DESCRIPTION:Rencontre avec M. Safeen Dizayee\, ministre responsable des relations extérieures du Gouvernement régional du Kurdistan
+DTEND:20260417T090000Z
+LOCATION:3ème bureau
+DTSTART:20260417T080000Z
+SUMMARY:Réunion de France-Irak
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459849
+UID:OMC_RUANR5L17S2026IDC459848
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentatSuite de la discussion du projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômageSuite de la discussion du projet de loi\, adopté par le Sénat\, autorisant l’approbation de l’accord entre la France et les Caraïbes relatif à l’adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985Suite de la discussion du projet de loi autorisant l’approbation de l’accord entre la France et la Moldavie dans le domaine de la sécurité sociale
-DTEND:20260416T140000Z
+DTSTAMP:20260417T040221Z
+DTEND:20260417T080000Z
 LOCATION:Assemblée nationale
-DTSTART:20260416T130000Z
-SUMMARY:Deuxième séance publique (208e)
+DTSTART:20260417T070000Z
+SUMMARY:Première séance publique (e)
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30490
+UID:OMC_RUANR5L17S2026IDS30492
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentatSuite de la discussion du projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômageSuite de la discussion du projet de loi\, adopté par le Sénat\, autorisant l’approbation de l’accord entre la France et les Caraïbes relatif à l’adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985Suite de la discussion du projet de loi autorisant l’approbation de l’accord entre la France et la Moldavie dans le domaine de la sécurité sociale
-DTEND:20260416T203000Z
+DTSTAMP:20260417T040221Z
+DTEND:20260417T140000Z
 LOCATION:Assemblée nationale
-DTSTART:20260416T193000Z
+DTSTART:20260417T130000Z
+SUMMARY:Deuxième séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30493
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T040221Z
+DTEND:20260417T203000Z
+LOCATION:Assemblée nationale
+DTSTART:20260417T193000Z
 SUMMARY:Troisième séance publique (e)
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30491
+UID:OMC_RUANR5L17S2026IDS30494
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de M. Alex van Hoek\, responsable pour l’Europe des investissements en private equity chez Apollo Global Management (en visioconférence).
-DTEND:20260416T094500Z
+DTSTAMP:20260417T040221Z
+DESCRIPTION:Audition d’une délégation du Gouvernement régional du Kurdistan (KRG)
+DTEND:20260417T120000Z
+LOCATION:7e Bureau
+DTSTART:20260417T110000Z
+SUMMARY:Réunion - Kurdes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL459857
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T040221Z
+DESCRIPTION:Table-ronde avec des représentants de salariés du groupe Atos.
+DTEND:20260417T080000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T084500Z
+DTSTART:20260417T070000Z
 SUMMARY:Réunion de la commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459550
+UID:OMC_RUANR5L17S2026IDC459644
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de Mesdames Souâd Belhaddad et Marie-Claude Picardat\, rapporteures de l’avis du Conseil Économique Social et Environnemental (CESE) intitulé : « De la banalisation de la violence verbale au discours de haine. Décrypter\, mieux agir pour restaurer le lien social ». 
-DTEND:20260416T120000Z
-LOCATION:2e Bureau
-DTSTART:20260416T110000Z
-SUMMARY:Réunion - Racisme et discriminations raciales ou religieuses
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDFL459731
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de représentants de la direction générale de la stabilité financière\, des services financiers et de l’union des marchés des capitaux (DG FISMA) de la Commission européenne (en visioconférence).
-DTEND:20260416T141500Z
+DTSTAMP:20260417T040221Z
+DESCRIPTION:Audition de M. Philippe Salle\, président-directeur général d’Atos.
+DTEND:20260417T103000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T131500Z
+DTSTART:20260417T093000Z
 SUMMARY:Réunion de la commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459552
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, ouverte à la presse\, de Mme Christel Heydemann\, directrice générale du groupe Orange.
-DTEND:20260416T103000Z
-LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
-DTSTART:20260416T083000Z
-SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459754
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, ouverte à la presse\, de Mme Maya Noël\, directrice générale de France Digitale.
-DTEND:20260416T133500Z
-LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260416T120500Z
-SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459755
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de M. Patrick Sayer\, président du tribunal des activités économiques de Paris (à huis clos).
-DTEND:20260416T084500Z
-LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T074500Z
-SUMMARY:Réunion de la commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459555
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentatDiscussion du projet de loi portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômageDiscussion du projet de loi\, adopté par le Sénat\, autorisant l’approbation de l’accord entre la France et les Caraïbes relatif à l’adhésion au protocole sur les privilèges et immunités de la Communauté des Caraïbes du 14 janvier 1985Discussion du projet de loi autorisant l’approbation de l’accord entre la France et la Moldavie dans le domaine de la sécurité socialeDiscussion de la proposition de loi visant à lutter contre les formes renouvelées de l'antisémitisme
-DTEND:20260416T105500Z
-LOCATION:Assemblée nationale
-DTSTART:20260416T070000Z
-SUMMARY:Première séance publique (207e)
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30489
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, non ouverte à la presse\, de MM. Arnaud Bazin et Pierre Barros\, sénateurs et rapporteurs du rapport d’information sur l’évolution du financement de la lutte contre les violences faites aux femmes de la commission des Finances du Sénat.
-DTEND:20260416T081500Z
-LOCATION:Visioconférence sans salle
-DTSTART:20260416T073000Z
-SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et accompagnement des victimes
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459625
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Stéphane Oustric\, président du Conseil national de l’Ordre des médecins\, et du Dr Christine Louis-Vahdat\, présidente de la section Éthique et Déontologie.
-DTEND:20260416T153000Z
-LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T143000Z
-SUMMARY:Réunion de la commission d'enquête
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459671
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Présentation de trois rapports récents de l’Académie des technologies sur :Les PFAS par M. Patrick Maestro \;L’ordinateur quantique par M. Thierry Bonhomme \;La biomasse dans la transition énergétique par M. Dominique Vignon \;Questions diverses.
-DTEND:20260416T095500Z
-LOCATION:Sénat (Salle 263 – Commission des affaires économiques\, Palais du Luxembourg)
-DTSTART:20260416T073500Z
-SUMMARY:Réunion de l'office parlementaire d'évaluation des choix scientifiques et technologiques
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459747
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:évaluation des politiques de santé environnementale : examen du rapport (ouvert à la presse).
-DTEND:20260416T131000Z
-LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T123000Z
-SUMMARY:Réunion du comité d'évaluation et de contrôle des politiques publiques
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459790
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Fédération des entreprises d’insertionM. Ludovic Blot\, administrateur en charge des questions liées à l’économie circulaireM. Guillaume Labbé\, responsable « filières et développement économique »
-DTEND:20260416T130000Z
-LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260416T120000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459811
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Direction générale des collectivités locales (DGCL) Mme Marie Cornet\, cheffe du bureau des services publics locauxMme Anoko Lawson\, rédactrice 
-DTEND:20260416T140000Z
-LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260416T130000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459812
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Table ronde « Associations environnementales »– Zero Waste FranceMme Pauline Debrabandere\, responsable « plaidoyer et campagnes »Mme Marie-Lou Bracieux\, stagiaire sur les filières REP – Surfrider Foundation Europe (sous réserve)
-DTEND:20260416T153000Z
-LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260416T140000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459813
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Table ronde « Metteurs sur le marché »– Union des industries textiles (UIT) M. Thibault Turchet\, responsable « RSE et développement durable »– Confédération de l'artisanat et des petites entreprises du bâtiment (Capeb)M. Jean-Michel Martin\, administrateur M. Thibaut Bousquet\, directeur des affaires publiques– Fédération des industries électriques\, électroniques et de communication (Fiiec)M. Teoman Bakoglu\, délégué général adjoint– Fédération française du bâtiment (FFB)Mme Stéphanie Coullon\, cheffe du service « environnement »Mme Léa Lignères\, chargée d’études relations institutionnelles
-DTEND:20260416T100000Z
-LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260416T083000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459810
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de MM. Patrick Sayer\, président\, et Bertrand Kleinmann\, vice-président du tribunal des activités économiques de Paris.
-DTEND:20260416T080000Z
-LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T070000Z
-SUMMARY:Réunion de la commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459549
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Table ronde réunissant : Mme Amandine Duffoux\, directrice du campus Arts et Métiers d’Angers-Laval\, et animatrice du groupe de travail « stratégies numériques et formation à distance » de la Conférence des grandes écoles (CGE)\, Mme Marie Salvan\, référente commission numérique de la CGE \; Mme Virginie Bonnaillie Noël\, directrice adjointe sciences\, M. Gabriel Peyré\, directeur de recherche en intelligence artificielle au département de mathématiques et applications de l’École normale supérieure et M. Hugo Mercier\, directeur de recherche en sciences cognitives au sein de l’Institut Jean Nicod de l’École Normale Supérieure (ENS PSL).
-DTEND:20260416T090000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T080000Z
-SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459796
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Table ronde réunissant des représentants de syndicats enseignants du supérieur : Délégation Cneser : Mme Maria Susana Seguin\, membre de la Qualité de la science française (QSF)\, maître de conférence HDR\, Université Paul Valéry Montpellier \; M. Laurent Coste \, membre de la CFE-CGC\, professeur d’histoire moderne à l’université Bordeaux Montaigne \; M. Arab Ben Ali-Cherif\, membre de Sup’Recherche UNSA\, professeur et directeur du laboratoire informatique avancée à l’université de Paris 8 \; MM. David Réaux et Rémi Boulle\, membres du bureau national du Collectif 384 \; MM. Jean-Marc Cicuto et Paul Dumont\, membres de la CFTC \; (CGT\, Sud Education\, CFDT\, sous réserve de confirmation).
-DTEND:20260416T103000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T093000Z
-SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459797
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, ouverte à la presse\, de Mme Sarah El Haïry\, Haute-commissaire à l’enfance.
-DTEND:20260416T140000Z
-LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T130000Z
-SUMMARY:Réunion de la commission d'enquête
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459668
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:- audition\, non ouverte à la presse\, de Mme Christine Gonzalez-Demichel\, cheffe du Service statistique ministériel de la sécurité intérieure et Mme Cécile Welter-Médée\, adjointe à la cheffe de service et cheffe du bureau des études statistiques sur la délinquance et la victimation.
-DTEND:20260416T094500Z
-LOCATION:Visioconférence sans salle
-DTSTART:20260416T090000Z
-SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et accompagnement des victimes
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459733
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:- la répartition des dépenses entre l’assurance maladie obligatoire et l’assurance maladie complémentaire - à 9 heures 30 :- audition conjointe de la direction générale du Trésor (délégation en attente)\, et de Mme Évelyne Massé\, première secrétaire générale adjointe de l’Autorité de contrôle prudentiel et de résolution (ACPR)\, de M. Jean Boissinot\, directeur des études et de l’analyse des risques\, et de Mme Diane Griffon\, chargée de mission auprès de la conseillère parlementaire du Gouverneur de la Banque de France\, président de l’ACPR \;à 10 heures 30 :- audition de M. Philippe Charpentier\, chef du service des politiques sociales et salariales et des carrières à la direction générale de l’administration et de la fonction publique (DGAFP)\, de Mme Juliette Lafont Carro\, adjointe au chef du département de la protection sociale et des retraites\, et de Mme Camille Mohamad-Rialland\, chargée d’études au département de la protection sociale et des retraites \;- à 11 heures 30 :- audition de Mme Magali Rascle\, directrice déléguée aux politiques sociales de la Caisse centrale de la mutualité sociale agricole (CCMSA)\, de Mme Christine Dechesne-Ceard\, directrice de la réglementation\, de M. Thibaut Chauvel\, directeur du financement et de la comptabilité\, et de M. Christophe Simon\, responsable des relations parlementaires.
-DTEND:20260416T101500Z
-LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260416T074000Z
-SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459783
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Bernard Lejeune\, président de la sixième chambre de la Cour des comptes\, sur la lutte contre le travail dissimulé.
-DTEND:20260416T091500Z
-LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260416T080000Z
-SUMMARY:Réunion du comité d'évaluation et de contrôle des politiques publiques
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459789
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Table ronde « Réemploi »– Réseau vrac et réemploiMme Célia Rennesson\, co-fondatrice et présidente– Fédération Rcube M. Nadjib Renai\, délégué général M. Renaud Attal\, secrétaire général Mme Clémence Cornet\, présidente de la commission « santé et réemploi » – Union pour le réemploi solidaireMme Marie Castagné\, co-déléguée générale du réseau national des ressourceries et recycleries– Fédération Envie M. Guillaume Balas\, délégué général
-DTEND:20260416T083000Z
-LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260416T070000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459809
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de M. Loïc Cantin\, président de la Fédération nationale de l’immobilier (FNAIM)\, accompagné de Mme Joëlle Goepfert\, directrice de cabinet.
-DTEND:20260416T080000Z
-LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260416T070000Z
-SUMMARY:Réunion de la mission d’évaluation de la politique du logement social dans les Outre-mer
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459854
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260416T181116Z
-DESCRIPTION:Audition de Mme Mariam Locate\, conseillère nationale de l’Ordre des architectes\, et de M. Mathieu de Vlieger\, responsable des affaires publiques du Conseil national de l’Ordre des architectes (CNOA).
-DTEND:20260416T093000Z
-LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260416T083000Z
-SUMMARY:Réunion de la mission d’évaluation de la politique du logement social dans les Outre-mer
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459855
+UID:OMC_RUANR5L17S2026IDC459645
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
