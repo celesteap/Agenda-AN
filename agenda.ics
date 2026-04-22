@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260422T135746Z
+DTSTAMP:20260422T191106Z
 DESCRIPTION:Rencontre avec une délégation de la National Defense University d’Arabie Saoudite
 DTEND:20260422T103000Z
 LOCATION:Salon Gabriel
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260422T135746Z
+DTSTAMP:20260422T191106Z
 DESCRIPTION:Nomination d’un rapporteur sur la proposition de loi n° 1706 \;Audition de Mme Carine Camby\, présidente de la 1ère chambre de la Cour des comptes\, sur le rapport sur le budget de l’État en 2025\, sur le rapport de certification des comptes de l’État pour 2025 et sur les avis du Haut Conseil des finances publiques relatifs au projet de loi relatif aux résultats de la gestion et portant approbation des comptes de l’année 2025 et au rapport annuel d’avancement du plan budgétaire et structurel à moyen terme.
 DTEND:20260422T135000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459862
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260422T135746Z
+DTSTAMP:20260422T191106Z
 DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de la loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
 DTEND:20260422T111000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -34,9 +34,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459676
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260422T135746Z
+DTSTAMP:20260422T191106Z
 DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260422T133000Z
+DTEND:20260422T174000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
 DTSTART:20260422T123000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459677
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260422T135746Z
+DTSTAMP:20260422T191106Z
 DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
 DTEND:20260422T203000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
