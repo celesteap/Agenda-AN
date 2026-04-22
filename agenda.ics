@@ -4,54 +4,54 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260421T183703Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Arnaud Caudoux\, directeur général adjoint de Bpifrance\, M. Lionel Chaine\, directeur des systèmes d’information\, et Mme Sophie Rémont\, directrice en charge de l’expertise et des programmes au sein de la direction de l’innovation.
-DTEND:20260421T092500Z
-LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260421T071500Z
-SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
+DTSTAMP:20260422T040217Z
+DESCRIPTION:Rencontre avec une délégation de la National Defense University d’Arabie Saoudite
+DTEND:20260422T103000Z
+LOCATION:Salon Gabriel
+DTSTART:20260422T090000Z
+SUMMARY:Réunion de France-Arabie Saoudite
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459756
+UID:OMC_RUANR5L17S2026IDC459595
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T183703Z
-DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant des fournisseurs de cloud : M. Sébastien Lescop\, directeur général de Cloud Temple\, M. Eric Haddad\, président exécutif de NumSpot\, M. Philippe Miltin\, directeur général d’Outscale Dassault Systèmes\, M. David Chassan\, directeur de la stratégie\, M. Octave Klaba\, président-directeur général d’OVHcloud\, Mme Solange Viegas Dos Reis\, directrice juridique\, et M. Damien Lucas\, directeur général de Scaleway.
-DTEND:20260421T135000Z
-LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260421T120000Z
-SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
+DTSTAMP:20260422T040217Z
+DESCRIPTION:Nomination d’un rapporteur sur la proposition de loi n° 1706 \;Audition de Mme Carine Camby\, présidente de la 1ère chambre de la Cour des comptes\, sur le rapport sur le budget de l’État en 2025\, sur le rapport de certification des comptes de l’État pour 2025 et sur les avis du Haut Conseil des finances publiques relatifs au projet de loi relatif aux résultats de la gestion et portant approbation des comptes de l’année 2025 et au rapport annuel d’avancement du plan budgétaire et structurel à moyen terme.
+DTEND:20260422T130000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260422T120000Z
+SUMMARY:Réunion de la commission des finances
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459758
+UID:OMC_RUANR5L17S2026IDC459862
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T183703Z
-DESCRIPTION:Discussion générale puis examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260421T080000Z
+DTSTAMP:20260422T040217Z
+DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de la loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
+DTEND:20260422T080000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260421T070000Z
+DTSTART:20260422T070000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459673
+UID:OMC_RUANR5L17S2026IDC459676
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T183703Z
+DTSTAMP:20260422T040217Z
 DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260421T133000Z
+DTEND:20260422T133000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260421T123000Z
+DTSTART:20260422T123000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459674
+UID:OMC_RUANR5L17S2026IDC459677
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260421T183703Z
+DTSTAMP:20260422T040217Z
 DESCRIPTION:Suite de l’examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
-DTEND:20260421T203000Z
+DTEND:20260422T203000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260421T193000Z
+DTSTART:20260422T193000Z
 SUMMARY:Réunion de la commission de la défense nationale et des forces armées
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459675
+UID:OMC_RUANR5L17S2026IDC459678
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
