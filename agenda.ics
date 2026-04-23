@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition de MM. Jérôme Garnache-Creuillot\, président-directeur général\, Julien Morelle\, secrétaire général\, et Laurent Collet-Billon\, administrateur d’Europlasma.
 DTEND:20260423T151500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459847
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Table-ronde\, à huis clos\, avec des représentants de la direction générale du Trésor\, de la direction générale des entreprises (DGE) et de l’Agence des participations de l’État (APE).
 DTEND:20260423T091500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459648
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition de MM. Mathias Burghardt\, directeur général délégué du Groupe Ardian\, président du directoire d’Ardian France et François Jerphagnon\, membre du comité exécutif du Groupe Ardian\, directeur général du directoire d’Ardian France.
 DTEND:20260423T111500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459649
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Suite de l’audition de Mme Hélène Bourbouloux\, administratrice judiciaire et associée gérante FHBX (à huis clos).
 DTEND:20260423T083000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459647
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition de Mme Adeline Kulig\, directrice des programmes de l’association En avant toutes\, chargée de la mise en œuvre des mesures de soutien prévues dans le cadre de la Coordination nationale d’accompagnement des étudiantes et des étudiants (CNAÉ)\, accompagnée de Mmes Laurène Scutelnicu\, écoutante psychosociale\, et Laetitia Ngono\, stagiaire Data\, et Mme Nathalie Roudaut\, déléguée générale de Nightline France.
 DTEND:20260423T080000Z
 LOCATION:Salle 8838 – 233 boulevard Saint-Germain\, 8ème étage
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459917
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition de Mme Hélène Bourbouloux\, administratrice judiciaire et associée gérante FHBX.
 DTEND:20260423T080000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459646
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition\, dans le cadre d’une table-ronde\, de représentants de plusieurs organisations professionnelles.
 DTEND:20260423T163000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459778
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:éventuellement : suite de l’examen\, ouvert à la presse\, du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (MM. Yannick Chenevard et Jean-Louis Thiériot\, rapporteurs).
 DTEND:20260423T080000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459679
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T150142Z
+DTSTAMP:20260423T190805Z
 DESCRIPTION:Audition de MM. Daniel Baal\, président\, et Francois Lefebvre\, directeur général adjoint de la Fédération bancaire française.
 DTEND:20260423T140000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
