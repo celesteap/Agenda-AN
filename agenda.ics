@@ -3,5 +3,115 @@ TZ:+00
 VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Table ronde réunissant : M. Serge Barbet\, directeur du Centre pour l’éducation aux médias et à l’information (Clemi) et Mme Virginie Sassoon\, directrice adjointe \; Mme Florence Rizzo\, co-fondatrice et co-directrice de Ecolhuma \; Mme Alexandra Wisniewski\, directrice générale adjointe du Réseau Canopé et M. Romain Vanoudheusden\, directeur scientifique\, cultures numériques et innovation.
+DTEND:20260427T120000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T110000Z
+SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459957
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Suite de l'ordre du jour de l'après-midi.
+DTEND:20260427T200000Z
+LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
+DTSTART:20260427T190000Z
+SUMMARY:Réunion de la commission des lois
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459760
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:- audition de Monsieur Laurent Nuñez\, ministre de l’Intérieur\, et discussion générale sur le projet de loi\, adopté par le Sénat\, relatif à l’extension des prérogatives\, des moyens\, de l’organisation et du contrôle des polices municipales et des gardes champêtres (n° 2464) (MM. Christophe Marion et Eric Pauget\, rapporteurs) \;- examen du projet de loi\, adopté par le Sénat\, relatif à l’extension des prérogatives\, des moyens\, de l’organisation et du contrôle des polices municipales et des gardes champêtres (n° 2464) (MM. Christophe Marion et Eric Pauget\, rapporteurs).
+DTEND:20260427T150000Z
+LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
+DTSTART:20260427T140000Z
+SUMMARY:Réunion de la commission des lois
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459759
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Débat sur le rapport d’avancement annuel sur le suivi de l’exécution du plan budgétaire et structurel à moyen terme
+DTEND:20260427T150000Z
+LOCATION:Assemblée nationale
+DTSTART:20260427T140000Z
+SUMMARY:Séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30591
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition de M. Roland Lescure\, ministre de l’économie\, des finances et de la souveraineté industrielle et numérique\, et de M. David Amiel\, ministre chargé des comptes publics\, sur le projet de loi relatif aux résultats de la gestion et portant approbation des comptes de l’année 2025 et sur le rapport annuel d’avancement du plan budgétaire et structurel à moyen terme.
+DTEND:20260427T130000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260427T120000Z
+SUMMARY:Réunion de la commission des finances
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459863
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :M. Ronan Boillot\, directeur national des garde-côtes des douanes \;M. Stéphane Dubois\, directeur du service garde-côtes des douanes Manche-Mer du Nord-Atlantique \;Mme Frédérique Durand\, directrice régionale des douanes de Dunkerque \;M. Thomas Charvet\, administrateur des douanes.
+DTEND:20260427T143000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T133000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459930
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :Mme Mireille Hingrez-Céréda\, 1re vice-présidente du conseil départemental du Pas-de-Calais\, en charge des enjeux maritimes et métropolitains du Littoral\, de la pêche\, du Port départemental d’Etaples\, des relations européennes et transfrontalières \;Mme Marie Tonnerre-Desmet\, vice-présidente du conseil départemental du Nord\, chargée de l’enfance\, de la famille et de la jeunesse.
+DTEND:20260427T154500Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T144500Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459931
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :M. Maurice Georges\, président du directoire de Dunkerque Port \;M. Laurent Devulder\, directeur général de Port Boulogne Calais \;M. Didier Cazelles\, directeur général délégué d’Eurotunnel.
+DTEND:20260427T170000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T160000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459932
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Examen du rapport\, à huis clos.
+DTEND:20260427T133000Z
+LOCATION:Salle 6566 – Palais Bourbon\, 2ème étage
+DTSTART:20260427T123000Z
+SUMMARY:Réunion de la commission d’enquête sur la neutralité\, le fonctionnement et le financement de l’audiovisuel public
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459868
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :M. Hugo Gilardi\, directeur général de l’Agence régionale de santé (ARS) de la région Hauts-de-France \;M. Samy Bayod\, directeur du Centre Hospitalier de Dunkerque \;M. Martin Trelcat\, directeur général par intérim du Centre Hospitalier de Calais\, accompagné de Mme Valérie Genest\, directrice des affaires générales et de la stratégie.
+DTEND:20260427T130000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T120000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459929
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T005327Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Adam Beernaert\, directeur général de la Protection civile du Pas-de-Calais.
+DTEND:20260427T110000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260427T100000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459928
+END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
