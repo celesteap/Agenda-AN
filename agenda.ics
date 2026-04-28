@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Présentation\, ouverte à la presse\, de la communication de la mission flash sur l’impact des taxes et redevances qui s’appliquent au transport aérien desservant les outre-mer (Mme Béatrice Bellay\, MM. Elie Califer\, Stéphane Lenormand et Davy Rimane rapporteurs) \;Questions diverses.
 DTEND:20260428T160000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459913
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de M. Guillaume Larroque\, directeur marketing et services Europe du groupe TotalEnergie\, Mme Isabelle Patrier\, directrice France\, et Mme Vanessa Jaeger\, directrice des relations institutionnelles France.
 DTEND:20260428T170000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -24,9 +24,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459915
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Suite de l'ordre du jour de la veille.
-DTEND:20260428T170000Z
+DTEND:20260428T175000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
 DTSTART:20260428T160000Z
 SUMMARY:Réunion de la commission des lois
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459761
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Suite de l'ordre du jour de l'après-midi.
 DTEND:20260428T200000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459762
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition du Conseil Supérieur du Notariat :Me Bertrand Savouré\, président \;Me Olivier Piquet\, membre du bureau.
 DTEND:20260428T160000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459903
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de l’Institut des avocats-conseils fiscaux :Me Stéphanie Auféril \;Me Jean-François Desbuquois \;Me Philippe Gosset \;Me Jean-Yves Mercier.
 DTEND:20260428T173000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459904
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition commune :- fédération des Entreprises Immobilières (FEI) :-- m. Jean-Marc Jestin\, directeur général de la société Klepierre\, administrateur membre du bureau exécutif de la FEI.-- mme Aigline de Ginestous\, directrice « groupe des affaires institutionnelles de la société Unibail-Rodamco-Westfield ».-- m. Julien Goubault\, secrétaire général de la société Klepierre.-- mme Delphine Charles-Péronne\, déléguée générale.- association Française des Sociétés de Placement Immobilier (ASPIM) :-- m. Frédéric Bôl\, président.-- mme Véronique Donnadieu\, déléguée générale.-- m. Jean-Marc Peter\, directeur général de SOFIDY et administrateur de l’ASPIM.-- mme Clarisse Costa\, responsable des affaires institutionnelles.
 DTEND:20260428T123000Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459884
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant les syndicats de police suivants :M. Yohann Fossard\, représentant UN1TE \;M. Benjamin Camboulives\, porte-parole Alternative Police CFDT \;MM. Yann Khadri et Mathias Guillard\, délégués IDF de l’UNSA Police \;Mme Isabelle Trouslard\, secrétaire générale adjointe de Synergie-Officiers et Mme Christelle Jaeger\, conseillère technique \;M. Romain Lecalier\, secrétaire général adjoint du syndicat des cadres de la sécurité intérieure (SCSI) et M. Fabrice Jacquet\, secrétaire national \;Mme Dorine Debonne et M. Stanislas Gaudon\, représentants du syndicat Alliance Police nationale.
 DTEND:20260428T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -84,17 +84,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459886
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Centre antipoison de Angers – Pr Alexis Descatha\, médecin\, chef de service\, Dr Gaël Le Roux\, pharmacien\, responsable de l’unité de toxicovigilance \;Centre antipoison de Bordeaux – Dr Magali Oliva-Labadie\, médecin\, chef de service du centre antipoison de Bordeaux\, Mme Audrey Nardon\, pharmacienne\, responsable de l’unité de toxicovigilance\, M. Camille Paradis\, pharmacien\, adjoint à la responsable de l’unité de toxicovigilance \;Centre antipoison de Lille – Dr Patrick NISSE\, chef de service et le Dr Ramy AZZOUZ\, chef de service adjoint\, practiciens hospitalier.
-DTEND:20260428T153000Z
+DTEND:20260428T163000Z
 LOCATION:Visioconférence sans salle
-DTSTART:20260428T143000Z
+DTSTART:20260428T153000Z
 SUMMARY:Réunion 
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459954
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de représentants de la direction générale de l’enseignement supérieur et de l’insertion professionnelle (Dgesip) - Mmes Laure Vagner-Shaw\, cheffe du service de la stratégie des formations et de la vie étudiante\, adjointe au directeur général\, Caroline Ollivier-Yaniv\, cheffe de la mission IA.
 DTEND:20260428T080000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459958
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de représentants de la direction générale des réseaux de communication\, du contenu et des technologies (DG Connect) (sous réserve de confirmation).
 DTEND:20260428T084500Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459959
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition du groupe SACPA sur le thème de l’abandon des animaux et le délai en fourrière.
 DTEND:20260428T130000Z
 LOCATION:salle 4075 (9 rue de Bourgogne)
@@ -124,9 +124,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDFL459251
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Nomination du bureau \;Nomination des rapporteurs \;Examen des dispositions restant en discussion de la proposition de loi.
-DTEND:20260428T073000Z
+DTEND:20260428T065500Z
 LOCATION:au Sénat\, 15 rue de Vaugirard\, Paris 6e\, en salle 263 (commission des affaires économiques)
 DTSTART:20260428T063000Z
 SUMMARY:Réunion de la commission mixte paritaire chargée de proposer un texte sur les dispositions restant en discussion de la proposition de loi visant à améliorer l’accès au logement des travailleurs des services publics
@@ -134,9 +134,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459878
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition\, à huis clos\, conjointe avec la commission des affaires étrangères\, de M. Nicolas Roche\, secrétaire général de la défense et de la sécurité nationale (SGDSN)\, et de M. Marc-Antoine Brillant\, chef du service de vigilance et de protection contre les ingérences numériques étrangères (Viginum)\, sur la lutte contre les ingérences étrangères dans les processus électoraux.
-DTEND:20260428T153000Z
+DTEND:20260428T165000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260428T143000Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459749
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de Son Exc. M. Nodir Ganiev\, Ambassadeur d'Ouzbékistan en France
 DTEND:20260428T130000Z
 LOCATION:salon Mansart
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459596
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Désignation d’un rapporteur sur la proposition de loi pour une montagne vivante et souveraine (n° 2595) \;Examen\, pour avis\, du projet de loi pour la protection et la souveraineté agricoles : discussion générale et examen des articles (n° 2632) (Mme Nathalie Coggia et M. Xavier Roseren\, rapporteurs pour avis).
 DTEND:20260428T153000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459803
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Suite de l'examen\, pour avis\, du projet de loi pour la protection et la souveraineté agricoles (n° 2632) (Mme Nathalie Coggia et M. Xavier Roseren\, rapporteurs pour avis).
 DTEND:20260428T203000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -174,19 +174,19 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459804
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
-DESCRIPTION:Printemps social d'évaluationAuditions de Mme Elise Leboucher et M. Sébastien Peytavie\, co-rapporteurs d’une mission d’évaluation sur la réforme du financement de la psychiatrie (article 34 de la loi de financement de la sécurité sociale pour 2020)A 10h00-- inspection générale des affaires sociales (Igas) – sous réserve de confirmationA 11h00-- collectif Printemps de la psychiatrie – Mme Delphine Glachant\, présidente\, M. Martin Pavelka\, pédopsychiatre\, M. Serge Klopp\, cadre infirmier\, et Mme Jocelyne Goût\, infirmière 
-DTEND:20260428T090000Z
+DTSTAMP:20260428T174308Z
+DESCRIPTION:Printemps social d'évaluationAuditions de Mme Elise Leboucher et M. Sébastien Peytavie\, co-rapporteurs d’une mission d’évaluation sur la réforme du financement de la psychiatrie (article 34 de la loi de financement de la sécurité sociale pour 2020)-- collectif Printemps de la psychiatrie – Mme Delphine Glachant\, présidente\, M. Martin Pavelka\, pédopsychiatre\, M. Serge Klopp\, cadre infirmier\, et Mme Jocelyne Goût\, infirmière 
+DTEND:20260428T094500Z
 LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
-DTSTART:20260428T080000Z
+DTSTART:20260428T090000Z
 SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459971
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Printemps social d'évaluationAuditions de Mme Elise Leboucher et M. Sébastien Peytavie\, co-rapporteurs d’une mission d’évaluation sur la réforme du financement de la psychiatrie (article 34 de la loi de financement de la sécurité sociale pour 2020)A 13h00- table ronde:-- union nationale de famille et amis de personnes malades et/ou handicapées psychiques (Unafam) – Mme Emmanuelle Rémond\, présidente-- fédération nationale des associations d’usagers en psychiatrie (FNAPSY) – sous réserve de confirmationA 14h45- table ronde :-- force ouvrière (FO) – M. Emmanuel Tinnes\, secrétaire fédéral FO-personnels des services publics et des services de santé (SPSS)\, M. Jean- Yves Boisson\, membre du syndicat Cadres Hospitaliers (CH-FO) \;-- confédération française démocratique du travail (CFDT) – Mme Virginie Briselet Capron\, secrétaire nationale\, et M. Fabien Hallet\, attaché politique de la fédération \;-- union nationale des syndicats autonomes (Unsa) – M. Yann Le Baron\, secrétaire national de la Fédération U.N.S.A. Santé et Sociaux Public et Privé\, M. Sylvain Michel\, conseiller technique national en charge des secteurs de la psychiatrie\, et Mme Karine Roger\, secrétaire générale adjointe.A 16h30-- pr Franck Bellivier\, ancien délégué ministériel à la santé mentale et à la psychiatrie
-DTEND:20260428T120000Z
+DTEND:20260428T153000Z
 LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
 DTSTART:20260428T110000Z
 SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
@@ -194,17 +194,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459973
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Questions au GouvernementDiscussion\, sur le rapport de la commission mixte paritaire\, de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, visant à garantir le droit de visite des parlementaires et des bâtonniers dans les lieux de privation de libertéDébat sur le thème : « Dissociation\, syndromes traumatiques et décrédibilisation de la parole des victimes de violences sexistes et sexuelles dans le processus judiciaire » (salle Lamartine)Débat sur le thème : « La politique du logement » (salle Lamartine)
 DTEND:20260428T140000Z
 LOCATION:Assemblée nationale
 DTSTART:20260428T130000Z
-SUMMARY:Deuxième séance publique (e)
+SUMMARY:Deuxième séance publique (212e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30522
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Suite du débat sur le thème : « La politique du logement » (salle Lamartine)Débat sur le thème : « Quelle politique de développement et de financement des modes d’accueil de la petite enfance ? » (salle Lamartine)
 DTEND:20260428T203000Z
 LOCATION:Assemblée nationale
@@ -214,9 +214,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30523
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Printemps social d'évaluationAuditions de Mme Elise Leboucher et M. Sébastien Peytavie\, co-rapporteurs d’une mission d’évaluation sur la réforme du financement de la psychiatrie (article 34 de la loi de financement de la sécurité sociale pour 2020)-- haute Autorité de santé – Pr Lionel Colet\, président\, et Mme Laetitia May\, cheffe du service évaluation et outils pour la qualité et la sécurité des soins.
-DTEND:20260428T163000Z
+DTEND:20260428T161500Z
 LOCATION:Visioconférence sans salle
 DTSTART:20260428T153000Z
 SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
@@ -224,9 +224,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459976
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition à huis clos\, conjointe avec la commission des affaires culturelles et de l’éducation\, de M. Nicolas Roche\, secrétaire général de la défense et de la sécurité nationale\, et de M. Marc-Antoine Brillant\, chef du service de vigilance et de protection contre les ingérences numériques étrangères (Viginum)\, sur la lutte contre les ingérences étrangères dans les processus électoraux.
-DTEND:20260428T153000Z
+DTEND:20260428T165000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260428T143000Z
 SUMMARY:Réunion de la commission des affaires étrangères
@@ -234,9 +234,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459777
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Audition de Mme Stéphanie Rist\, ministre de la santé\, des familles\, de l’autonomie et des personnes handicapées\, sur sa feuille de route.
-DTEND:20260428T153000Z
+DTEND:20260428T171000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
 DTSTART:20260428T143000Z
 SUMMARY:Réunion de la commission des affaires sociales
@@ -244,12 +244,12 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459640
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260428T062705Z
+DTSTAMP:20260428T174308Z
 DESCRIPTION:Questions orales sans débat (salle Lamartine)
-DTEND:20260428T080000Z
+DTEND:20260428T101500Z
 LOCATION:Assemblée nationale
 DTSTART:20260428T070000Z
-SUMMARY:Première séance publique (e)
+SUMMARY:Première séance publique (211e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30521
 END:VEVENT
