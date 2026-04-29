@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Collectif de victimes de Joël Le Scouarnec – Mme Manon Lemoine\, porte-parole et Mme Marie Grimaud\, avocate et bénévole.
 DTEND:20260429T083000Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459911
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:M. Hugo Lemonier\, journaliste et auteur du livre « Piégés : Dans le ‘‘journal intime’’du Dr Le Scouarnec ».
 DTEND:20260429T070000Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459912
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Présentation du rapport de la mission d’information sur l’évolution du pouvoir d’achat en France depuis 2017 au regard des indicateurs de prix et de consommation (MM. Thierry Benoit et Robert Le Bourgeois\, rapporteurs).
 DTEND:20260429T100000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459916
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Table ronde « Associations de consommateurs » :- Union fédérale consommateurs - Que choisir ?M. Benjamin Recher\, chargé des relations institutionnelles- Confédération de la consommation\, du logement et du cadre de vie (CLCV)Mme Ibtissam Mozher\, analyste socio-économique\, responsable d’études « réparations »M. Guillaume Ramond\, responsable chargé des relations institutionnelles
 DTEND:20260429T130000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459899
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Nomination de rapporteurs sur le projet de loi\, adopté par le Sénat après engagement de la procédure accélérée\, sur la justice criminelle et le respect des victimes (n° 2681) et le projet de loi organique\, adopté par le Sénat après engagement de la procédure accélérée\, relatif au renforcement des juridictions criminelles (n° 2682) \;La proposition de loi de M. Florent Boudié visant à rendre publics les avis du Conseil d’État sur les projets et sur les propositions de loi (n° 2569) et la proposition de loi organique de M. Florent Boudié visant à transmettre au Parlement les avis du Conseil d’État sur les projets de loi (n° 2570).
 DTEND:20260429T100000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459763
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Suite de l'ordre du jour du matin.
 DTEND:20260429T134500Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459764
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Suite de l'ordre du jour de l'après-midi.
 DTEND:20260429T200000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459765
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition\, ouverte à la presse\, du collectif #Fab8\, représenté par :M. Antoine Duboscq\, président de Wimi \;M. Thomas Fauré\, président de Whaller \;M. Alain Garnier\, président de Jamespot.
 DTEND:20260429T140000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459967
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Hela Ghariani\, directrice de la Plateforme des données de santé (Health Data Hub).
 DTEND:20260429T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459968
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de MM. Laurent Choukroun\, directeur général d’Oreus et Julien Lescoulié\, directeur technique\, et M. Charles-Antoine Beyney\, directeur général de DataOne.
 DTEND:20260429T163000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459969
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Renforcer la protection de l’Union face aux effets des législations extraterritoriales étrangères : examen de la proposition de résolution européenne de M. Aurélien Taché et plusieurs de ses collègues (n°2417) (Aurélien Taché\, rapporteur)\;Nomination de rapporteur sur la proposition de résolution européenne de Mme Sabrina Sebaihi visant à suspendre l’accord d’association Union européenne – Israël et à adopter des sanctions contre les violations du droit international humanitaire (n° 2699).
 DTEND:20260429T140000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459635
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Table ronde « Vente à distance et places de marché » :- Fédération e-commerce et vente à distance (Fevad)M. Hugo Jublan\, responsable « RSE »M. Moncef Lameche\, responsable chargé des affaires publiques- Alliance française des places de marché (AFPDM)Mme Charlotte Cheynard\, adhérente M. Lucas Maurici\, juriste en charge de la mise en conformité numérique\, adhérentM. Pierre Sellin\, consultant « affaires publiques »
 DTEND:20260429T140000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459900
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de M. Stéphan de Lamer Denoyés\, avocat en droit commercial\, de la concurrence et des affaires\, et en droit des éco-organismes et des filières REP.
 DTEND:20260429T150000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459901
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:- Association RejouéM. Nicolas Mitton\, présidentMme Karen Birstein\, co-directrice
 DTEND:20260429T160000Z
 LOCATION:Salle 7044 – 103 rue de l'Université\, 2ème sous-sol
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459902
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Fédération Nationale des Marchés de France :- mme Monique Rubin\, présidente.- mme Nadine Villier\, secrétaire générale.- mme Fabrice Jugnet\, délégué général.
 DTEND:20260429T140000Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459885
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :Mme Cécile Cée\, illustratrice \;Mme Mirlo Dulaurier\, chorégraphe \;Mme Coline Berry\, psychothérapeute et psychanalyste.
 DTEND:20260429T140000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459887
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Éric Dupond-Moretti\, ancien garde des Sceaux.
 DTEND:20260429T160000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459888
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de : M. Christophe Barret\, président de la Conférence nationale des procureurs généraux (CNPG) \;M. Frédéric Chevallier\, président de la Conférence nationale des procureurs de la République (CNPR).
 DTEND:20260429T173000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459889
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Nomination d’un rapporteur sur le projet de loi\, adopté par le Sénat\, après engagement de la procédure accélérée\, portant diverses dispositions d’adaptation au droit de l’Union européenne en matière économique\, financière\, environnementale\, énergétique\, d’information\, de transport\, de santé\, d’agriculture et de pêche (n° 2518) \;Audition de Mme Emmanuelle Wargon\, présidente de la Commission de régulation de l’énergie (CRE).
 DTEND:20260429T080000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459689
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Table ronde sur le bilan de l’expérimentation des pôles d’appui à la scolarité (PAS) Audition commune de M. Édouard Geffray\, ministre de l’éducation nationale\, et de Mme Camille Galliard-Minier\, ministre déléguée chargée de l’autonomie et des personnes handicapées \;Désignation du rapporteur sur la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, relative à l’organisation\, à la gestion et au financement du sport professionnel (no 1560).
 DTEND:20260429T083000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459748
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de Mme Sarah Perret\, cheffe de l’Unité de la fiscalité des particuliers et du patrimoine au sein du Centre de politique et d'administration fiscales de l'OCDE.
 DTEND:20260429T143000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459949
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de Mme Annie Genevard\, ministre de l’Agriculture\, de l’Agro-alimentaire et de la Souveraineté alimentaire\, sur le projet de loi d’urgence pour la protection et la souveraineté agricole\, et discussion générale sur le projet de loi (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260429T153000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459816
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de Mme Inès-Claire Mercereau\, présidente de la 2e chambre de la Cour des comptes\, sur le financement des énergies renouvelables et le coût de la filière nucléaire \;Communication de M. Jacques Oberti rapporteur de la mission flash sur les dysfonctionnements du logiciel Hélios.
 DTEND:20260429T080000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459864
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Printemps social d'évaluationAuditions de Mme Elise Leboucher et M. Sébastien Peytavie\, co-rapporteurs d’une mission d’évaluation sur la réforme du financement de la psychiatrie (article 34 de la loi de financement de la sécurité sociale pour 2020)- table ronde :-- fédération hospitalière de France (FHF) – Mme Cécile Chevance\, responsable du pôle offres\, et M. Vincent Ollivier\, responsable adjoint \;-- fédération des établissements hospitaliers et d’aide à la personne privés solidaires (FEHAP)   M. Arnaud Joan-Grange\, directeur de l’offre de soins et de la coordination des parcours de santé de la FEHAP\, et M. Olivier Callet\, directeur général de l’association « Les Ailes déployées » \; -- fédération de l’hospitalisation privée (FHP) – M. Marc Laidet\, président de la FHP-PSY\, et Mme Christine Schibler\, déléguée générale \;-- association des établissements participant au service public de santé mentale (ADESM) – M. Piero Chierici\, directeur de la politique générale\, Le Vinatier Psychiatrie universitaire Lyon Métropole\, Mme Stéphanie Fazi-Leblanc\, directrice du Centre Hospitalier Charles Perrens à Bordeaux\, M. Bruno Gallet\, directeur des EPSM Lille-Métropole\, Agglomération Lilloise et Val de Lys-Artois.
 DTEND:20260429T080000Z
 LOCATION:Salle N° 1 – 3 Aristide Briand\, 1er sous-sol
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459977
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition\, à huis clos\, de Mme Hélène Tréheux-Duchêne\, ambassadrice de France au Royaume-Uni.
 DTEND:20260429T121500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459933
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :Mme Cécile Gressier\, procureure de la République près le tribunal judiciaire de Boulogne-sur-Mer \;Mme Charlotte Huet\, procureure de la République près le tribunal judiciaire de Dunkerque.
 DTEND:20260429T140000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459934
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Rémi Vandeplanque\, garde-côte douanier et représentant de Solidaires.
 DTEND:20260429T153000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459935
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Printemps social d'évaluationAuditions de Mme Sylvie Bonnet\, rapporteure d’une mission sur le complément de libre choix de mode de garde (articles 86 de la LFSS pour 2023 et 100 et 101 de la LFSS pour 2026)A 9h00-- confédération nationale des associations familiales catholiques (CNAFC) – Mmes Pascale Moriniere\, présidente\, Marie-Laure Gagey des Brosses\, responsable de la politique familiale\, et M. Jérôme Husson\, délégué généralA 10h30- table ronde :-- union fédérative nationale des associations de familles d’accueil et assistantes maternelles (UFNAFAAM) – Mmes Sandra Onyszko-Limonier\, porte-parole et Marie-Ange Marchand\, membre du bureau national\, assistante maternelle en maison d’assistante maternelle (MAM)-- union nationale des syndicats autonomes PROASSMAT – Mmes Audrey Besnard-Lescene\, secrétaire générale\, Maité Coubat\, trésorière\, et M. Damien Beaudi\, trésorier adjoint-- syndicat professionnel des assistants maternels et des assistants familiaux (SPAMAF) – sous réserve de leur confirmation
 DTEND:20260429T080000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459981
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Printemps social d'évaluationAuditions de M Michel Lauzzana\, rapporteur de la mission visant à évaluer la mise en œuvre des campagnes de vaccination contre le papillomavirus dans les collèges introduites (article 37 de la loi de financement de la sécurité sociale pour 2024)A 10h00-- collectif « Demain Sans HPV » – Mme Coralie Marjollet\, porte-parole du collectif et présidente de l’association IMAGYN\, et Mme Laure de Montandon\, présidente de Notaboo (association qui lutte contre les cancers du canal anal)-- ligue contre le cancer –  MM. Robert Herrmann\, administrateur national et Emmanuel Ricard\, directeur du service prévention et promotion de la santé
 DTEND:20260429T090000Z
 LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
@@ -294,7 +294,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459983
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Suite de l’examen\, pour avis\, du projet de loi pour la protection et la souveraineté agricoles (n° 2632) (Mme Nathalie Coggia et M. Xavier Roseren\, rapporteurs pour avis).
 DTEND:20260429T080000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -304,7 +304,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459805
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Suite de l’examen\, pour avis\, du projet de loi pour la protection et la souveraineté agricoles (n° 2632) (Mme Nathalie Coggia et M. Xavier Roseren\, rapporteurs pour avis).
 DTEND:20260429T140000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -314,7 +314,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459806
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Suite de l’examen\, pour avis\, du projet de loi pour la protection et la souveraineté agricoles (n° 2632) (Mme Nathalie Coggia et M. Xavier Roseren\, rapporteurs pour avis).
 DTEND:20260429T203000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -324,7 +324,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459807
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Examen\, ouvert à la presse\, et vote sur les projets de loi suivants : Projet de loi\, adopté par le Sénat\, autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan sur la réadmission des personnes (n° 2416) (Mme Christine Engrand\, rapporteure) \; Projet de loi\, adopté par le Sénat\, autorisant l’approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République de Finlande pour l’élimination de la double imposition en matière d’impôts sur le revenu et la prévention de l’évasion et de la fraude fiscales\, et l’approbation de l’avenant à la convention entre le Gouvernement de la République française et le Gouvernement du Royaume de Suède en vue d’éviter les doubles impositions et de prévenir l’évasion fiscale en matière d’impôts sur le revenu et sur la fortune (n° 2054) (Mme Dieynaba Diop\, rapporteure) \; Nomination de rapporteurs sur les projets de loi suivants : Projet de loi\, adopté par le Sénat\, autorisant l’approbation de la convention entre le Gouvernement de la République française et le Gouvernement de la République de Chypre pour l’élimination de la double imposition en matière d’impôts sur le revenu et la prévention de l’évasion et de la fraude fiscales (n° 2516) \; Projet de loi autorisant l’approbation de la convention d’entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de la République des Seychelles\, signée à Victoria le 11 juillet 2024\, et la convention d’extradition entre le Gouvernement de la République française et le Gouvernement de la République des Seychelles\, signée à Victoria le 20 mars 2025 (sous réserve de son dépôt).
 DTEND:20260429T093000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -334,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459652
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de M. Emmanuel de Oliveira\, vice-amiral d’escadre (2s)\, président de la Société nationale de sauvetage en mer (SNSM)\, et M. Marc Sauvagnac\, directeur général.
 DTEND:20260429T140000Z
 LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
@@ -344,7 +344,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459926
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Audition de M. Pascal Dreyer\, président de Recherches &amp\; Solidarités\, et Mme Cécile Bazin\, déléguée générale.
 DTEND:20260429T150000Z
 LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
@@ -354,7 +354,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459927
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Questions au GouvernementDébat sur le thème : &quot\; Responsabilité des politiques conduites depuis 2017 sur la dégradation de la santé mentale des jeunes &quot\; (salle Lamartine)Débat sur le thème : « Associations en crise : quelle politique associative pour l’État ? » (salle Lamartine)
 DTEND:20260429T130000Z
 LOCATION:Assemblée nationale
@@ -364,7 +364,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30524
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:Débat avec invités extérieurs sur le thème : « Contamination généralisée aux PFAS : l’urgence d’interdire\, remplacer\, détruire » (salle Lamartine)
 DTEND:20260429T203000Z
 LOCATION:Assemblée nationale
@@ -374,7 +374,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30525
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T005800Z
+DTSTAMP:20260429T062123Z
 DESCRIPTION:- examen de la proposition de loi\, modifiée par le Sénat\, facilitant l’exercice en France des médecins diplômés au Royaume-Uni ayant commencé leurs études avant le Brexit (n° 2608) (M. Vincent Caure\, rapporteur) \;- communication de M. Gaëtan Dussausaye et Mme Josiane Corneloup\, rapporteurs de la mission « flash » sur les chiffres du chômage.
 DTEND:20260429T083000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
