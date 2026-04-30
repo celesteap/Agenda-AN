@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Roland Coutanceau\, expert psychiatre\, président du Syndicat national des experts psychiatres et psychologues (Snepp).
 DTEND:20260430T083000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459890
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Monia Zoghlami\, présidente de la Fédération des administrateurs ad hoc\, et Mme Adeline Gouttenoire\, professeure des universités.
 DTEND:20260430T103000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459891
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Gaëlle Colin\, sous-directrice en charge de la formation continue à l’École nationale de la magistrature.
 DTEND:20260430T133000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459892
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant les associations suivantes :Dr Emmanuelle Piet\, présidente du Collectif féministe contre le viol \;M. Maxime Montaut\, président et fondateur de Wanted Pedo \;Mme Mié Kohiyama\, fondatrice de BeBraveFrance \;Mme Sophie Decis\, responsable juridique au sein de l’association Enfance et Partage\, et Me Rodolphe Costantino\, avocat.
 DTEND:20260430T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459893
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- audition\, ouverte à la presse\, des principaux acteurs du raffinage\, de l’importation et de la distribution de produits pétroliers dans les outre-mer (programme en cours de finalisation) \;- questions diverses.
 DTEND:20260430T130000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459914
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Table ronde réunissant : M. Nicolas Parpex\, directeur French Touch Capital et pilote du plan French Touch de Bpifrance \; M. Bruno Bonnell\, secrétaire général pour l'investissement et M. Guillaume Bordry\, directeur du pôle connaissances auprès du secrétaire général pour l’investissement.
 DTEND:20260430T090000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459960
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition du professeur Ghislaine Dehaene-Lambertz\, directrice de recherche au Centre national de recherche scientifique (CNRS) et directrice de l'Institut hospitalo-universitaire (IHU) de l'Institut Robert-Debré du cerveau de l'enfant et du docteur Caroline Huron\, chercheuse à l'Institut national de la santé et de la recherche médicale (Inserm) et présidente de l'association Le cartable fantastique.
 DTEND:20260430T103000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459961
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Pierre Dubuc\, co-fondateur de l’entreprise OpenClassrooms.
 DTEND:20260430T111500Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459962
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition du Professeur Olivier Claris\, ancien président de la commission médicale d’établissement (CME) des Hospices civils de Lyon (HCL)\, auteur du rapport de la mission sur la gouvernance et la simplification hospitalières (2020).
 DTEND:20260430T080000Z
 LOCATION:Visioconférence sans salle
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459963
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Nicolas Sirven\, professeur à l’EHESP\, sur le coût de la mauvaise santé des professionnels de santé.
 DTEND:20260430T090000Z
 LOCATION:Visioconférence sans salle
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459964
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Adrien Capelle\, président du Syndicat des internes bas-normands (SIBN)\, CHU de Caen.
 DTEND:20260430T100000Z
 LOCATION:Visioconférence sans salle
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459965
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Examen de la note scientifique sur les néonicotinoïdes (Emeric Salmon\, député\, et Michaël Weber\, sénateur\, rapporteurs)Examen des conclusions de l’audition publique sur « Où va l’IA ? Quels développements pour quels usages ? »
 DTEND:20260430T083000Z
 LOCATION:Assemblée nationale (à confirmer)
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459568
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Bruno Le Maire\, ancien ministre de l'économie\, des finances et de la souveraineté industrielle\, énergétique et numérique.
 DTEND:20260430T073000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459779
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- audition\, non ouverte à la presse\, de Mme Magali Lafourcade\, magistrate et secrétaire générale de la commission nationale consultative des droits de l’homme (CNCDH).
 DTEND:20260430T090000Z
 LOCATION:Visioconférence sans salle
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459736
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- audition\, non ouverte à la presse\, de M. Denis Salas\, ancien magistrat et auteur de « Le déni du viol. Essai de justice narrative »\, 2018.
 DTEND:20260430T094500Z
 LOCATION:Visioconférence sans salle
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459737
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Roland Lescure\, ministre de l'économie\, des finances et de la souveraineté industrielle\, énergétique et numérique.
 DTEND:20260430T100000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459780
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- audition\, non ouverte à la presse\, de Mme Andreea Gruev-Vintila\, docteure en psychologie\, maitresse de conférences HDR à l’Université Paris-Nanterre. 
 DTEND:20260430T103000Z
 LOCATION:Visioconférence sans salle
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459738
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition de M. Marc Ferracci\, ancien ministre chargé de l’industrie et de l’énergie.
 DTEND:20260430T130000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459781
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- audition\, non ouverte à la presse\, de Mme Maryse Le Men Regnier\, magistrate et présidente de l’association France victimes.
 DTEND:20260430T113000Z
 LOCATION:Visioconférence sans salle
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459739
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Vincent Strubel\, directeur général de l’Agence nationale de la sécurité des systèmes d’information (Anssi).
 DTEND:20260430T080000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459984
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:- Audition\, non ouverte à la presse\, de Mmes Lucia Argibay et Manon Lefebvre\, secrétaires nationales du Syndicat de la magistrature. 
 DTEND:20260430T081500Z
 LOCATION:Visioconférence sans salle
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459850
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Henri d’Agrain\, délégué général du Club informatique des grandes entreprises françaises (Cigref).
 DTEND:20260430T093000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459970
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Débat sur le thème : « La lutte contre les occupations illicites de logements » (salle Lamartine)Débat sur le thème : « Financement et performance de la formation professionnelle : quelle efficacité de la dépense publique ? » (salle Lamartine)
 DTEND:20260430T080000Z
 LOCATION:Assemblée nationale
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30526
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Débat sur le thème « Quel bilan de la loi Climat et Résilience ? Quelles perspectives ? » (salle Lamartine)Débat sur le thème : « Simplification des normes et des contrôles agricoles : où en sont les décrets d’application des lois votées et quelles perspectives d’harmonisation avec les règles européennes ? » (salle Lamartine)
 DTEND:20260430T140000Z
 LOCATION:Assemblée nationale
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30527
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260430T012150Z
+DTSTAMP:20260430T060244Z
 DESCRIPTION:Suite du débat sur le thème : « Simplification des normes et des contrôles agricoles : où en sont les décrets d’application des lois votées et quelles perspectives d’harmonisation avec les règles européennes ? » (salle Lamartine)Débat avec invités extérieurs sur le thème : « Accord commercial de libre-échange entre l’Union européenne et le Canada : quels enseignements pour la politique commerciale de l’Europe et la souveraineté alimentaire ? » (salle Lamartine)
 DTEND:20260430T203000Z
 LOCATION:Assemblée nationale
