@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260504T005744Z
+DTSTAMP:20260504T063132Z
 DESCRIPTION:Suite de la discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, facilitant l’exercice en France des médecins diplômés au Royaume-Uni ayant débuté leurs études avant le BrexitSuite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260504T203000Z
 LOCATION:Assemblée nationale
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30540
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T005744Z
+DTSTAMP:20260504T063132Z
 DESCRIPTION:Discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, facilitant l’exercice en France des médecins diplômés au Royaume-Uni ayant débuté leurs études avant le BrexitDiscussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260504T140000Z
 LOCATION:Assemblée nationale
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30539
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T005744Z
+DTSTAMP:20260504T063132Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements sur le projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (n° 2630) (rapporteurs : MM. Yannick Chenevard et Jean Louis Thiériot).
 DTEND:20260504T130000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459996
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T005744Z
+DTSTAMP:20260504T063132Z
 DESCRIPTION:Examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260504T140000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459817
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T005744Z
+DTSTAMP:20260504T063132Z
 DESCRIPTION:Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260504T203000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
