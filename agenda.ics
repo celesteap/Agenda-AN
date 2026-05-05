@@ -4,19 +4,19 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Umberto Berkani\, rapporteur général de l’Autorité de la concurrence et M. Julien Neto\, rapporteur général adjoint .
-DTEND:20260505T153000Z
+DTEND:20260505T162000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260505T143000Z
+DTSTART:20260505T144000Z
 SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460047
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Questions au GouvernementSuite de la discussion de la proposition de loi visant à Suite renforcer la sécurité\, la rétention administrative et la prévention des risques d'attentat Vote solennel sur la proposition de loi visant à renforcer la sécurité\, la rétention administrative et la prévention des risques d’attentatLecture des conclusions de la commission mixte paritaire sur le projet de loi relatif à la lutte contre les fraudes sociales et fiscales Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
-DTEND:20260505T140000Z
+DTEND:20260505T180500Z
 LOCATION:Assemblée nationale
 DTSTART:20260505T130000Z
 SUMMARY:Première séance publique (220e)
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30541
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260505T220000Z
 LOCATION:Assemblée nationale
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30542
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Muriel Eglin\, magistrate\, vice-présidente de l’association française des magistrats de la jeunesse et de la famille (AFMJF)\, et de Mme Muriel Crebassa\, magistrate\, membre de l’association AFMJF.
 DTEND:20260505T153000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459894
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Table ronde d'universitaires :Mme Florence Deboissy\, professeur de droit privé et sciences criminelles à l’Université de Bordeaux \;M. Martin Collet\, professeur de droit public à l’Université Paris-Panthéon-Assas.
 DTEND:20260505T153000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459657
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260505T203000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459820
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Table ronde d’avocats :Me Pierre Dedieu \;Me Marc Bornhauser \;Me Claire Rameix-Séguin.
 DTEND:20260505T173000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459658
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Sous réserve de son inscription à l’ordre du jour\, désignation d’un rapporteur sur la proposition de loi pour la mobilisation de l’habitat existant en réponse à la crise du logement (n° 2674) \;Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260505T153000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -84,9 +84,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459819
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Table ronde réunissant Mmes Aude Blanckaert Guéneau\, présidente\, et Orianne Ledroit\, déléguée générale de EdTech France \; Mme Catherine de Vulpillières\, vice-présidente chargée de la recherche et M. Jean Bayet\, vice-président chargée des relations institutionnelles de l’Association française des industriels du numérique dans l’éducation et la formation (Afinef) \; M. Guillaume Leboucher\, fondateur de l’Institut l’IA pour l’école.
-DTEND:20260505T080000Z
+DTEND:20260505T083000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260505T070000Z
 SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
@@ -94,8 +94,8 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459997
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
-DESCRIPTION:Commission d’évaluation des politiques publiques relative à l’exécution budgétaire de la mission Écologie\, développement et mobilité durables : audition conjointe de M. Philippe Tabarot\, ministre des transports\, et de M. Mathieu Lefevre\, ministre délégué auprès de la ministre de la transition écologique\, de la biodiversité et des négociations internationales sur le climat et la nature\, chargé de la transition écologique.
+DTSTAMP:20260505T172218Z
+DESCRIPTION:Commission d’évaluation des politiques publiques relative à l’exécution budgétaire de la mission Écologie\, développement et mobilité durables (à l’exception des programmes relatifs à l’énergie et aux affaires maritimes) : audition conjointe de M. Philippe Tabarot\, ministre des transports\, et de M. Mathieu Lefevre\, ministre délégué auprès de la ministre de la transition écologique\, de la biodiversité et des négociations internationales sur le climat et la nature\, chargé de la transition écologique.
 DTEND:20260505T153000Z
 LOCATION:Salle 6350 - Palais Bourbon\, 1er étage
 DTSTART:20260505T143000Z
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460025
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition de la Centrale canine sur le thème de la place du chien dans la société.
 DTEND:20260505T130000Z
 LOCATION:salle 4075 (9 rue de Bourgogne)
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDFL459346
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition de M. Matthieu Batteur\, fondateur de Les Petits Culottés\, et M. Adrien Galan\, directeur des opérations.
 DTEND:20260505T130000Z
 LOCATION:Salle 4088 (RDC) Olympe de Gouges\, 9 rue de Bourgogne\, 75007 Paris
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460068
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition commune – Ministère de l’éducation nationale - direction générale de l’enseignement scolaire (Dgesco) – M. Jean Hubac\, chef du service de la vie de l’élève et des établissements et M. Laurent Beaudoux\, chef du bureau de la vie des établissements- direction des affaires juridiques – M. Éric Buge\, directeur des affaires juridiques et Mme Marie-Noémie Privet\, sous-directrice de l’enseignement scolaire\, de la jeunesse et des sport.
 DTEND:20260505T150000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -134,17 +134,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460071
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Examen\, en nouvelle lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des élèves en situation de handicap (n° 1610) (Mme Julie Delpech\, rapporteure).
-DTEND:20260505T153000Z
+DTEND:20260505T172000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260505T143000Z
+DTSTART:20260505T143500Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459873
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Printemps social de l'évaluationauditions de M. Thibault Bazin et Mme Océane Godard\, rapporteurs d’une mission d’évaluation sur les cotisations et contributions applicables à la rémunération des apprentis (recettes – article 22 de la LFSS pour 2025)-- table ronde réunissant les administrations compétentes– direction de la sécurité sociale – M. Thomas Ramilijaona\, sous-directeur du financement de la sécurité sociale\, et M. Louis Tapon adjoint au chef du bureau de la législation financière sociale et fiscale\, en charge du pôle « cotisations sociales »– direction du budget – M. Julien Bodin\, chef du bureau de l’emploi et de la formation professionnelle\, et M. Christophe Delétoille\, adjoint au chef de bureau– direction générale de l’emploi et de la formation professionnelle – M. Boris Supiot\, sous-directeur du financement et de la modernisation\, M. Mehdi Ben Hnin\, chargé de mission
 DTEND:20260505T150000Z
 LOCATION:8ème Bureau – Palais Bourbon\, 1er étage
@@ -154,17 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460035
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
-DESCRIPTION:éventuellement\, suite de l’ordre du jour de l’après-midi
-DTEND:20260505T200000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260505T190000Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460078
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Audition des membres français de la commission mixte franco-haïtienne : Monsieur l’Ambassadeur Yves Saint-Geours\, co-président \;Monsieur Jean-François Brière\, professeur émérite à l’Université d’État de New York à Albany \;Madame Myriam Cottias\, directrice de recherche au CNRS\, directrice du Centre international de recherches sur les esclavages et post-esclavages \;Monsieur l’Ambassadeur Pap Ndiaye\, Représentant permanent de la France auprès du Conseil de l’Europe \;Monsieur François Pacquement\, anciennement chargé de mission Histoire et réflexion stratégique à l’Agence française de développement.
 DTEND:20260505T133000Z
 LOCATION:9ème bureau (Palais Bourbon\, 1er étage)
@@ -174,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459882
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T115722Z
+DTSTAMP:20260505T172218Z
 DESCRIPTION:Table ronde :- union des métiers et des industries de l’hôtellerie (UMIH) :-- m. Franck Chaumes\, président national.- groupement national des indépendants hôtellerie et restauration (GHR) :-- mme Catherine Quérard\, présidente.-- m. Franck Trouet\, délégué général.
 DTEND:20260505T123000Z
 LOCATION:Salle 3 – 95\, rue de l’Université
