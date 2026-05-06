@@ -4,9 +4,9 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, sur le logiciel libre réunissant :M. Renaud Chaput\, directeur technique de Mastodon \;MM. Loïc Dayot\, membre du conseil d’administration de l’April\, et Étienne Gonnu\, chargé de mission affaires publiques \;M. Pierre-Yves Gosset\, coordinateur des services numériques de Framasoft \;M. Nicolas Vivant\, fondateur de France Numérique libre\, directeur de la stratégie et de la culture numériques de la commune d’Echirolles.
-DTEND:20260506T140000Z
+DTEND:20260506T150000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260506T130000Z
 SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460048
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Isabelle Metge\, présidente de l'association nationale des enquêteurs sociaux (ANDES)\, Mme Marie-Noëlle Morin\, vice-présidente de l’association et Mme Aude Pommier\, secrétaire de l'association.
 DTEND:20260506T143000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459895
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition\, ouverte à la presse\, du Dr Paul Bensussan\, expert psychiatre près la Cour de cassation.
 DTEND:20260506T163000Z
 LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459896
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition- M. Patrick Courilleau\, adjoint à la cheffe de service de la stratégie des formations et de la vie étudiantes\, Mme Katia Siri\, cheffe du département des formations de santé\, Mme Olga Criez\, adjointe à la cheffe du département des formations de santé et Mme Pauline Lenesley\, conseillère scientifique formations de santé.
 DTEND:20260506T130000Z
 LOCATION:5ème Bureau – Palais Bourbon\, 1er étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460080
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de Mme Agnès Verdier-Molinié\, directrice de la fondation IFRAP.
 DTEND:20260506T143000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459905
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition du think tank Terra Nova :M. Lionel Zinsou\, président \;M. Guillaume Hannezo.
 DTEND:20260506T153000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459906
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de M. Étienne Pot\, délégué interministériel à la stratégie nationale pour les troubles du neurodéveloppement.
 DTEND:20260506T073000Z
 LOCATION:Salle 4088
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDFL460066
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260506T110500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459821
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260506T140000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459822
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suite de l’examen du projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
 DTEND:20260506T203000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459823
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Nomination d’un rapporteur pour avis sur les articles 1er à 11\, 17 et 17 bis du projet de loi portant diverses dispositions d’adaptation au droit de l’Union européenne en matière économique\, financière\, environnementale\, énergétique\, d’information\, de transport\, de santé\, d’agriculture et de pêche (n° 2518) dont l’examen est délégué par la commission des affaires économiques \;Nomination d’un rapporteur pour avis sur le projet de loi d’approbation des comptes de la sécurité sociale de l’année 2025 (sous réserve de son dépôt) \;Nomination d’un rapporteur sur la proposition de loi visant à favoriser la création et la reprise d’entreprises sous forme de sociétés coopératives et participatives et de sociétés coopératives d’intérêt collectif (n° 2603) et sur la proposition visant à faciliter l'accès au logement des familles par la création d'un prêt à taux zéro (n° 2679) \;Nomination d’un rapporteur sur la proposition de nomination du prochain Gouverneur de la Banque de France \;Examen de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit international (n° 1706) (M. Laurent Mazaury\, rapporteur).
 DTEND:20260506T082500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460026
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Commission d’évaluation des politiques publiques relatives à l’exécution budgétaire de la mission Relations avec les collectivités territoriales : audition de Mme Françoise Gatel\, ministre de l'aménagement du territoire et de la décentralisation.
 DTEND:20260506T160000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -124,9 +124,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460027
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suite de l'ordre du jour du matin.
-DTEND:20260506T134500Z
+DTEND:20260506T145000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
 DTSTART:20260506T124500Z
 SUMMARY:Réunion de la commission des lois
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459870
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Table ronde des associations de communes- association des maires de France et des présidents d’intercommunalités (AMF) – M. Antoine Jouenne\, adjoint au maire de Châtillon et co-président de la commission éducation\, Mme Nelly Jacquemoit\, responsable du département action sociale\, culture et éducation\, M. Sébastien Ferriby\, conseiller éducation et culture et Mme Charlotte de Fontaines\, responsable des relations avec le Parlement- association des maires ruraux de France (AMRF) – M. Jean-Paul Carteret\, membre du bureau et M. Charlie Fournier\, chargé de mission- villes de France – Mme Albane Ricord Siwiecki\, directrice générale et Mme Anaëlle Chouillard\, conseillère.
 DTEND:20260506T150000Z
 LOCATION:Visioconférence sans salle
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460072
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition du Centre national d'enseignement à distance (Cned)- mme Anne Szymczak\, directrice générale du Cned et M. Jean-Michel Leclercq\, directeur de cabinet.
 DTEND:20260506T163000Z
 LOCATION:Visioconférence sans salle
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460073
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Examen\, à huis clos\, du rapport présenté en conclusion des travaux d’enquête sur la protection du patrimoine national et la sécurisation des musées (article 5 ter de l’ordonnance no 58-1100 du 17 novembre 1958) (M. Alexis Corbière\, rapporteur) \;Point sur les pétitions renvoyées à la commission \; Désignation d’un rapporteur sur la proposition de loi visant à encourager les partenariats entre les collectivités territoriales et les personnes morales de droit privé en matière d’acquisition\, de réalisation ou de rénovation d’équipements sportifs (n° 2667).
 DTEND:20260506T083000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -164,9 +164,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459874
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de Mme Catherine Pégard\, ministre de la culture.
-DTEND:20260506T154500Z
+DTEND:20260506T162000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260506T144500Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459875
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Nomination de rapporteurs sur :La proposition de loi\, adoptée par le Sénat\, visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l’exercice de l’ensemble des compétences du service public de la petite enfance (n° 2637 rectifié) \;La proposition de loi\, adoptée par le Sénat\, portant pérennisation du contrat de professionnalisation expérimental (n° 1674) \;La proposition de loi visant à garantir un revenu mensuel à tout nouveau retraité dès l’entrée en jouissance de la pension de retraite (n° 1725) \;Examen de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicap (n° 2538) (M. Vincent Thiébaut\, rapporteur).
 DTEND:20260506T100500Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459876
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition en visioconférence- Société Française de Recherche des Infirmiers en Pratique Avancée (SoFRIPA) – Mme Emmanuelle Fernandez\, présidente\, Mme Karine Dobbels\, vice-présidente\, Mme Claire Devroedt\, membre du conseil d'Administration et M. Remi Tresse\, trésorier adjoint.
 DTEND:20260506T120000Z
 LOCATION:Visioconférence sans salle
@@ -194,9 +194,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460079
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suspendre l’accord d’association Union européenne - Israël et adopter les sanctions contre les violations du droit international humanitaire : examen de la proposition de résolution européenne (n° 2699) (Sabrina Sebaihi\, rapporteure)\;Nomination de rapporteur sur la proposition de résolution européenne de M. Alexandre Sabatou portant avis motivé sur la conformité au principe de subsidiarité de le proposition législative de la Commission européenne relative au cadre juridique du 28è régime pour les entreprises (sous réserve de son dépôt).
-DTEND:20260506T140000Z
+DTEND:20260506T141000Z
 LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
 DTSTART:20260506T130000Z
 SUMMARY:Réunion de la commission des affaires européennes
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459744
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition conjointe de la direction générale des entreprises (DGE)\, de la direction générale du Trésor (DGT)\, et de l’Agence des participations de l’Etat (APE).
 DTEND:20260506T134500Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -214,17 +214,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460014
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Questions au GouvernementDiscussion\, sur le rapport de la commission mixte paritaire\, du projet de loi relatif à la restitution de biens culturels provenant d’États qui\, du fait d’une appropriation illicite\, en ont été privés  Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260506T130000Z
 LOCATION:Assemblée nationale
 DTSTART:20260506T120000Z
-SUMMARY:Première séance publique (e)
+SUMMARY:Première séance publique (222e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30543
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260506T203000Z
 LOCATION:Assemblée nationale
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30544
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de Mmes Delphine André\, présidente de GCATRANS\, membre du conseil de direction de la Fédération nationale des transports routiers (FNTR)\, et Florence Berthelot\, déléguée générale de la FNTR.
 DTEND:20260506T130000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459866
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Table ronde sur la compétitivité logistique des ports français\, réunissant M. César Ducruet\, géographe\, directeur de recherche au Centre national de la recherche scientifique (CNRS)\, M. Arnaud Serry\, professeur des universités en géographie à l’Université Le Havre Normandie\, et M. Cyrille Bertelle\, professeur des universités en informatique à l’Université Le Havre Normandie\, directeur du groupement d’intérêt scientifique (GIS) Institut pour une logistique intelligente en vallée de Seine.
 DTEND:20260506T143000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459867
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition conjointe de MM. Mickaël Huet\, délégué général\, et David Ratinaud\, responsable plaidoyer\, Mouvement associatif \; de Mme Charlotte Debray\, déléguée générale de la Fonda \; et de Mme Fabienne Orban\, administratrice\, et M. Sylvain Rigaud\, délégué général\, Réseau national des maisons des associations (RNMA).
 DTEND:20260506T140000Z
 LOCATION:Visioconférence sans salle
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460069
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Examen de la proposition de loi visant à moderniser et simplifier la protection juridique des majeurs (n° 1943) (Mme Annie Vidal\, rapporteure) \;Examen de la proposition de loi visant à garantir le droit d’accès aux origines personnelles (n° 2312) (Mme Natalia Pouzyreff\, rapporteure) \;Examen de la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur (n° 1793) (Mme Laure Miller\, rapporteure) \;Nomination d'un rapporteur sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République (n°0 2697).
 DTEND:20260506T110000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -274,9 +274,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459869
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition conjointe\, ouverte à la presse\, de M. Jean-Pascal Devis\, sous-directeur du sauvetage\, de la navigation et du contrôle à la direction générale des affaires maritimes\, de la pêche et de l’aquaculture\, et de M. Olivier Drevon\, directeur du CROSS Gris-Nez.
-DTEND:20260506T120000Z
+DTEND:20260506T123500Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
 DTSTART:20260506T110000Z
 SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
@@ -284,7 +284,17 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459936
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
+DESCRIPTION:Réunion avec la direction générale de la sécurité civile et de la gestion des crises (DGSCGC) : M. Julien Marion\, directeur général\, et Mme Tiphaine Pinault\, directrice des sapeurs-pompiers
+DTEND:20260506T143000Z
+LOCATION:salle 1 (3 rue Aristide Briand)
+DTSTART:20260506T133000Z
+SUMMARY:Réunion - Sapeurs-pompiers\, sécurité civile et gestion des crises
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL460098
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Printemps social d'évaluationAuditions de Mme Sylvie Bonnet\, rapporteure d’une mission sur le complément de libre choix de mode de garde (articles 86 de la LFSS pour 2023 et 100 et 101 de la LFSS pour 2026)A 9h00-- direction de la sécurité sociale (DSS) – Mmes Marion Muscat\, sous directrice de l’accès aux soins\, des prestations familiales et des accidents du travail\, Emmanuelle Barsky\, adjointe au chef de bureau prestations familiales et aides au logement\, et Noémie Aubertin\, chargée de missionA 10h00-- urssaf caisse nationale°– Mmes Catherine Morellon\, directrice adjointe de la direction des usagers et Nicole Barrallon\, directrice du centre national PAJEmploi
 DTEND:20260506T080000Z
 LOCATION:Salle 6550 – Palais Bourbon\, 2ème étage
@@ -294,7 +304,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459982
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de M. Thomas Fatôme\, directeur général de la Caisse nationale de l’assurance maladie (Cnam)\, M. Emmanuel Frère-Lecoutre\, directeur de l’offre de soins\, et Mme Veronika Levendof\, responsable des relations avec le Parlement.
 DTEND:20260506T073000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -304,7 +314,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459987
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:- club des managers de centre-ville (CMCV) :- mme Myriam Trabelsi\, présidente.
 DTEND:20260506T140000Z
 LOCATION:Salle 3 – 95\, rue de l’Université
@@ -314,7 +324,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460008
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Direction générale de l’offre de soin (DGOS) – Ministère de la Santé – Mme Clotilde Durand\, cheffe de service et adjointe de la directrice générale et M. Nicolas Delmas\, chef de projet auprès du sous-directeur des ressources humaines du système de santé.
 DTEND:20260506T140000Z
 LOCATION:1er Bureau – Palais Bourbon\, 1er étage
@@ -324,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460051
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Collège des directeurs généraux ARS – Mme Clara de Bort\, directrice de l’ARS Centre-Val de Loire.
 DTEND:20260506T150000Z
 LOCATION:1er Bureau – Palais Bourbon\, 1er étage
@@ -334,7 +344,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460052
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Conférence nationale des directeurs des centres hospitaliers (CNDCH) – Mme Sandrine Delage Cartau\, directrice du centre hospitalier Erdre et Loire.
 DTEND:20260506T160000Z
 LOCATION:1er Bureau – Palais Bourbon\, 1er étage
@@ -344,7 +354,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460053
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Examen\, ouvert à la presse\, et vote sur les projets de loi suivants :Projet de loi\, adopté par le Sénat\, autorisant l’approbation de la convention d’extradition entre le Gouvernement de la République française et le Gouvernement de la République de Colombie (n° 2509) (M. Hadrien Clouet\, rapporteur) \;Projet de loi autorisant l’approbation de l’accord entre le Gouvernement de la République française et le Gouvernement de la République de Moldova relatif à la coopération dans le domaine de la défense (n° 2050) (Mme Véronique Besse\, rapporteure).
 DTEND:20260506T100000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -354,7 +364,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459654
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:échanges de vues avec les présidents des groupes d’amitié à l’égard d’un certain nombre d’États africains sur les attentes concernant le sommet Afrique-France - Africa Forward des 11 et 12 mai 2026 à Nairobi.
 DTEND:20260506T090000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -364,7 +374,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459653
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de Son Exc. Mme Lorina B&amp\;#259\;lteanu\, ambassadrice de la République de Moldavie en France
 DTEND:20260506T150000Z
 LOCATION:2e bureau
@@ -374,7 +384,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459856
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Examen de la proposition de loi pour une montagne vivante et souveraine (n° 2595) (M. Jean-Pierre Vigier\, rapporteur).
 DTEND:20260506T105500Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -384,7 +394,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459920
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Audition de M. Gabriel Zucman\, économiste.
 DTEND:20260506T163000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -394,7 +404,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459659
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260506T121411Z
+DTSTAMP:20260506T174742Z
 DESCRIPTION:Conseil national de l’ordre des médecins – Professeur Stéphane Oustric\, président du conseil national de l’ordre des médecins \; Docteur Christine Louis-Vahdat\, présidente de la section éthique et déontologie \; Mmes Julie Laubard\, directrice des services juridiques\, Frédérique Darmon\, directrice de cabinet et Caroline Heron\, conseillère juridique responsable de la section éthique et déontologie.
 DTEND:20260506T130000Z
 LOCATION:1er Bureau – Palais Bourbon\, 1er étage
