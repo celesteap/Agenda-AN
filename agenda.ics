@@ -3,5 +3,15 @@ TZ:+00
 VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DTSTAMP:20260510T012547Z
+DESCRIPTION:Participation de M. Marc Fesneau\, Mme Catherine Hervieu et M. Aurélien Saintoul au séminaire conjoint du Groupe spécial Méditerranée et Moyen-Orient (GSM) et de la sous-commission sur les partenariats de l’OTAN (PCNP) 
+DTEND:20260513T215959Z
+LOCATION:Rome
+DTSTART:20260509T220000Z
+SUMMARY:Réunion de la délégation française à l'Assemblée parlementaire de l'OTAN
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460009
+END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
