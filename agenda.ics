@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Audition de M. Benoît Guidée\, directeur d’Asie et d’Océanie au Ministère de l’Europe et des affaires étrangères.
 DTEND:20260511T153000Z
 LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
@@ -14,9 +14,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460110
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Examen\, au titre de l’article 88 du Règlement\, des amendements à la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (n° 1610) (Mme Julie Delpech\, rapporteure).
-DTEND:20260511T144500Z
+DTEND:20260511T135000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
 DTSTART:20260511T134500Z
 SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459988
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Discussion\, en nouvelle lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des élèves en situation de handicapDiscussion de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la GéorgieDiscussion de la proposition de loi visant à moderniser et à simplifier la protection juridique des majeursDiscussion de la proposition de loi visant à garantir le droit d’accès aux origines personnelles
 DTEND:20260511T150000Z
 LOCATION:Assemblée nationale
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30578
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Suite de la discussion\, en nouvelle lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliersSuite de la discussion de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la GéorgieSuite de la discussion de la proposition de loi  visant à moderniser et à simplifier la protection juridique des majeursSuite de la discussion de la proposition de loi visant à garantir le droit d’accès aux origines personnelles
 DTEND:20260511T203000Z
 LOCATION:Assemblée nationale
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30579
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:- table ronde réunissant : M. Colin de la Higuera\, professeur en informatique à Nantes Université et titulaire de la chaire Unesco « ressources éducatives libres et intelligence artificielle »\, membre du conseil supérieur des programmes (CSP) \; Mme Joëlle Proust\, directrice de recherche émérite à l’Institut Jean-Nicod du CNRS\, M. Jill-Jênn Vie\, chargé de recherche à l’Institut national de recherche en informatique et en automatique (Inria)\, M. Emmanuel Sander\, professeur à la faculté de psychologie et des sciences de l’éducation de l’Université de Genève\, directeur du Laboratoire instruction\, développement\, éducation\, apprentissage (IDEA)\, membres du conseil scientifique de l’éducation nationale (CSEN).
 DTEND:20260511T130000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -54,7 +54,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460112
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements :à la proposition de loi visant à moderniser et simplifier la protection juridique des majeurs (n° 2753) (Mme Annie Vidal\, rapporteure) \;à la proposition de loi visant à garantir le droit d’accès aux origines personnelles (n° 2757) (Mme Natalia Pouzyreff\, rapporteure) \;à la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur (n° 2761) (Mme Laure Miller\, rapporteure).
 DTEND:20260511T160000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -64,9 +64,9 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460015
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T074106Z
+DTSTAMP:20260511T125534Z
 DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements déposés sur la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie (n° 2251) (Mme Constance Le Grip\, rapporteure).
-DTEND:20260511T150000Z
+DTEND:20260511T141000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
 DTSTART:20260511T140000Z
 SUMMARY:Réunion de la commission des affaires étrangères
