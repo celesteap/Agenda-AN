@@ -4,84 +4,234 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Audition de M. Benoît Guidée\, directeur d’Asie et d’Océanie au Ministère de l’Europe et des affaires étrangères.
-DTEND:20260511T153000Z
-LOCATION:3ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260511T143000Z
-SUMMARY:Réunion de la mission d'information commune sur les moyens consacrés au volet diplomatique de notre réorientation stratégique
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460110
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Examen\, au titre de l’article 88 du Règlement\, des amendements à la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des enfants à besoins éducatifs particuliers (n° 1610) (Mme Julie Delpech\, rapporteure).
-DTEND:20260511T135000Z
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition de MM. François Vandenbrouck\, sous-directeur de la formation\, de l’innovation et des ressources et Pierre Desbiolles\, chef du service de l’instruction publique\, de l’action et de l’accompagnement pédagogiques de la direction générale de l’enseignement scolaire (Dgesco) du ministère de l'éducation nationale.
+DTEND:20260512T080000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260511T134500Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459988
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Discussion\, en nouvelle lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à renforcer le parcours inclusif des élèves en situation de handicapDiscussion de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie
-DTEND:20260511T180000Z
-LOCATION:Assemblée nationale
-DTSTART:20260511T140000Z
-SUMMARY:Première séance publique (227e)
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30578
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Suite de la discussion de la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la GéorgieDiscussion de la proposition de loi  visant à moderniser et à simplifier la protection juridique des majeursDiscussion de la proposition de loi visant à garantir le droit d’accès aux origines personnelles
-DTEND:20260511T203000Z
-LOCATION:Assemblée nationale
-DTSTART:20260511T193000Z
-SUMMARY:Deuxième séance publique (228e)
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30579
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:- table ronde réunissant : M. Colin de la Higuera\, professeur en informatique à Nantes Université et titulaire de la chaire Unesco « ressources éducatives libres et intelligence artificielle »\, membre du conseil supérieur des programmes (CSP) \; Mme Joëlle Proust\, directrice de recherche émérite à l’Institut Jean-Nicod du CNRS\, M. Jill-Jênn Vie\, chargé de recherche à l’Institut national de recherche en informatique et en automatique (Inria)\, M. Emmanuel Sander\, professeur à la faculté de psychologie et des sciences de l’éducation de l’Université de Genève\, directeur du Laboratoire instruction\, développement\, éducation\, apprentissage (IDEA)\, membres du conseil scientifique de l’éducation nationale (CSEN).
-DTEND:20260511T130000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260511T120000Z
+DTSTART:20260512T070000Z
 SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460112
+UID:OMC_RUANR5L17S2026IDC460113
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements :à la proposition de loi visant à moderniser et simplifier la protection juridique des majeurs (n° 2753) (Mme Annie Vidal\, rapporteure) \;à la proposition de loi visant à garantir le droit d’accès aux origines personnelles (n° 2757) (Mme Natalia Pouzyreff\, rapporteure) \;à la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseur (n° 2761) (Mme Laure Miller\, rapporteure).
-DTEND:20260511T150500Z
-LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260511T150000Z
-SUMMARY:Réunion de la commission des lois
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition de M. Dominique Raimbourg\, Président de la Commission nationale consultative des gens du voyage (CNCGDV)
+DTEND:20260512T143000Z
+LOCATION:Salle 4075
+DTSTART:20260512T133000Z
+SUMMARY:Réunion - Gens du voyage
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460015
+UID:OMC_RUANR5L17S2026IDFL460074
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements déposés sur la proposition de résolution européenne visant à condamner la dérive illibérale et autoritaire du gouvernement géorgien et à réaffirmer notre soutien au destin européen de la Géorgie (n° 2251) (Mme Constance Le Grip\, rapporteure).
-DTEND:20260511T141000Z
-LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
-DTSTART:20260511T140500Z
-SUMMARY:Réunion de la commission des affaires étrangères
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition de MM. Marc de Falco\, inspecteur général\, responsable du pôle données\, IA et numérique\, M. Vincent Montreuil\, inspecteur général et Mme Émilie-Pauline Gallié\, inspectrice générale de l’inspection générale de l’éducation\, du sport et de la recherche (Igésr).
+DTEND:20260512T084500Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T074500Z
+SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460030
+UID:OMC_RUANR5L17S2026IDC460114
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260511T174913Z
-DESCRIPTION:DiscussionDiscussion
-DTEND:20260511T080000Z
-LOCATION:Sénat
-DTSTART:20260511T070000Z
-SUMMARY:Séance publique (1e)
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Laurent Nunez\, ministre de l’Intérieur.
+DTEND:20260512T153000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la commission d'enquête
 TRANSP:TRANSPARENT
-UID:OMC_RUSNR5L17S2026IDS30667
+UID:OMC_RUANR5L17S2026IDC459898
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Patrice Vergriete\, maire de Dunkerque.
+DTEND:20260512T153000Z
+LOCATION:salle 6350\, 1er étage du Palais Bourbon
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460033
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Printemps social de l'évaluation auditions de M Michel Lauzzana\, rapporteur de la mission visant à évaluer la mise en oeuvre des campagnes de vaccination contre le papillomavirus  dans les collèges introduites par l'article 37 de la loi de financement de la sécurité sociale pour 2024-- Collège Paul Dangla d’Agen – M. Pierre-Yves Portejoie\, principal
+DTEND:20260512T070000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260512T060000Z
+SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460103
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Printemps social de l'évaluation auditions de M Michel Lauzzana\, rapporteur de la mission visant à évaluer la mise en oeuvre des campagnes de vaccination contre le papillomavirus  dans les collèges introduites par l'article 37 de la loi de financement de la sécurité sociale pour 2024à 8 h 45 :-- Direction générale de la santé (DGS) – Mme Sarah Sauneron\, directrice générale adjointe de la santé\, et M. Patrick Ambroise\, sous-directeur adjoint santé des populations et prévention des maladies chroniquesà 10 h 00 :-- Ministère de l’éducation nationale- Direction générale de l’enseignement scolaire (Dgesco) – Mme Anne Padier-Savouroux\, sous-directrice des parcours éducatifs et des éducations transversales et Mme Claire Bey\, cheffe du bureau de la santé et de l’action social. - Sous-direction de l’enseignement privé de la direction des affaires financières – Mme Hélène Besnier\, Bureau du budget\, de la performance et du dialogue de gestion 
+DTEND:20260512T074500Z
+LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
+DTSTART:20260512T064500Z
+SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460105
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Dîner donné en l'honneur d'une délégation de parlementaires taïwanais menée par M. Han Kuo-Yu\, président du Yuan législatif 
+DTEND:20260512T193000Z
+LOCATION:Hôtel de la Questure
+DTSTART:20260512T170000Z
+SUMMARY:Réunion de Groupe d'études à vocation internationale Taïwan
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460107
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition d’Oxfam :Mme Cécile Duflot\, directrice générale d’Oxfam France \;Mme Layla Abdelké Yakoub\, responsable de plaidoyer justice fiscale et inégalités d’Oxfam France \;M. Ryad Selmani\, chargé de plaidoyer justice fiscale du CCFD-Terre Solidaire.
+DTEND:20260512T153000Z
+LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459908
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit international (n° 1706) (M. Laurent Mazaury\, rapporteur).
+DTEND:20260512T190000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260512T180000Z
+SUMMARY:Réunion de la commission des finances
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459953
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Table ronde :- association des maires de France (AMF) en visioconférence :-- mme Cécile Gallien\, maire de Vorey et co-présidente de la commission des communes et territoires ruraux.- association des petites villes de France (APVF) en visioconférence :-- m. Christophe Bouillon\, maire de Barentin.-- m. Elias Maaouia\, conseiller.- association des maires ruraux de France (AMRF) en visioconférence :-- [en attente de délégation].-- france Urbaine :-- m. Jean-Sebastien Sauvourel\, conseiller.- intercommunalités de France :-- m. Gabriel Baulieu\, vice-président « commerce ».-- m. Clément Baylac\, conseiller « commerce ».-- m. Montaine Blonsard\, responsable des relations avec le Parlement.
+DTEND:20260512T123000Z
+LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
+DTSTART:20260512T113000Z
+SUMMARY:Réunion Mission d’information sur l’avenir des commerces de proximité
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460144
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Suite de l’ordre du jour de l’après-midi.
+DTEND:20260512T200000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T190000Z
+SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459990
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition de Mme Véronique Riotton\, présidente de la délégation aux droits des femmes et à l’égalité des chances entre les hommes et les femmes\, Mme Virginie Duby Muller\, Mme Agnès Firmin Le Bodo et Mme Karine Lebon\, rapporteures\, sur le rapport d’information déposé par la délégation sur l’égalité salariale (n° 2370).
+DTEND:20260512T153000Z
+LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la commission des affaires sociales
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459791
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Présentation\, ouverte à la presse\, devant la commission des affaires sociales de l’Assemblée nationale\, du rapport sur la transposition de la directive dite « transparence salariale » par les rapporteures Mmes Virginie Duby-Muller\, Firmin Le Bodo et Karine Lebon.
+DTEND:20260512T153000Z
+LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la délégation de l'Assemblée nationale aux droits des femmes et à l'égalité des chances entre les hommes et les femmes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459992
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Questions orales sans débat (salle Lamartine)
+DTEND:20260512T080000Z
+LOCATION:Assemblée nationale
+DTSTART:20260512T070000Z
+SUMMARY:Première séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30590
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Réunion avec la Fédération nationale des sapeurs-pompiers de France (FNSPF)\, notamment consacrée au financement des services d’incendie et de secours : M. le colonel Jean-Paul Bosland\, président\, M. le contrôleur général Éric Florès\, vice-président\, M. le contrôleur général Marc Vermeulen\, membre du comité exécutif\, et M. Fabien Matras\, ancien député\, conseiller chargé des relations institutionnelles
+DTEND:20260512T123000Z
+LOCATION:9e Bureau
+DTSTART:20260512T113000Z
+SUMMARY:Réunion - Sapeurs-pompiers\, sécurité civile et gestion des crises
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL460099
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Examen de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, relative à l’organisation\, à la gestion et au financement du sport professionnel (n° 1560) (M. Belkhir Belhaddad\, M. Lionel Duparay\, Mme Sophie Mette\, Mme Véronique Riotton\, rapporteurs).
+DTEND:20260512T153000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T143000Z
+SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459989
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Questions au Gouvernement Suite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion véliqueDiscussion de la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseurDiscussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantDiscussion de la proposition de loi pour une montagne vivante et souveraineDiscussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalDiscussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapDiscussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentDiscussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
+DTEND:20260512T140000Z
+LOCATION:Assemblée nationale
+DTSTART:20260512T130000Z
+SUMMARY:Deuxième séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30580
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion véliqueSuite de la discussion de la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseurSuite de la discussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantSuite de la discussion de la proposition de loi pour une montagne vivante et souveraineSuite de la discussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalSuite de la discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapSuite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentSuite de la discussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
+DTEND:20260512T203000Z
+LOCATION:Assemblée nationale
+DTSTART:20260512T193000Z
+SUMMARY:Troisième séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30581
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Examen\, en application de l’article 88 du règlement\, des amendements restant en discussion sur la proposition de loi pour une montagne vivante et souveraine (n° 2755) (M. Jean-Pierre Vigier\, rapporteur).
+DTEND:20260512T134500Z
+LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T124500Z
+SUMMARY:Réunion de la commission du développement durable et de l'aménagement du territoire
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459922
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Arthur Mensch\, cofondateur et directeur général de Mistral AI\, et Mme Audrey Herblin-Stoop\, directrice des affaires publiques et de la communication.
+DTEND:20260512T150000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T140000Z
+SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460125
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Fabrice Coquio\, président-directeur général de Digital Realty.
+DTEND:20260512T163000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T153000Z
+SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460126
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260512T011522Z
+DESCRIPTION:Audition de l’Association française du family office :M. Charles-Henri Bujard\, président \;M. Guillaume Courault\, délégué général.
+DTEND:20260512T170000Z
+LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260512T160000Z
+SUMMARY:Réunion de la commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459775
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
