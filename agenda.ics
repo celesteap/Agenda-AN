@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition du MEDEF :M. Pierre-Jean Leduc\, président de la commission fiscalité \;M. Nicolas End\, responsable du pôle économie \;Mme Marie-Pascale Antoni\, directrice de la fiscalité \;Mme My-Lan Nguyen\, responsable du pôle affaires publiques.
 DTEND:20260513T143000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -14,7 +14,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459910
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition conjointe de M. Jérémie Benhamou\, chef de bureau des marchés de gaz à la Direction générale de l’énergie et du climat (DGEC)\, et de M. Alexandre Godzinski\, chef du bureau du service de l'économie verte et solidaire au Commissariat général au développement durable (CGDD).
 DTEND:20260513T130000Z
 LOCATION:salle 8838
@@ -24,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460090
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de M. l’ingénieur général de l’armement Alexandre Barouh\, directeur central du service d’infrastructure de la Défense (SID).
 DTEND:20260513T133000Z
 LOCATION:Salle 4016 –  9 rue de Bourgogne\, Rez-de-chaussée
@@ -34,7 +34,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460167
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Direction des affaires criminelles et des grâces (DACG)\, ministère de la justice \; Mme Laureline Peyrefitte\, directrice et Mme Julie Saint-Paul\, adjointe à la cheffe du bureau de la politique pénale générale.
 DTEND:20260513T130000Z
 LOCATION:5ème Bureau – Palais Bourbon\, 1er étage
@@ -44,7 +44,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460168
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Direction générale de la police nationale (DGPN)\, ministère de l’intérieur – Mme Aurélie Besançon\, cheffe de l’OFMIN\, M. David Djamshidi\, chef du pôle opérationnel et Mme Charlotte Sawicki\, adjointe au chef de l’OCRVP.
 DTEND:20260513T140000Z
 LOCATION:5ème Bureau – Palais Bourbon\, 1er étage
@@ -54,8 +54,8 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460169
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
-DESCRIPTION:Audition de M. Benoît Lemaignan\, co-fondateur et président de Verkor\, accompagné de Mme Florence Melin\, directrice de la communication et des affaires publiques.
+DTSTAMP:20260513T054740Z
+DESCRIPTION:Audition de M. Philippe Chain\, co-fondateur et conseiller stratégique de Verkor.
 DTEND:20260513T120000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
 DTSTART:20260513T110000Z
@@ -64,8 +64,8 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460101
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
-DESCRIPTION:Audition de M. Michaël Quernez\, vice-président de la Région Bretagne\, Régions de France.
+DTSTAMP:20260513T054740Z
+DESCRIPTION:Audition de représentants de Régions de France : M. Michaël Quernez\, Premier vice-président du Conseil régional de Bretagne\, M. Mathieu Bergé\, conseiller régional de Nouvelle-Aquitaine\, M. Jérôme Audrain\, chargé de mission Grands ports maritimes à la région Nouvelle-Aquitaine\, et M. Sylvain Petit\, directeur de la mer\, des ports et du littoral de la région Hauts-de-France.
 DTEND:20260513T130000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
 DTSTART:20260513T120000Z
@@ -74,7 +74,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460102
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition du Général Franz CHAPUIS\, attaché de défense à Berlin et du Capitaine de vaisseau Andreas JUNGMANN\, attaché naval et de Défense adjoint à Paris (cycle sur l’interculturalité)
 DTEND:20260513T080000Z
 LOCATION:3e bureau
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459702
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de Mme Sandra Gillet\, responsable Europe des achats d’opérations portuaires\, de transport par barges et de plateformes logistiques d’ArcelorMittal\, et de M. Stéphane Delpeyroux\, directeur des affaires publiques France.
 DTEND:20260513T143000Z
 LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460104
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de l’Autorité des marchés financiers :Mme Marie-Anne Barbat Layani\, présidente \;Mme Astrid Milsan\, secrétaire générale adjointe\, direction des émetteurs \;M. Philippe Sourlas\, secrétaire général adjoint\, direction de la gestion d’actifs.
 DTEND:20260513T160000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459951
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:De 15h à 15h45 : audition du Contrôleur général des lieux de privation de liberté (CGLPL)De 15h45 à 17h15 : audition de Mme Pascale Léglise\, directrice des libertés publiques et des affaires juridiques (DLPAJ)
 DTEND:20260513T140000Z
 LOCATION:Salle 6566 – Palais Bourbon\, 2ème étage
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460152
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de M. Anthony Chaumuzeau\, secrétaire général du sommet One Health.
 DTEND:20260513T083000Z
 LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
@@ -124,7 +124,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460153
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Printemps social de l'évaluationauditions de M. Thibault Bazin et Mme Océane Godard\, rapporteurs d’une mission d’évaluation sur les cotisations et contributions applicables à la rémunération des apprentis (recettes – article 22 de la LFSS pour 2025)-- table ronde réunissant les organisations patronales :– Mouvement des entreprises de France (MEDEF) – M. Louis Hart de Keating\, directeur de mission au pôle compétences formation jeunesse\, M. Olivier Faron\, responsable du compétences formation jeunesse\, M. Antoine Quinette\, directeur de mission au pôle affaires publiques.– Union des entreprises de proximité (U2P) – M. Laurent Munerot\, vice-président\, M. Xavier Geoffroy\, secrétaire général\, et Mme Thérèse Huppé-Note\, conseillère en charge des relations parlementaires.
 DTEND:20260513T170000Z
 LOCATION:2ème Bureau – Palais Bourbon\, 1er étage
@@ -134,7 +134,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460154
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de M. Fabrice Lenglart\, directeur général de l’INSEE sur les questions de conjoncture économique et les comptes annuels 2025.
 DTEND:20260513T100000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459955
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Commission d’évaluation des politiques publiques relatives à l’exécution budgétaire de la mission Cohésion des territoires : audition de Mme Françoise Gatel\, ministre de l'aménagement du territoire et de la décentralisation et de M. Vincent Jeanbrun\, ministre de la ville et du logement.
 DTEND:20260513T163000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -154,7 +154,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459956
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Nomination de rapporteurs pour la séance thématique du 10 juin 2026 relative au bilan d’activité de la Banque de France \;Audition de M. Florian Colas\, directeur général des Douanes et droits indirects\, sur la taxation des petits colis.
 DTEND:20260513T080000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
@@ -164,7 +164,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459952
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de M. Bernard Doroszczuk\, Médiateur national de l’énergie.
 DTEND:20260513T100000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -174,7 +174,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460021
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition du Pr Lionel Collet\, président de la Haute Autorité de santé.
 DTEND:20260513T083000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -184,7 +184,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460028
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Nomination d’un vice-président en remplacement de Mme Pascale Bordes et d’un secrétaire en remplacement de M. Stéphane Mazars \;Examen de la proposition de loi visant à rendre publics les avis du Conseil d’État sur les projets et sur les propositions de loi (n° 2569) et de la proposition de loi organique visant à transmettre au Parlement les avis du Conseil d’État sur les projets de loi (n° 2570) (M. Florent Boudié\, rapporteur) \;Nomination de rapporteurs :- sous réserve des travaux du Sénat et de sa transmission\, sur la proposition de loi organique portant intégration des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (Sénat n° 636 rect. bis\, 2024-2025) \;- sur la proposition de loi\, adoptée par le Sénat\, après engagement de la procédure accélérée\, visant à améliorer les moyens d’action de l’Agence de gestion et de recouvrement des avoirs saisis et confisqués et à faciliter l’exercice des missions d’expert judiciaire (n° 2349).
 DTEND:20260513T080000Z
 LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
@@ -194,7 +194,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459871
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:– audition\, ouverte à la presse\, de témoignages de jeunes de l’association des Oubliés de la République\, dans le cadre du cycle d'auditions sur la prostitution des mineurs.
 DTEND:20260513T140000Z
 LOCATION:salle 4088 – rdc – immeuble Olympe de Gouges - 9 rue de Bourgogne
@@ -204,7 +204,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460076
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition\, ouverte à la presse\, de Mme Christine Dugoin Clément\, chercheuse associée à la Chaire « Risques » IAE Paris 1 Panthéon Sorbonne\, et de M. Jean François Pelliard\, chercheur associé et directeur de l’observatoire Marine 2040 de la Fondation Méditerranéenne d'Études Stratégiques (qui fera un focus sur la question de l’exposition des outre mer) (cycle « Guerre hybride et continuum de conflictualités »).
 DTEND:20260513T080000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -214,7 +214,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459944
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Vincent Strubel\, directeur général de l’Agence nationale de sécurité des systèmes d’information (ANSSI) (cycle « Guerre hybride et continuum de conflictualités »).
 DTEND:20260513T100000Z
 LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
@@ -224,7 +224,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459945
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:éventuellement\, suite de l’examen de la proposition de loi\, adoptée par le Sénat après engagement de la procédure accélérée\, relative à l’organisation\, à la gestion et au financement du sport professionnel (n° 1560) (M. Belkhir Belhaddad\, M. Lionel Duparay\, Mme Sophie Mette\, Mme Véronique Riotton\, rapporteurs).
 DTEND:20260513T083000Z
 LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
@@ -234,7 +234,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459991
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de M. Jean Pierre Farandou\, ministre du travail et des solidarités\, sur sa feuille de route.
 DTEND:20260513T140000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -244,7 +244,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459792
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition focus nomenclatures sur la révision de la classification commune des actes médicaux (CCAM) : audition de Mme Nathalie Fourcade\, directrice générale de l’Agence technique de l’information sur l’hospitalisation (ATIH)\, Mme Joëlle Dubois\, directrice des classifications\, de l’information médicale et des modèles de financement (CIMMF)\, M. Geoffrey Lefebvre\, directeur du financement et de l’analyse économique (FAE)\, et Mme Fabienne Pecoraro\, directrice adjointe de la collecte des informations de gestion (COLLIGE).
 DTEND:20260513T073000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
@@ -254,7 +254,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459995
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Secrétariat général des affaires européennes (SGAE) [sous réserve]
 DTEND:20260513T140000Z
 LOCATION:Visioconférence sans salle
@@ -264,7 +264,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460132
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Commission européenne – Direction générale de l’environnement (DG ENVI)M. Aurel Ciobanu-Dordea\, directeur en charge de l’économie circulaire 
 DTEND:20260513T150000Z
 LOCATION:Visioconférence sans salle
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460133
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Institut de la transition écologique des outre-mer (Itedom)M. Stéphane Murignieux\, président
 DTEND:20260513T160000Z
 LOCATION:Visioconférence sans salle
@@ -284,7 +284,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460134
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Association des collectivités chargées du traitement et de la valorisation des déchets ménagers et assimilés en OccitanieM. Bruno Roussel\, directeur général des services Trifyl
 DTEND:20260513T170000Z
 LOCATION:Visioconférence sans salle
@@ -294,7 +294,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460135
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Table ronde\, à strict huis clos\, sur les derniers développements de la situation au Mali\, avec la participation de M. Mamadou Ismaïla Konaté\, avocat et ancien ministre de la justice et des droits de l’homme de ce pays\, de 2016 à 2017\, M. Alain Antil\, directeur du centre Afrique subsaharienne de l’Institut français des relations internationales (IFRI)\, et M. Francis Kpatindé\, maître de conférences à Sciences Po Paris \;Nomination d’un rapporteur sur le projet de loi\, adopté par le Sénat\, autorisant l’approbation de l’accord de partenariat et de coopération renforcé entre l’Union européenne et ses États membres\, d’une part\, et la République kirghize\, d’autre part (n° 2691).
 DTEND:20260513T093000Z
 LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
@@ -304,7 +304,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460139
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Gérald Darmanin\, garde des Sceaux\, ministre de la Justice.
 DTEND:20260513T140000Z
 LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
@@ -314,18 +314,18 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC459985
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
-DESCRIPTION:Questions au GouvernementSuite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion véliqueSuite de la discussion de la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseurSuite de la discussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantSuite de la discussion de la proposition de loi pour une montagne vivante et souveraineSuite de la discussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalSuite de la discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapSuite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentSuite de la discussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
+DTSTAMP:20260513T054740Z
+DESCRIPTION:Questions au GouvernementSuite de la discussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantDiscussion de la proposition de loi pour une montagne vivante et souveraineDiscussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalDiscussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapDiscussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentDiscussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
 DTEND:20260513T130000Z
 LOCATION:Assemblée nationale
 DTSTART:20260513T120000Z
-SUMMARY:Première séance publique (e)
+SUMMARY:Première séance publique (232e)
 TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30582
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
-DESCRIPTION:Suite de la discussion de la proposition de loi visant à accélérer le développement du transport maritime à propulsion véliqueSuite de la discussion de la proposition de loi visant à garantir l’information et la protection effective des victimes de violences sexuelles lors de la libération de leur agresseurSuite de la discussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantSuite de la discussion de la proposition de loi pour une montagne vivante et souveraineSuite de la discussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalSuite de la discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapSuite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentSuite de la discussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
+DTSTAMP:20260513T054740Z
+DESCRIPTION:Suite de la discussion de la proposition de loi visant à mettre en place un programme de soutien à l’innovation thérapeutique contre les cancers\, les maladies rares et les maladies orphelines de l’enfantSuite de la discussion de la proposition de loi pour une montagne vivante et souveraineSuite de la discussion de la proposition de loi instituant un mécanisme de saisie des avoirs souverains étrangers gelés en réponse aux violations du droit internationalSuite de la discussion\, en deuxième lecture\, de la proposition de loi\, modifiée par le Sénat\, visant à améliorer la protection et l’accompagnement des parents d’enfants atteints d’un cancer\, d’une maladie grave ou d’un handicapSuite de la discussion de la proposition de loi\, adoptée par le Sénat\, visant à protéger l’école de la République et les personnels qui y travaillentSuite de la discussion de la proposition de loi visant à protéger l’alimentation des Français et des Françaises des contaminations au cadmium
 DTEND:20260513T203000Z
 LOCATION:Assemblée nationale
 DTSTART:20260513T193000Z
@@ -334,7 +334,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30583
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Table ronde\, ouverte à la presse\, réunissant des représentants en France des Gafam :Mme Corine de Bilbao\, présidente de Microsoft France\, et M. Philippe Limentour\, directeur technologie et cybersécurité \;M. Sébastien Missoffe\, directeur général de Google France et M. Frédéric Geraud de Lescazes\, directeur des affaires publiques de Google Cloud \;M. Julien Lépine\, représentant en France d’Amazon Web Services Europe\, Moyen-Orient\, Afrique (AWS EMEA)\, et M. Arnaud David\, directeur des affaires publiques France et Union européenne de AWS.
 DTEND:20260513T140000Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -344,7 +344,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460127
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition\, ouverte à la presse\, de M. Cédric O\, ancien secrétaire d’État chargé du numérique.
 DTEND:20260513T161500Z
 LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
@@ -354,7 +354,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460128
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Conseil national des barreaux (CNB) – Mme Amélie Morineau\, présidente de la commission Libertés et droits de l’Homme et Mme Mona Laaroussi\, chargée de mission affaires publiques.
 DTEND:20260513T150000Z
 LOCATION:5ème Bureau – Palais Bourbon\, 1er étage
@@ -364,7 +364,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDC460170
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260513T013252Z
+DTSTAMP:20260513T054740Z
 DESCRIPTION:Audition de Mme Stéphanie Rist\, ministre de la santé\, des familles\, de l’autonomie et des personnes handicapées\, sur les mesures d’urgence de gestion du risque d’infection à hantavirus Andes \;Nomination d’un rapporteur sur la recevabilité de la proposition de résolution tendant à la création d’une commission d’enquête sur les causes et les conséquences de l’augmentation de la pauvreté\, notamment pour les travailleurs séniors et les personnes âgées\, et les manquements des politiques publiques pour y faire face (n° 2696) \;Examen\, en application de l’article 140\, alinéa 2\, du Règlement\, de la recevabilité de la proposition de résolution tendant à la création d’une commission d’enquête sur les causes et les conséquences de l’augmentation de la pauvreté\, notamment pour les travailleurs séniors et les personnes âgées\, et les manquements des politiques publiques pour y faire face (n° 2696).
 DTEND:20260513T100000Z
 LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
