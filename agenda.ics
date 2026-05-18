@@ -4,27 +4,17 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260518T080617Z
-DESCRIPTION:Examen\, au titre de l’article 88 du Règlement\, des amendements à la proposition de loi\, adoptéee par le Sénat\, après engagement de la procédure accélérée\, relative à l’organisation\, à la gestion et au financement du sport professionnel (n° 1560) (M. Belkhir Belhaddad\, M. Lionel Duparay\, Mme Sophie Mette\, Mme Véronique Riotton\, rapporteurs).
-DTEND:20260518T134500Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260518T124500Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
+DTSTAMP:20260518T133513Z
+DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
+DTEND:20260518T080000Z
+LOCATION:Assemblée nationale
+DTSTART:20260518T070000Z
+SUMMARY:Première séance publique (234e)
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460094
+UID:OMC_RUANR5L17S2026IDS30668
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T080617Z
-DESCRIPTION:Audition de la Société française de droit aérien et spatial (SFDAS)- M. Xavier Delpech\, président de la SFDAS et professeur associé de droit privé à l’Université Jean Moulin Lyon 3 \;- M. Pascal Dupont\, secrétaire général de la SFDAS\, professeur associé de droit privé à l’Université de Lille et chercheur associé à l’IRIS \;- M. Loïc Grard\, membre du comité de direction de la SFDAS\, professeur de droit public à l’Université de Bordeaux et avocat au barreau de Paris.
-DTEND:20260518T160000Z
-LOCATION:Salle 4204 –  9 rue de Bourgogne\, 2ème étage
-DTSTART:20260518T143000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460216
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260518T080617Z
+DTSTAMP:20260518T133513Z
 DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260518T140000Z
 LOCATION:Assemblée nationale
@@ -34,7 +24,7 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30598
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T080617Z
+DTSTAMP:20260518T133513Z
 DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
 DTEND:20260518T203000Z
 LOCATION:Assemblée nationale
@@ -44,14 +34,14 @@ TRANSP:TRANSPARENT
 UID:OMC_RUANR5L17S2026IDS30599
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T080617Z
-DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
-DTEND:20260518T080000Z
-LOCATION:Assemblée nationale
-DTSTART:20260518T070000Z
-SUMMARY:Première séance publique (234e)
+DTSTAMP:20260518T133513Z
+DESCRIPTION:Audition de la Société française de droit aérien et spatial (SFDAS)- M. Xavier Delpech\, président de la SFDAS et professeur associé de droit privé à l’Université Jean Moulin Lyon 3 \;- M. Pascal Dupont\, secrétaire général de la SFDAS\, professeur associé de droit privé à l’Université de Lille et chercheur associé à l’IRIS \;- M. Loïc Grard\, membre du comité de direction de la SFDAS\, professeur de droit public à l’Université de Bordeaux et avocat au barreau de Paris.
+DTEND:20260518T160000Z
+LOCATION:Salle 4204 –  9 rue de Bourgogne\, 2ème étage
+DTSTART:20260518T143000Z
+SUMMARY:Réunion 
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30668
+UID:OMC_RUANR5L17S2026IDC460216
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
