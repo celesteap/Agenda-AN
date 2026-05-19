@@ -4,44 +4,224 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260518T173527Z
-DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
-DTEND:20260518T080000Z
-LOCATION:Assemblée nationale
-DTSTART:20260518T070000Z
-SUMMARY:Première séance publique (234e)
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Commission d’évaluation des politiques publiques relative à l’exécution budgétaire de la mission Recherche et enseignement supérieur : audition de M. Philippe Baptiste\, ministre de l'enseignement supérieur et de la recherche \;Examen de la proposition de loi visant à faciliter l'accès au logement des familles par la création d'un prêt à taux zéro (n° 2679) (Mme Constance de Pélichy\, rapporteure).
+DTEND:20260519T153000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission des finances
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30668
+UID:OMC_RUANR5L17S2026IDC460111
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T173527Z
-DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
-DTEND:20260518T140000Z
-LOCATION:Assemblée nationale
-DTSTART:20260518T130000Z
-SUMMARY:Deuxième séance publique (e)
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition de M. Mathieu Lacombe\, ministre de la culture et de la communication du Québec.
+DTEND:20260519T153000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30598
+UID:OMC_RUANR5L17S2026IDC460095
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T173527Z
-DESCRIPTION:Suite de la discussion du projet de loi actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense
-DTEND:20260518T203000Z
-LOCATION:Assemblée nationale
-DTSTART:20260518T193000Z
-SUMMARY:Troisième séance publique (e)
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de Mme Camille Martel\, docteure en géographie\, et M. Julien Goudichaud\, journaliste et documentariste.
+DTEND:20260519T120000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T110000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30599
+UID:OMC_RUANR5L17S2026IDC460036
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T173527Z
-DESCRIPTION:Audition de la Société française de droit aérien et spatial (SFDAS)- M. Xavier Delpech\, président de la SFDAS et professeur associé de droit privé à l’Université Jean Moulin Lyon 3 \;- M. Pascal Dupont\, secrétaire général de la SFDAS\, professeur associé de droit privé à l’Université de Lille et chercheur associé à l’IRIS \;- M. Loïc Grard\, membre du comité de direction de la SFDAS\, professeur de droit public à l’Université de Bordeaux et avocat au barreau de Paris.
-DTEND:20260518T160000Z
-LOCATION:Salle 4204 –  9 rue de Bourgogne\, 2ème étage
-DTSTART:20260518T143000Z
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition de l’Observatoire des subventions et aides agricoles en France (OBSAF) sur le thème des subventions à la filière foie gras en Nouvelle-Aquitaine.
+DTEND:20260519T130000Z
+LOCATION:salle 4075 (9 rue de Bourgogne)
+DTSTART:20260519T120000Z
+SUMMARY:Réunion - Condition et bien-être des animaux
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL459330
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition de MM. Alexandre Lebrun\, cofondateur et directeur général\, et Laurent Solly\, cofondateur et directeur des opérations de Advanced Machine Intelligence Labs (AMI Labs).
+DTEND:20260519T083000Z
+LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T073000Z
+SUMMARY:Réunion de la mission d’information sur « création\, diffusion et acquisition des connaissances : comment l’intelligence artificielle transforme notre éducation et notre culture »
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460220
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition de Mme Amélie de Montchalin\, ancienne ministre de l’action et des comptes publics
+DTEND:20260519T170000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T160000Z
+SUMMARY:Réunion de la commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460221
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Examen\, en application de l’article 88 du Règlement\, des amendements restant en discussion sur le projet de loi d’urgence pour la protection et la souveraineté agricoles (n° 2632) (MM. Jean-René Cazeneuve et Julien Dive\, rapporteurs).
+DTEND:20260519T134500Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T124500Z
+SUMMARY:Réunion de la commission des affaires économiques
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460022
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Nomination de rapporteurs sur :La proposition de loi\, adoptée par le Sénat\, visant à reconnaître la responsabilité de l’État et à indemniser les victimes du chlordécone (n° 1578) \;La proposition de loi portant plusieurs mesures de justice en faveur de la revalorisation des pensions de retraites agricoles (n° 1319) \;Examen de la proposition de loi\, adoptée par le Sénat\, visant à étendre à toutes les communes la compensation financière prévue pour les communes de plus de 3 500 habitants pour l’exercice de l’ensemble des compétences du service public de la petite enfance (n° 2637 rectifié) (M. Christophe Naegelen\, rapporteur) \;Communication de M. Michel Lauzzana et Mme Mathilde Hignet\, rapporteurs de la mission « flash » visant à examiner les causes\, implications et conséquences de l’affaire des laits infantiles contaminés.
+DTEND:20260519T153000Z
+LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission des affaires sociales
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459626
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition\, ouverte à la presse\, de Mme Claire Hédon\, défenseure des droits et Mme Marguerite Aurenche\, cheffe du pôle « Défense des droits de l’enfant » au sein de la direction de la protection des droits et des affaires judiciaires.
+DTEND:20260519T170000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T160000Z
+SUMMARY:Réunion de la commission d'enquête
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460147
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition\, ouverte à la presse\, consacrée à la formation des professionnels et à la prise en charge des victimes de violences sexistes et sexuelles en présence de M. Olivier Blondel\, commissaire de police\, adjoint au conseiller\, en charge de la police judiciaire et du renseignement à la direction générale de la Police nationale\, Mme Charlotte Beluet\, haute fonctionnaire à l’égalité et à la diversité du ministère de la Justice\, et de la gendarmerie nationale. 
+DTEND:20260519T153000Z
+LOCATION:6756 - 3ème étage du Palais Bourbon - Bâtiment Colbert
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la délégation de l'Assemblée nationale aux droits des femmes et à l'égalité des chances entre les hommes et les femmes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459993
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:éventuellement\, suite de l’ordre du jour de l’après-midi.
+DTEND:20260519T200000Z
+LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
+DTSTART:20260519T190000Z
+SUMMARY:Réunion de la commission des lois
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460196
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition de M. Éric Lombard\, ancien ministre de l’économie\, des finances et de la souveraineté industrielle\, énergétique et numérique.
+DTEND:20260519T153000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission d’enquête relative à l’imposition des plus hauts patrimoines et des revenus les plus élevés et à leur contribution au financement des services publics
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460016
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition des représentants de l'Agence européenne de Défense : M. Mathieu Schwander\, chargé des partenariats industriels et des politiques de l’Union et M. Baudouin Heuninckx\, directeur adjoint et chef de l’unité Stratégie industrielle et politiques de l’UE\, direction Industrie \; Synergies et Facilitateurs (ISE).
+DTEND:20260519T133000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260519T120000Z
+SUMMARY:Réunion de la mission d’information commune sur les changements environnementaux et les enjeux de défense
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460218
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Table ronde de chercheurs avec Mme Noémie Rebière\, chercheuse associée à l’IRIS et M. Nicolas Ligneul\, maître de conférences en droit public.
+DTEND:20260519T093000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260519T080000Z
+SUMMARY:Réunion de la mission d’information commune sur les changements environnementaux et les enjeux de défense
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460217
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:ADN Tourisme (fédération des organismes institutionnels du tourisme) :- m. Erven Léon\, président de l’Office de Tourisme de Perros-Guirec et administrateur d’ADN.- m. Christophe Marchais\, directeur délégué.- m. Benoît Artige\, responsable de la communication fédérale.
+DTEND:20260519T133000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260519T123000Z
 SUMMARY:Réunion 
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460216
+UID:OMC_RUANR5L17S2026IDC460205
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:- table ronde :-- union des métiers et des industries de l’Hôtellerie (UMIH) :--- [un attente confirmation].-- groupement des Hôtelleries et Restaurations (GHR) :--- [en attente de la délégation].– confédération des acteurs de tourisme (CAT) :--- m. Nicolas Dayot\, vice-président.
+DTEND:20260519T143000Z
+LOCATION:Salle 1 – 95\, rue de l’Université
+DTSTART:20260519T133000Z
+SUMMARY:Réunion 
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460206
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Questions au GouvernementVote solennel sur le projet de loi\, après engagement de la procédure accélérée\, actualisant la programmation militaire pour les années 2024 à 2030Discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
+DTEND:20260519T140000Z
+LOCATION:Assemblée nationale
+DTSTART:20260519T130000Z
+SUMMARY:Première séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30600
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
+DTEND:20260519T203000Z
+LOCATION:Assemblée nationale
+DTSTART:20260519T193000Z
+SUMMARY:Deuxième séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30601
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Réunion avec l’Institut français de sécurité civile (Ifrasec) : M. Fabien Matras\, ancien député\, coordinateur
+DTEND:20260519T123000Z
+LOCATION:9e Bureau
+DTSTART:20260519T113000Z
+SUMMARY:Réunion - Sapeurs-pompiers\, sécurité civile et gestion des crises
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDFL460100
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de MM. Thomas ROUGIER\, secrétaire général de l’Observatoire des finances et de la gestion publique locales (OFGL)\, Matthieu ROUVEYRE\, avocat en droit public et enseignant-chercheur en droit des collectivités territoriales\, et Yann LE MEUR\, fondateur du cabinet Ressources consultants finances et professeur d’économie et de finances publiques à l’université de Rennes 1\, dans le cadre des travaux du groupe de travail sur le financement des territoires.
+DTEND:20260519T160000Z
+LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
+DTSTART:20260519T150000Z
+SUMMARY:Réunion de la délégation aux collectivités territoriales et à la décentralisation
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460129
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Sous réserve des travaux du Sénat et de sa transmission\, audition de Mme Naïma Moutchou\, ministre des Outre-mer\, et discussion générale sur la proposition de loi organique portant intégration des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (Sénat n° 636 rect. bis\, 2024-2025) (M. Philippe Gosselin\, rapporteur) \;Sous réserve des travaux du Sénat et de sa transmission\, examen des articles de la proposition de loi organique portant intégration des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie  (Sénat n° 636 rect. bis\, 2024-2025) (M. Philippe Gosselin\, rapporteur).
+DTEND:20260519T153000Z
+LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission des lois
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460174
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260519T013915Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Paul Gaudin\, président de l’association Jamais sans Papa\, Mme Marie Saunier\, vice-présidente déléguée\, et Maître Christelle Do Carmo De Sales\, avocate au barreau du Val de Marne.
+DTEND:20260519T153000Z
+LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260519T143000Z
+SUMMARY:Réunion de la commission d'enquête
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460045
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
