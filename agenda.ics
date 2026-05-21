@@ -4,403 +4,234 @@ VERSION:2.0
 PRODID:Mon Agenda Assemblée
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Cyril Zorman\, président de la Confédération générale des SCOP et des SCIC et de Mmes Amélia Tiscornia\, vice-présidente\, et Fatima Bellaredj\, déléguée générale\, sur les questions économiques auxquelles sont confrontés les acteurs de l’économie sociale et solidaire.
-DTEND:20260520T082500Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:La répartition des dépenses entre l’assurance maladie obligatoire et l’assurance maladie complémentaire (MM. Thibault Bazin\, Thierry Frappé et Jérôme Guedj\, rapporteurs)– table ronde réunissant les organisations syndicales :- Confédération générale du travail (CGT) – délégation à venir \;- Confédération générale du travail-force ouvrière (CGT-FO) – M. David Ollivier-Lannuzel\, administrateur au conseil de la Caisse nationale de l’assurance maladie (Cnam) \;- Confédération française de l’encadrement - Confédération générale des cadres (CFE-CGC) – M. Philippe Baux\, délégué national pour la protection sociale\, et M. Théo Dagan\, chargé d’études au service de l’économie et de la protection sociale \;- Confédération française des travailleurs chrétiens (CFTC) – M. Léonard Guillemot\, chef de file pour la protection sociale\, et Mme Lara Lefrançois\, conseillère technique pour la protection sociale.
+DTEND:20260521T170000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260521T160000Z
+SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460247
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition d'Amnesty international (référent Afrique australe) - présentation du rapport annuel sur la situation des droits humains dans le monde et du rapport annuel sur l'Afrique du sud
+DTEND:20260521T100000Z
+LOCATION:2è Bureau
+DTSTART:20260521T090000Z
+SUMMARY:Réunion de France-Afrique du Sud
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460231
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de représentants :De la police nationale : Mme Virginie Brunner\, directrice générale adjointe de la police nationale\, et Mme Valérie Maureille\, directrice zonale de la police nationale Nord \;De la gendarmerie nationale : M. le général de corps d’armée Bruno Arviset\, major général adjoint de la gendarmerie nationale\, M. le général de corps d’armée François Agostini\, commandant de la région de gendarmerie des Hauts-de-France\, et M. le colonel Ronan Lelong\, chef du bureau de la synthèse budgétaire à la direction générale de la gendarmerie nationale \;De la gendarmerie maritime : M. le général de division Régis Blanchard\, commandant de la gendarmerie maritime\, et Mme la colonelle Françoise Poulain\, commandante du groupement de la gendarmerie maritime de la Manche et de la mer du Nord.
+DTEND:20260521T083000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
-DTSTART:20260520T070500Z
-SUMMARY:Réunion de la commission des finances
+DTSTART:20260521T073000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460115
+UID:OMC_RUANR5L17S2026IDC460037
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition\, en application de l’article 13 de la Constitution\, de M. Emmanuel Moulin\, dont la nomination comme Gouverneur de la Banque de France est proposée par le Président de la République\, puis vote sur cette proposition de nomination (M. Philippe Brun\, rapporteur).
-DTEND:20260520T112000Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, de :M. le contrôleur général Stéphane Contal\, directeur départemental des services d’incendie et de secours du Pas-de-Calais \;M. le contrôleur général François Vallier\, directeur départemental des services d’incendie et de secours du Nord \;Mme Anne Badonnel\, adjointe au directeur général de la sécurité civile et de la gestion des crises (DGSCGC).
+DTEND:20260521T103000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
-DTSTART:20260520T090000Z
-SUMMARY:Réunion de la commission des finances
+DTSTART:20260521T093000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460116
+UID:OMC_RUANR5L17S2026IDC460038
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Examen de la proposition de loi visant à favoriser la création et la reprise d’entreprises sous forme de sociétés coopératives et participatives et de sociétés coopératives d’intérêt collectif (n° 2603) (M. Michel Castellani\, rapporteur).
-DTEND:20260520T142000Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Table-ronde\, ouverte à la presse\, réunissant les représentants des organisations syndicales :Alliance Police Nationale : MM. Arnaud Roger et Guillaume Sarrazin \;Alternative Police CFDT : MM. Frédéric Geindrie et Benjamin Camboulives (en visioconférence) \;Unité SGP Police-FO (UN1TÉ) : MM. Mickaël Stoinski et Marc Musiol \;UNSA Police : MM. Jérôme Bizeur et Damien Compagnon.
+DTEND:20260521T133000Z
 LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
-DTSTART:20260520T130000Z
-SUMMARY:Réunion de la commission des finances
+DTSTART:20260521T123000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460117
+UID:OMC_RUANR5L17S2026IDC460039
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Commission d’évaluation des politiques publiques relative à l’exécution budgétaire de la mission Solidarité\, insertion et égalité des chances : audition de M. Jean-Pierre Farandou\, ministre du travail et des solidarités\, et de Mmes Stéphanie Rist\, ministre de la santé\, des familles\, de l’autonomie et des personnes handicapées\, et Aurore Bergé\, ministre déléguée auprès du Premier ministre\, chargée de l'égalité entre les femmes et les hommes et de la lutte contre les discriminations.
-DTEND:20260520T163500Z
-LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
-DTSTART:20260520T150000Z
-SUMMARY:Réunion de la commission des finances
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition de M. Davy Rimane\, député de la deuxième circonscription de la Guyane\, président de la Délégation aux Outre-mer de l’Assemblée nationale
+DTEND:20260521T120000Z
+LOCATION:Mansart
+DTSTART:20260521T110000Z
+SUMMARY:Réunion de la mission d’évaluation de la politique du logement social dans les Outre-mer
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460118
+UID:OMC_RUANR5L17S2026IDC460238
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:éventuellement\, suite de l’ordre du jour du matin.
-DTEND:20260520T140000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T130000Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Table ronde sur la situation du logement et de l’habitat à Mayotte\, réunissant\, pour Solidarités International\, M. François Flor\, coordinateur terrain de la zone Mayotte auprès de Solidarités International\, Mme Mounira Ahmed Houmadi\, agente mobilisation communautaire et M. Simon Rialland\, responsable du programme Abris \; pour l’association Kaja Kaona\, M. Pierre Gabillaud\, coordinateur de projets\, Mme Camille Hiolin\, architecte\, chargée de Développement Tiers-lieu et Mme Aurore Neel\, membre fondatrice \; et pour l’association Actes et Cités\, M. Cyrille Hanappe\, président\, et Mme Agathe Korganow\, cheffe de mission à Mayotte.
+DTEND:20260521T140000Z
+LOCATION:Salon Mansart – 101 rue de l'Université\, Rez-de-chaussée
+DTSTART:20260521T130000Z
+SUMMARY:Réunion de la mission d’évaluation de la politique du logement social dans les Outre-mer
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460097
+UID:OMC_RUANR5L17S2026IDC460239
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde sur le thème « Quel bilan tirer des vingt dernières années de politique de recherche en France ? » réunissant M. Fabrice Kordon\, coprésident de l’assemblée des directions de laboratoires (ADL)\, et M. Pierre Rabu\, membre du bureau\, M. Édouard Kaminski\, président du conseil de la recherche et de l’innovation de France Universités\, M. Didier Samuel\, président-directeur général de l’institut national de la santé et de la recherche médicale (Inserm)\, Mme Carole Caranta\, directrice générale déléguée science et innovation de l’institut national de recherche pour l’agriculture\, l’alimentation et l’environnement (Inrae)\, et M. Bruno Sportisse\, président-directeur général de l’institut national de recherche en informatique et en automatique (Inria) \;Désignation de rapporteurs sur la proposition de loi visant à réformer les bourses sur critères sociaux et lutter contre la précarité étudiante (n° 2710) et la proposition de loi\, adoptée par le Sénat\, relative à l’instauration d’une présomption d’utilisation des contenus culturels par les fournisseurs d’intelligence artificielle (n° 2634)Examen de la proposition de loi visant à encourager les partenariats entre les collectivités territoriales et les personnes morales de droit privé en matière d’acquisition\, de réalisation ou de rénovation d’équipements sportifs (n° 2667) (M. Joël Bruneau\, rapporteur).
-DTEND:20260520T110000Z
-LOCATION:Salle 6242 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T073000Z
-SUMMARY:Réunion de la commission des affaires culturelles et de l'éducation
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460096
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition commune\, ouverte à la presse\, de M. David Amiel\, ministre de l’action et des comptes publics\, et Mme Anne Le Hénanff\, ministre déléguée auprès du ministre de l’économie\, des finances et de la souveraineté industrielle\, énergétique et numérique\, chargée de l’intelligence artificielle et du numérique.
-DTEND:20260520T154500Z
-LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T144500Z
-SUMMARY:Réunion de la commission d'enquête sur les dépendances structurelles et les vulnérabilités systémiques dans le secteur du numérique et les risques pour l’indépendance de la France
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460230
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Union syndicale des magistrats (USM) – M. Ludovic Friat\, président et Mme Alexandra Vaillant\, secrétaire générale.Unité magistrats – Mme Delphine Blot\, déléguée générale adjointe d’Unité Magistrats et Vice-présidente en charge de l’instruction au TJ de Paris et M. Eric Neveu\, délégué d’Unité Magistrats et substitut général près la Cour d’appel de Riom.
-DTEND:20260520T130000Z
-LOCATION:1er Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T120000Z
-SUMMARY:Réunion de la mission d’information commune sur les suites à donner à l’affaire Le Scouarnec
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460232
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Direction générale de la gendarmerie nationale (DGGN) – M. le Général de division Dominique Lambert\, sous-directeur de la police judiciaire \; M. le Colonel Rémy Moulinier \; Mme le Lieutenant-Colonel Laura Barbuto et M. le Lieutenant-Colonel Eddy Benesteau.
-DTEND:20260520T141500Z
-LOCATION:1er Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T131500Z
-SUMMARY:Réunion de la mission d’information commune sur les suites à donner à l’affaire Le Scouarnec
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460233
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:M. Jean Baptiste Parlos\, premier président de la cour d'appel de Rennes \; Mme Laurence Delhaye\, première présidente de chambre en charge du service criminel à la cour d’appel de Rennes \; Mme Aude Buresi\, présidente de chambre de la cour d’appel de Rennes\, ayant présidé le procès Le Scouarnec \; M. Ronan Le Clerc\, secrétaire général du parquet général à la cour d’appel de Rennes\; M. Jean-François Ochrymczuk\, vice-procureur au tribunal de Vannes \; et Mme Cécile Jolie\, directrice de greffe.
-DTEND:20260520T151500Z
-LOCATION:1er Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T141500Z
-SUMMARY:Réunion de la mission d’information commune sur les suites à donner à l’affaire Le Scouarnec
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460234
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Xavier Brunetière\, directeur de la protection et de la sécurité de l’État au Secrétariat général de la défense et de la sécurité nationale (SGDSN) et du général de division aérienne Nicolas Leverrier\, directeur de la protection des installations\, moyens et activités de la défense (DPID) au Ministère des Armées et des Anciens combattants (cycle « Guerre hybride et continuum de conflictualités »).
-DTEND:20260520T085500Z
-LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260520T070000Z
-SUMMARY:Réunion de la commission de la défense nationale et des forces armées
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460108
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Emmanuel Lebrun-Damiens\, directeur de la communication et de la presse au Ministère de l’Europe et des Affaires étrangères\, et de Mme Anne-Sophie Dhiver\, cheffe de service adjointe du Service de vigilance et de protection contre les ingérences numériques étrangères (VIGINUM) du SGDSN (cycle « Guerre hybride et continuum de conflictualités »).
-DTEND:20260520T103500Z
-LOCATION:Salle 4123 –  9 rue de Bourgogne\, 1er étage
-DTSTART:20260520T090000Z
-SUMMARY:Réunion de la commission de la défense nationale et des forces armées
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460109
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de Mme Julia Maris\, secrétaire générale\, M. Laurent Nery\, directeur des analyses de marché\, et M. Guillaume Gillet\, vice-président en charge des affaires publiques du groupe Engie \;Nomination d’un rapporteur sur la proposition de loi visant à réduire les risques sanitaires liés aux contaminations au cadmium dans l’alimentation (n° 2678) \;Sous réserve de son inscription à l’ordre du jour\, nomination d’un rapporteur sur la proposition de loi\, adoptée par le Sénat\, visant à lever dans les territoires d’outre-mer l’interdiction de recherche\, d’exploration et d’exploitation des hydrocarbures (n° 2415).
-DTEND:20260520T083500Z
-LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T070500Z
-SUMMARY:Réunion de la commission des affaires économiques
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460023
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:- examen de la proposition de loi pour la mobilisation de l’habitat existant en réponse à la crise du logement (n° 2674) (Mme Valérie Létard\, rapporteure).En application de l’article 86 alinéa 5 du Règlement de l’Assemblée nationale\, la date limite de dépôt des amendements a été fixée au samedi 16 mai\, à 17 heures.Les amendements doivent être déposés à l’adresse http://eloi  depuis le réseau de l’Assemblée nationale ou https://portail.assemblee-nationale.fr depuis Internet.
-DTEND:20260520T100500Z
-LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T084000Z
-SUMMARY:Réunion de la commission des affaires économiques
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460024
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:- auditionMadame Catherine Becchetti-Bizot\, médiatrice de l'éducation nationale et de l'enseignement supérieur.
-DTEND:20260520T130000Z
-LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
-DTSTART:20260520T120000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460225
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:- auditionM. Emmanuel Suard\, président de section à la 3e chambre de la Cour des comptes\, Mme Ekrame Boubtane\, conseillère référendaire en service extraordinaire à la 3e chambre et Mme Céline Prévost-Mouttalib\, conseillère référendaire à la 3e chambre.
-DTEND:20260520T163000Z
-LOCATION:Salle 6549 – Palais Bourbon\, 2ème étage
-DTSTART:20260520T153000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460226
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Yves Le Clair\, magistrat de liaison (Italie-Malte)
-DTEND:20260520T073000Z
-LOCATION:8ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T063000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460227
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Alain Grellet\, magistrat de liaison (Colombie) et de Mme Meggie Choutia\, magistrate de liaison (Brésil)
-DTEND:20260520T150000Z
-LOCATION:Salle 6566 – Palais Bourbon\, 2ème étage
-DTSTART:20260520T140000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460228
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde\, ouverte à la presse\, sur les voies d’un capitalisme responsable dans un contexte géopolitique de rivalités souveraines et permettant de conduire les grandes entreprises à participer davantage à la résolution des enjeux systémiques actuels\, avec la participation de M. Jean-Dominique Senard\, président du conseil d’administration du groupe Renault\, M. Frederic Trinel\, co-fondateur et co-dirigeant de la licorne EcoVadis\, et M. Patrick d’Humières\, porte-parole de la démarche Fair Corporate Coalition \;Nomination d’un rapporteur sur la proposition de résolution européenne visant à renforcer la protection de l’Union face aux effets des législations extraterritoriales étrangères (n° 2739).
-DTEND:20260520T090500Z
-LOCATION:Salle 4223 – Commission des affaires étrangères\,  9 rue de Bourgogne\, 2ème étage
-DTSTART:20260520T070000Z
-SUMMARY:Réunion de la commission des affaires étrangères
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460140
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de Madame Claire Hédon\, Défenseure des droits\, sur son rapport annuel d’activité \;Examen\, selon la procédure de législation en commission\, de la proposition de loi portant abrogation du Code noir (n° 1817) (M. Max Mathiasin\, rapporteur) \;Sous réserve de sa transmission\, nomination d’un rapporteur sur le projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l’ordre public\, la sécurité et la tranquillité de nos concitoyens (Sénat n° 472\, 2025-2026) \;Examen\, en application de l’article 88 du Règlement\, des amendements à la proposition de loi organique portant intégration des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-Calédonie (Sénat n° 636 rect. bis\, 2024-2025) (M. Philippe Gosselin\, rapporteur).
-DTEND:20260520T104000Z
-LOCATION:6ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T070000Z
-SUMMARY:Réunion de la commission des lois
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460145
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Nomination de rapporteurs sur :La proposition de loi visant à renforcer la protection des mineurs en formation professionnelle (n° 2707) \;La proposition de loi visant à l’adaptation du régime des intermittents du spectacle dans les départements et régions d’outre-mer et les collectivités d’outre-mer (n° 2729) \;Création d’une mission d’information \;Examen du projet de loi\, adopté en deuxième lecture par le Sénat\, portant transposition de l’avenant n° 3 du 25 février 2026 au protocole d’accord du 10 novembre 2023 relatif à l’assurance chômage (n° 2805) (M. Thibault Bazin\, rapporteur) \;Examen de la proposition de loi\, adoptée par le Sénat\, portant pérennisation du contrat de professionnalisation expérimental (n° 1674) (M. Stéphane Viry\, rapporteur) \;Examen de la proposition de loi visant à garantir un revenu mensuel à tout nouveau retraité dès l’entrée en jouissance de la pension de retraite (n° 1725) (M. Jean Luc Warsmann\, rapporteur).
-DTEND:20260520T110000Z
-LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260520T073500Z
-SUMMARY:Réunion de la commission des affaires sociales
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460146
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde\, à huis clos\, réunissant des parents protecteurs.
-DTEND:20260520T140000Z
-LOCATION:Salle 6237 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T130000Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, réunissant :M. Jean-Luc Viaux\, docteur en psychologie\, professeur des universités \;Mme Christel Durel\, psychotraumatologue\, formatrice au recueil de la parole de l’enfant \;Dr Jean-Marc Ben Kemoun\, psychiatre\, pédopsychiatre\, médecin légiste.
+DTEND:20260521T133000Z
+LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
+DTSTART:20260521T123000Z
 SUMMARY:Réunion de la commission d'enquête
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460148
+UID:OMC_RUANR5L17S2026IDC460150
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de Mme Marie-Claire Martel\, co-auteure du rapport « Engagement bénévole\, cohésion sociale et citoyenneté » de juin 2022 du Conseil économique\, social et environnemental (CESE).
-DTEND:20260520T140000Z
-LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260520T130000Z
-SUMMARY:Réunion de la mission d'évaluation des dispositifs de soutien à l'engagement bénévole de la population active
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Hugo Lemonier\, journaliste indépendant.
+DTEND:20260521T163000Z
+LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
+DTSTART:20260521T153000Z
+SUMMARY:Réunion de la commission d'enquête
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460192
+UID:OMC_RUANR5L17S2026IDC460151
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Yann Queinnec\, délégué général d’Admical\, et Mme Diane Colombani\, directrice juridique et affaires publiques\, accompagnés de M. Matthieu Sainton\, président de l’Alliance pour le mécénat de compétences (AMC)\, et Mme Isabelle Million\, déléguée générale.
-DTEND:20260520T150000Z
-LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260520T140000Z
-SUMMARY:Réunion de la mission d'évaluation des dispositifs de soutien à l'engagement bénévole de la population active
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460193
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de Mme Gwenola Martin\, directrice de la formation professionnelle de la Caisse des dépôts et consignations\, et Mme Cécile Rigole\, responsable du service Partenariats et gouvernance\, accompagnées de Mme Eva Catrin\, conseillère relations institutionnelles.
-DTEND:20260520T160000Z
-LOCATION:Salon Gabriel – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260520T150000Z
-SUMMARY:Réunion de la mission d'évaluation des dispositifs de soutien à l'engagement bénévole de la population active
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460194
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition focus : 2 heures de lien social pour les personnes en perte d’autonomie \;Audition conjointe de M. Maëlig Le Bayon\, directeur général de la Caisse nationale de solidarité pour l’autonomie (CNSA)\, et M. Jean-Benoît Dujol\, directeur général de la cohésion sociale (DGCS).
-DTEND:20260520T073000Z
-LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260520T063000Z
-SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460195
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Serge Castel\, préfet\, délégué interministériel au développement de la Vallée de la Seine (DIDVS).
-DTEND:20260520T133000Z
-LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260520T123000Z
-SUMMARY:Réunion de la mission d’évaluation de la compétitivité des ports français
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460197
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition de M. Michel Fricout\, vice-président du conseil départemental du Calvados\, vice-président de l’Association nationale des ports maritimes territoriaux (ANPMT)\, M. Philippe Deiss\, directeur de Ports de Normandie\, M. Michel Segain\, personnalité qualifiée de l’ANPMT\, ancien président de l’Union maritime et portuaire (UMEP) du Havre\, et Mme Juliette Bas Frébourg\, déléguée générale de l’ANPMT.
-DTEND:20260520T150000Z
-LOCATION:Salon Visconti – 101 rue de l'Université\, Rez-de-chaussée
-DTSTART:20260520T140000Z
-SUMMARY:Réunion de la mission d’évaluation de la compétitivité des ports français
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460198
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde de représentants des écoles d’ingénieurs ISAE-Supaéro : Mme l’IGA Marie-Hélène BAROUX\, Directrice générale et M. Nicolas Gourdain\, Enseignant-chercheur. ENSTA : M. Pierre-Jean COTTALORDA\, Directeur du programme ingénieur généraliste et M. Jean FRANCES\, Enseignant-chercheur.
-DTEND:20260520T153000Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:- audition\, non ouverte à la presse\, du Dr Walter Albardier\, psychiatre et responsable du Centre de ressources pour les intervenants auprès des auteurs de violences sexuelles d’Île-de-France.
+DTEND:20260521T104500Z
 LOCATION:Visioconférence sans salle
-DTSTART:20260520T140000Z
-SUMMARY:Réunion de la mission d’information commune sur les changements environnementaux et les enjeux de défense
+DTSTART:20260521T100000Z
+SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et l'accompagnement des victimes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460219
+UID:OMC_RUANR5L17S2026IDC459740
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Audition\, ouverte à la presse\, de M. Charles de Courson\, député de la Marne\, ancien rapporteur général du budget\, dans le cadre des travaux du groupe de travail sur le financement des territoires.
-DTEND:20260520T144500Z
-LOCATION:Salle 7040 – 103 rue de l'Université\, 2ème sous-sol
-DTSTART:20260520T133500Z
-SUMMARY:Réunion de la délégation aux collectivités territoriales et à la décentralisation
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460130
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Examen de la proposition de loi visant à garantir un revenu mensuel à tout nouveau retraité dès l’entrée en jouissance de la pension de retraite (n° 1725) (M. Jean-Luc Warsmann\, rapporteur)Printemps social de l’évaluation :évaluation « La campagne nationale de vaccination gratuite contre les infections à papillomavirus humains à destination des élèves de cinquième » (article 37 de la loi de financement de la sécurité sociale pour 2024) (M. Michel Lauzzana\, rapporteur) \;évaluation « Le complément de libre choix de mode de garde » (articles 86 de la loi de financement de la sécurité sociale pour 2023 et 100 et 101 de la loi de financement de la sécurité sociale pour 2026) (Mme Sylvie Bonnet\, rapporteure).
-DTEND:20260520T150000Z
-LOCATION:Salle 6351 – Palais Bourbon\, 1ème étage
-DTSTART:20260520T130500Z
-SUMMARY:Réunion de la commission des affaires sociales
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460200
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Réunion du bureau de l'Assemblée parlementaire franco-allemande - Établissement de l’ordre du jour de la séance plénière de l’APFA du 22 juin 2026 - Examen des propositions de texte et des amendements déposés - Examen du rapport de la mission flash sur la mise en œuvre des stratégies pour le développement de l’apprentissage de la langue du partenaire - Rapport sur la coopération parlementaire franco-allemande en 2025 - Points divers
-DTEND:20260520T153000Z
-DTSTART:20260520T143000Z
-SUMMARY:Réunion de l'Assemblée parlementaire franco-allemande
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460187
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde :- aNEM :-- m. Olivier Riffard\, délégué général.-- m. Charles Meiller\, conseiller technique.- aNMSM :-- m. Arnaud Mathieu Maire de Villard-de-Lans\, secrétaire général.-- m. Rémi Ledoux\, responsable juridique.
-DTEND:20260520T133000Z
-LOCATION:8ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T123000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460208
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde :- airbnb :-- m. Nicolas Dissez\, secrétaire général.-- m. Benoît de Daran\, directeur conseil.-- m. Eloïse Foucault\, responsable « Affaires publiques &amp\; gouvernementales Airbnb ».- booking (en visioconférence) :-- m. Alexis Darmois\, directeur des affaires publiques EMEA.-- m. Vanessa Heydorff\, directrice générale France.-- mme Saskia Trine\, conseillère.- expédia :-- m. Daniel Hiribarren\, président de Poplidays et du réseau d'agence Carmen immobilier\, adhérent de l'UNPLV.-- m. Philippe Bauer\, président de l’UNPLV\, au titre d'Expédia.-- m. Pierre Sellin\, conseil de l'UNPLV.
-DTEND:20260520T143000Z
-LOCATION:8ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T133000Z
-SUMMARY:Réunion 
-TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460209
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Table ronde :- aNEL/ANETT :-- m. Philippe Sueur\, président.-- m. Simon Lebeau\, sous-directeur.-- mme Géraldine Leduc\, conseillère.
-DTEND:20260520T093000Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:- audition\, non ouverte à la presse\, de Mme Muriel Réus\, membre du Haut conseil à l’égalité et fondatrice de l’association Femmes avec. 
+DTEND:20260521T111500Z
 LOCATION:Visioconférence sans salle
-DTSTART:20260520T083000Z
-SUMMARY:Réunion 
+DTSTART:20260521T104500Z
+SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et l'accompagnement des victimes
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460207
+UID:OMC_RUANR5L17S2026IDC459741
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Questions au GouvernementDiscussion de la proposition de loi organique portant régularisation des natifs dans le corps électoral pour les élections au congrès et aux assemblées de province de Nouvelle-CalédonieSuite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
-DTEND:20260520T130000Z
-LOCATION:Assemblée nationale
-DTSTART:20260520T120000Z
-SUMMARY:Première séance publique (238e)
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition conjointe\, ouverte à la presse\, réunissant :Mme Sophie Abida \;Mme Christelle Calmet \;Mme Priscilla Majani \;Mme Charlotte Millet \;Mme Cynthia Volget.
+DTEND:20260521T090000Z
+LOCATION:Salle Lamartine – 101 rue de l'Université\, 1er sous-sol
+DTSTART:20260521T080000Z
+SUMMARY:Réunion de la commission d'enquête
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30603
+UID:OMC_RUANR5L17S2026IDC460149
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition\, non ouverte à la presse\, de Mme Héloïse Onumba-Bessonnet\, directrice de l’association Loba.
+DTEND:20260521T081500Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260521T073000Z
+SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et l'accompagnement des victimes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460001
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition\, non ouverte à la presse\, de Mme Violaine Lucas\, directrice générale de Choisir la cause des femmes. 
+DTEND:20260521T090000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260521T081500Z
+SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et l'accompagnement des victimes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459851
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition\, non ouverte à la presse\, de Mmes Margot Civeit\, présidente et Manon Lecuyer\, secrétaire générale de l'Observatoire des violences sexistes et sexuelles dans l'enseignement supérieur. 
+DTEND:20260521T100000Z
+LOCATION:Visioconférence sans salle
+DTSTART:20260521T091500Z
+SUMMARY:Réunion Mission d'information sur le Coût des violences sexistes et sexuelles et l'accompagnement des victimes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC459852
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
 DESCRIPTION:Suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
-DTEND:20260520T203000Z
+DTEND:20260521T080000Z
 LOCATION:Assemblée nationale
-DTSTART:20260520T193000Z
+DTSTART:20260521T070000Z
+SUMMARY:Première séance publique (e)
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDS30605
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
+DTEND:20260521T140000Z
+LOCATION:Assemblée nationale
+DTSTART:20260521T130000Z
 SUMMARY:Deuxième séance publique (e)
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDS30604
+UID:OMC_RUANR5L17S2026IDS30606
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Désignation d’un rapporteur sur la proposition de loi visant à garantir l’interdiction de la vaisselle en plastique dans la restauration collective accueillant du jeune public et liée à la petite enfance (n° 1169) \;Désignation de rapporteurs pour avis sur les articles 20 et 21\, 39\, 41\, 42\, 44\, 46 à 51\, 53 à 62 et 64 à 67 du projet de loi\, adopté par le Sénat\, après engagement de la procédure accélérée\, portant diverses dispositions d’adaptation au droit de l’Union européenne en matière économique\, financière\, environnementale\, énergétique\, d’information\, de transport\, de santé\, d’agriculture et de pêche (n° 2518)\, dont l’examen est délégué par la commission des affaires économiques \;Désignation d’un rapporteur sur le projet de loi cadre\, adopté par le Sénat\, après engagement de la procédure accélérée\, relatif au développement des transports (n° 2740) \;Communication sur la mission flash relative à la décarbonation des poids lourds (MM. Jean-Marie Fiévet et Gérard Leseul\, corapporteurs).
-DTEND:20260520T092500Z
-LOCATION:Salle 6238 – Palais Bourbon\, 2ème sous-sol
-DTSTART:20260520T073000Z
-SUMMARY:Réunion de la commission du développement durable et de l'aménagement du territoire
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Suite de la discussion du projet de loi d’urgence pour la protection et la souveraineté agricoles
+DTEND:20260521T203000Z
+LOCATION:Assemblée nationale
+DTSTART:20260521T193000Z
+SUMMARY:Troisième séance publique (e)
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459923
+UID:OMC_RUANR5L17S2026IDS30607
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Nomination de rapporteurs sur les propositions de résolutions européennes :De M. Alexandre Sabatou et plusieurs de ses collègues portant avis motivé sur la conformité au principe de subsidiarité de la proposition législative de la Commission européenne relative au cadre juridique du 28ème régime pour les entreprises (n° 2771) \;De M. Fabrice Brun et plusieurs de ses collègues visant à abandonner le conditionnement du renouvellement du permis de conduire à une visite médicale obligatoire (n° 2639) \;De M. Emmanuel Maurel et plusieurs de ses collègues relative à la révision de la directive « Services de médias audiovisuels » et à la défense de l’exception culturelle européenne (n° 2741) \;De M. Emmanuel Maurel et plusieurs de ses collègues visant à réviser la définition de l’œuvre européenne (n° 2768) \; De M. Paul Christophle et plusieurs de ses collègues visant à s’opposer à la révision de la directive retour et à assurer une mise en œuvre du Pacte asile et migration respectueuse de la dignité humaine et conforme aux obligations françaises et européennes relatives aux droits humains (n° 2508) \;De M. Vincent Ledoux visant à lutter contre le vol de véhicules et filières criminelles organisées en Europe (n°2738).Nomination de rapporteurs d'information \;Avis motivé sur la conformité au principe de subsidiarité de le proposition législative de la Commission européenne relative au cadre juridique du 28è régime pour les entreprises :  examen de la proposition de résolution européenne de M. Alexandre Sabatou et plusieurs de ses collègues (n°2771) (NNN\, rapporteur).
-DTEND:20260520T145500Z
-LOCATION:Salle 4325 – Commission des affaires européennes\,  9 rue de Bourgogne\, 3ème étage
-DTSTART:20260520T130000Z
-SUMMARY:Réunion de la commission des affaires européennes
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition de M. Nicolas Dufourcq\, directeur général de BPI France.
+DTEND:20260521T153000Z
+LOCATION:Salle 6241 – Palais Bourbon\, 2ème sous-sol
+DTSTART:20260521T143000Z
+SUMMARY:Réunion de la commission d’enquête sur la prédation des capacités productives françaises par les fonds spéculatifs
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC459925
+UID:OMC_RUANR5L17S2026IDC460172
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260520T181746Z
-DESCRIPTION:Printemps social de l'évaluationAuditions de M. Thibault Bazin et Mme Océane Godard\, rapporteurs d’une mission d’évaluation sur les cotisations et contributions applicables à la rémunération des apprentis (recettes – article 22 de la LFSS pour 2025)-- Table ronde réunissant les organisations représentatives des salariés :- Confédération générale du travail (CGT) – Mme Magali Bourdon\, conseillère confédérale\, M. Alexis Jeamet\, conseiller confédéral \;- Confédération générale du travail - force ouvrière (CGT-FO) – M. Eric Gautron\, secrétaire confédéral en charge de la protection sociale collective\, M. Yanis Aubert\, secrétaire confédéral en charge de l’emploi et des retraites \;- Confédération française de l’encadrement - confédération générale des cadres (CFE-CGC) – M. Jean-François Foucard\, secrétaire national en charge des Parcours professionnels\, M. Clément Delaunay\, chargé d’études formation \;- Confédération française des travailleurs chrétiens (CFTC) – Mme Aline Mougenot\, cheffe de file confédérale formation professionnelle et apprentissage.
-DTEND:20260520T140000Z
-LOCATION:2ème Bureau – Palais Bourbon\, 1er étage
-DTSTART:20260520T130000Z
-SUMMARY:Réunion de la mission d'évaluation et de contrôle des lois de financement de la sécurité sociale
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition du docteur Anna Boctor\, présidente du syndicat Jeunes médecins\, accompagnée des docteurs Jean Christophe Lecomte\, premier vice président\, et Romain Sayous\, vice-président et trésorier par intérim.
+DTEND:20260521T083000Z
+LOCATION:salle 8838
+DTSTART:20260521T073000Z
+SUMMARY:Réunion de la mission d’évaluation des conditions de travail des étudiants en médecine
 TRANSP:TRANSPARENT
-UID:OMC_RUANR5L17S2026IDC460176
+UID:OMC_RUANR5L17S2026IDC460240
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition du professeur Guy Vallancien\, membre de l’Académie nationale de médecine\, auteur d’un rapport sur la formation médicale initiale (2025)\, ancien membre du conseil scientifique de l’OPECST.
+DTEND:20260521T093000Z
+LOCATION:salle 8838
+DTSTART:20260521T083000Z
+SUMMARY:Réunion de la mission d’évaluation des conditions de travail des étudiants en médecine
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460241
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition de Mme Samia Benallah\, maître de conférence\, université de Reims\, sur les conditions de travail à l'hôpital.
+DTEND:20260521T103000Z
+LOCATION:salle 8838
+DTSTART:20260521T093000Z
+SUMMARY:Réunion de la mission d’évaluation des conditions de travail des étudiants en médecine
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460242
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260521T015126Z
+DESCRIPTION:Audition\, ouverte à la presse\, de M. Olivier Bergeau\, chef de la division Stratégie\, communication et affaires juridiques au sein de la direction générale de la Migration et des Affaires intérieures de la Commission européenne (DG HOME) (en visioconférence).
+DTEND:20260521T150000Z
+LOCATION:Salle 6350 – Palais Bourbon\, 1er étage
+DTSTART:20260521T140000Z
+SUMMARY:Réunion de la commission d'enquête relative aux conséquences des accords du Touquet sur l'action publique et le respect des libertés et droits fondamentaux des personnes migrantes
+TRANSP:TRANSPARENT
+UID:OMC_RUANR5L17S2026IDC460044
 END:VEVENT
 METHOD:PUBLISH
 END:VCALENDAR
